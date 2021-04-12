@@ -1,15 +1,6 @@
-# hidden files
-.*
-!.github
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
-# bundler cache
-_site
-vendor
-Gemfile.lock
-
-# rubygem
-*.gem
-
-# npm dependencies
-node_modules
-package-lock.json
+.DS_Store

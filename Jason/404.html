@@ -1,21 +1,33 @@
 ---
-layout: page
-title: "404: Page not found"
 permalink: /404.html
-
-redirect_from:
-  - /norobots/
-  - /assets/
-  - /posts/
-
-dynamic_title: true
+layout: default
 ---
 
-<div class="lead">
-  <p>Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. </p>
-  <p>
-    <a href="{{ '/' | relative_url }}">Head back Home</a>
-    to try finding it again, or search for it on the
-    <a href="{{ 'archives' | relative_url }}">Archives page</a>.
-  </p>
+<style media="screen" type="text/css">
+    .container {
+        margin: 10px auto;
+        max-width: 600px;
+        text-align: center;
+    }
+
+    h1 {
+        margin: 30px 0;
+        font-size: 4em;
+        line-height: 1;
+        letter-spacing: -1px;
+    }
+</style>
+
+<div>
+    <h1>404</h1>
+
+    <p>
+        <strong>Page not found :(</strong>
+    </p>
+    <p>Sorry! The requested page could not be found.</p>
+    <a href="/">
+        <button>
+            <strong>Go Home</strong>
+        </button>
+    </a>
 </div>

@@ -1,30 +1,38 @@
-<!--
-  The Footer
--->
+<hr />
 
-<footer class="d-flex w-100 justify-content-center">
-  <div class="d-flex justify-content-between align-items-center">
-    <div class="footer-left">
-      <p class="mb-0">
-        © {{ 'now' | date: "%Y" }}
-        <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
-        {% if site.data.rights.brief %}
-        <span data-toggle="tooltip" data-placement="top"
-          title="{{ site.data.rights.verbose }}">{{ site.data.rights.brief }}</span>
-        {% endif %}
-      </p>
+<footer class="footer">
+    <div class="pure-menu pure-menu-horizontal">
+        <ul>
+            <li class="pure-menu-item">
+                <a class="pure-menu-link" href="/">
+                    <i class="fas fa-home"></i>
+                    <span class="md-display">Home</span>
+                </a>
+            </li>
+            <li class="pure-menu-item">
+                <a class="pure-menu-link" href="https://twitter.com/{{site.twitter}}">
+                    <i class="fab fa-twitter"></i>
+                    <span class="md-display">Twitter</span>
+                </a>
+            </li>
+            <li class="pure-menu-item">
+                <a class="pure-menu-link" href="https://github.com/{{site.github}}">
+                    <i class="fab fa-github"></i>
+                    <span class="md-display">GitHub</span>
+                </a>
+            </li>
+            <li class="pure-menu-item">
+                <a class="pure-menu-link" href="mailto:{{site.email}}">
+                    <i class="fas fa-paper-plane"></i>
+                    <span class="md-display">E-mail</span>
+                </a>
+            </li>
+            <!-- <li class="pure-menu-item">
+                <a class="pure-menu-link" href="https://github.com/{{site.repository}}">
+                    <i class="fas fa-code"></i>
+                    <span class="md-display">Source Code</span>
+                </a>
+            </li> -->
+        </ul>
     </div>
-
-    <div class="footer-right">
-      <p class="mb-0">
-        Powered by
-        <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a>
-        with
-        <a href="https://github.com/cotes2020/jekyll-theme-chirpy"
-          target="_blank" rel="noopener">Chirpy</a>
-        theme.
-      </p>
-    </div>
-
-  </div> <!-- div.d-flex -->
 </footer>

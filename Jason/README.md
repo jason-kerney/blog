@@ -1,217 +1,186 @@
-# Chirpy
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/brennanbrown/purelog">
+    <img src="/assets/profile.png" alt="Logo" width="120" height="120">
+  </a>
 
-Language: English | [简体中文](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/README.zh-CN.md)
+  <h3 align="center">Purelog Theme for Jekyll</h3>
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)](https://rubygems.org/gems/jekyll-theme-chirpy)
-[![Build Status](https://github.com/cotes2020/jekyll-theme-chirpy/workflows/build/badge.svg?branch=master&event=push)](https://github.com/cotes2020/jekyll-theme-chirpy/actions?query=branch%3Amaster+event%3Apush)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8220b926db514f13afc3f02b7f884f4b)](https://app.codacy.com/manual/cotes2020/jekyll-theme-chirpy?utm_source=github.com&utm_medium=referral&utm_content=cotes2020/jekyll-theme-chirpy&utm_campaign=Badge_Grade_Dashboard)
-[![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy.svg)](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE)
-[![996.icu](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu)
+  <p align="center">
+    A responsive, well-designed template to help you get started on your next blog or website.
+    <br />
+    <a href="https://github.com/brennanbrown/purelog"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <strong><a href="https://purelog.netlify.app">View Demo</a></strong>
+    ·
+    <a href="https://github.com/brennanbrown/purelog/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/brennanbrown/purelog/issues">Request Feature</a>
+  </p>
+</p>
 
-A minimal, sidebar, responsive web design Jekyll theme that focuses on text presentation. Designed to help you record and share your knowledge easily. [Live Demo »](https://chirpy.cotes.info)
+<!-- BADGES -->
+<p align="center">
+<a href="https://app.netlify.com/sites/purelog/deploys"><img src="https://api.netlify.com/api/v1/badges/062e333f-9e9d-440d-9b40-16d11959793d/deploy-status" alt="Netlify Status"></a>
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/brennanbrown/purelog"> 
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/brennanbrown/purelog"> 
+<a href="https://github.com/brennanbrown/purelog/search?l=html"><img alt="GitHub top language" src="https://img.shields.io/github/languages/top/brennanbrown/purelog"></a>
+<a href="https://github.com/brennanbrown/purelog/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/brennanbrown/purelog"></a> 
+<a href="https://github.com/brennanbrown/purelog/commits/main"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brennanbrown/purelog"></a>
+<a href="https://github.com/brennanbrown/purelog/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/brennanbrown/purelog"></a> 
+<a href="https://purelog.netlify.app"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline%21&label=Status&up_color=darkgreen&up_message=Online%21&url=https%3A%2F%2Fpurelog.netlify.app"></a>
+<br />
+<a href="https://github.com/brennanbrown?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/brennanbrown?label=Follow%20Me%21&style=social"></a>
+<a href="https://github.com/brennanbrown/purelog/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/brennanbrown/purelog?label=Watch%21&style=social"></a>
+<a href="https://github.com/brennanbrown/purelog/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/brennanbrown/purelog?label=Star%21&style=social"> </a>
+<a href="https://github.com/brennanbrown/purelog/network/members"><img alt="GitHub forks"src="https://img.shields.io/github/forks/brennanbrown/purelog?label=Fork%21&style=social"></a>
+</p>
 
-[![Devices Mockup](https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/devices-mockup.png)](https://chirpy.cotes.info)
+<!-- ABOUT THE PROJECT -->
 
-## Features
+## About The Project
 
-- Pinned Posts
-- Configurable theme mode
-- Double-level Categories
-- Last modified date for posts
-- Table of Contents
-- Automatically recommend related posts
-- Syntax highlighting
-- Mathematical expressions
-- Mermaid diagram & flowchart
-- Search
-- Atom Feeds
-- Disqus Comments
-- Google Analytics
-- GA Pageviews reporting (Advanced)
-- SEO and Performance Optimization
+**Purelog** is a responsive, sidebar theme for the popular JAMstack generator Jekyll that only uses the minimal [**Pure.css** framework](https://github.com/pure-css/pure) (hence the name!), while still following the best practices possible for accessibility and search-engine optimization.
 
-## Prerequisites
+I created this after finishing [Watery](https://github.com/brennanbrown/watery) (which this theme is built off of), as a way to add more functionality and design while still remaining as lightweight as possible.
 
-Follow the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll` and `Bundler`.
+This project is aimed towards those looking for an interesting theme for Jekyll that has features that aren't found commonly elsewhere, specifically having separate sections dedicated towards: blogging, note-taking, and daily journal entries.
+
+![Purelog Screen Shot](https://i.postimg.cc/NfxJvZgx/purelog2.png)
+
+### Features
+
+Here are a few interesting features of this Jekyll theme:
+
+- A fully customizable and empty `_BLANK_config.yml` to make getting up-and-running easy.
+- A speedy, on-site search function using [Simply Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search).
+- Custom collections for different types of material (note-taking, journal writing, etc.)
+- An auto-generating archive page that displays all entries from _all_ collections.
+- Auto-generating tags and categories pages.
+- Having a `_pages` collection for easier organization.
+- An author bio at the end of each post. (Located in `_inclues/author.html`)
+- Full Rouge support for syntax highlighting. (Currently using `base16.solarized.light`)
+- Auto-generated RSS feed, sitemap, accessibility features, and search-engine optimization.
 
 ## Installation
 
-There are two ways to get the theme:
+### Prerequisites
 
-- **Install from RubyGems** - Easy to update, isolate irrelevant project files so you can focus on writing.
-- **Fork on GitHub** - Convenient for custom development, but difficult to update, only suitable for web developers.
+Jekyll requires the following:
 
-### Installing the Theme Gem
+- Ruby version **2.5.0** or higher
+- RubyGems
+- GCC and Make
 
-Add this line to your Jekyll site's `Gemfile`:
+See [Requirements](https://jekyllrb.com/docs/installation/#requirements) for guides and details.
 
-```ruby
-gem "jekyll-theme-chirpy"
+### Instructions
+
+1. Install all [prerequisites](https://jekyllrb.com/docs/installation/).
+2. Install the jekyll and bundler [gems](https://jekyllrb.com/docs/ruby-101/#gems).
+
+```
+gem install jekyll bundler
 ```
 
-And add this line to your Jekyll site's `_config.yml`:
+3. Clone this repository.
 
-```yaml
-theme: jekyll-theme-chirpy
+```
+git clone https://github.com/brennanbrown/purelog.git
 ```
 
-And then execute:
+4. Change into your new directory.
 
-```console
-$ bundle
+```
+cd purelog
 ```
 
-Finally, copy the required files from the theme's gem (for detailed files, see [starter project][starter]) to your Jekyll site.
+5. Install gems from the `Gemfile`.
 
-> **Hint**: To locate the installed theme’s gem, execute:
->
-> ```console
-> $ bundle info --path jekyll-theme-chirpy
-> ```
-
-Or you can [**use the starter template**][use-starter] to create a Jekyll site to save time copying files from theme's gem. We have prepared everything for you there!
-
-### Fork on GitHub
-
-[Fork **Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork) on GitHub and then clone your fork to local. (Please note that the default branch code is in development.  If you want the blog to be stable, please switch to the [latest tag](https://github.com/cotes2020/jekyll-theme-chirpy/tags) and start writing.)
-
-Install gem dependencies by:
-
-```console
-$ bundle
+```
+bundle install
 ```
 
-And then execute:
+6. Build the site and make it available on a local server.
 
-```console
-$ bash tools/init.sh
+```
+bundle exec jekyll serve
 ```
 
-> **Note**: If you don't plan to deploy your site on GitHub Pages, append parameter option `--no-gh` at the end of the above command.
+7. Browse to [http://localhost:4000](http://localhost:4000)
 
-What it does is:
+If you encounter any errors during this process, check that you have installed all the prerequisites in [Requirements](https://jekyllrb.com/docs/installation/#requirements).
 
-1. Remove some files or directories from your repository:
-    - `.travis.yml`
-    - files under `_posts`
-    - folder `docs`
+If you still have issues, see [Troubleshooting](https://jekyllrb.com/docs/troubleshooting/#configuration-problems).
 
-2. If you use the `--no-gh` option, the directory `.github` will be deleted. Otherwise, setup the GitHub Action workflow by removing extension `.hook` of `.github/workflows/pages-deploy.yml.hook`, and then remove the other files and directories in folder `.github`.
+## Getting Started
 
-3. Automatically create a commit to save the changes.
+Once you have Jekyll up-and-running, there are only a few steps needed to make this theme your own:
 
-## Usage
+1. Fill out the `_BLANK_config.yml` configuration file and replace the current `_config.yml`
+2. Remove the `example_posts` folder in `_posts`, `_notes`, `_journals` and start writing your own!
+3. Modify or remove the pages in `_pages` to however you see fit.
+4. _(Optional)_ Modify or remove this `README.md` with information about your own project or blog.
+5. _(Optional)_ Modify the CSS files in the `assets` folder to customize the site.
 
-### Configuration
+<!-- ROADMAP -->
 
-Update the variables of `_config.yml` as needed. Some of them are typical options:
+## Roadmap
 
-- `url`
-- `avatar`
-- `timezone`
-- `lang`
+There are several features that I'm still planning to create and integrate, including:
 
-### Running Local Server
+- Create a [Theme Gem](https://jekyllrb.com/docs/themes/#publishing-your-theme)
+- Add easy and automatic buttons to ["Deploy to Netlify"](https://docs.netlify.com/site-deploys/create-deploys/#deploy-to-netlify-button), Heroku, etc.
+- Add Travis continious integration checks
+- Add additional documentation for creating custom collections and auto generated pages
+- Add more example posts and articles
 
-You may want to preview the site contents before publishing, so just run it by:
+See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
-```console
-$ bundle exec jekyll s
-```
-
-Or run the site on Docker with the following command:
-
-```terminal
-$ docker run -it --rm \
-    --volume="$PWD:/srv/jekyll" \
-    -p 4000:4000 jekyll/jekyll \
-    jekyll serve
-```
-
-Open a browser and visit to _<http://localhost:4000>_.
-
-### Deployment
-
-Before the deployment begins, checkout the file `_config.yml` and make sure the `url` is configured correctly. Furthermore, if you prefer the [**project site**](https://help.github.com/en/github/working-with-github-pages/about-github-pages#types-of-github-pages-sites) and don't use a custom domain, or you want to visit your website with a base url on a web server other than **GitHub Pages**, remember to change the `baseurl` to your project name that starting with a slash, e.g, `/project-name`.
-
-Now you can choose ONE of the following methods to deploy your Jekyll site.
-
-#### Deploy on GitHub Pages
-
-For security reasons, GitHub Pages build runs on `safe` mode, which restricts us from using plugins to generate additional page files. Therefore, we can use **GitHub Actions** to build the site, store the built site files on a new branch, and use that branch as the source of the GH Pages service.
-
-Quickly check the files needed for GitHub Actions build:
-
-- Ensure your Jekyll site has the file `.github/workflows/pages-deploy.yml`. Otherwise, create a new one and fill in the contents of the [workflow file][workflow], and the value of the `on.push.branches` should be the same as your repo's default branch name.
-- Ensure your Jekyll site has file `tools/test.sh` and `tools/deploy.sh`. Otherwise, copy them from this repo to your Jekyll site.
-
-And then rename your repoistory to `<GH-USERNAME>.github.io` on GitHub.
-
-Now publish your Jekyll site by:
-
-1. Push any commit to remote to trigger the GitHub Actions workflow. Once the build is complete and successful, a new remote branch named `gh-pages` will appear to store the built site files.
-
-2. Browse to your repo's landing page on GitHub and select the branch `gh-pages` as the [publishing source](https://docs.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) throught _Settings_ → _Options_ → _GitHub Pages_:
-
-    ![gh-pages-sources](https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/posts/20190809/gh-pages-sources.png)
-
-3. Visit your website at the address indicated by GitHub.
-
-#### Deploy on Other Platforms
-
-On platforms other than GitHub, we cannot enjoy the convenience of **GitHub Actions**. Therefore, we should build the site locally (or on some other 3rd-party CI platform) and then put the site files on the server.
-
-Go to the root of the source project, build your site by:
-
-```console
-$ JEKYLL_ENV=production bundle exec jekyll b
-```
-
-Or build the site with Docker by:
-
-```terminal
-$ docker run -it --rm \
-    --env JEKYLL_ENV=production \
-    --volume="$PWD:/srv/jekyll" \
-    jekyll/jekyll \
-    jekyll build
-```
-
-Unless you specified the output path, the generated site files will be placed in folder `_site` of the project's root directory. Now you should upload those files to your web server.
-
-## Documentation
-
-For more details and the better reading experience, please check out the [tutorials on demo site](https://chirpy.cotes.info/categories/tutorial/). In the meanwhile, a copy of the tutorial is also available on the [Wiki](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+<!-- CONTRIBUTING -->
 
 ## Contributing
 
-The old saying, "Two heads are better than one." Consequently, welcome to report bugs, improve code quality or submit a new feature. For more information, see [contributing guidelines](.github/CONTRIBUTING.md).
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-## Credits
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-This theme is mainly built with [Jekyll](https://jekyllrb.com/) ecosystem, [Bootstrap](https://getbootstrap.com/), [Font Awesome](https://fontawesome.com/) and some other wonderful tools (their copyright information can be found in the relevant files).
-
-:tada: Thanks to all the volunteers who contributed to this project, their GitHub IDs are on [this list](https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors). Also, I won't forget those guys who submitted the issues or unmerged PR because they reported bugs, shared ideas or inspired me to write more readable documentation.
-
-Last but not least, thank [JetBrains][jb] for providing the open source license.
-
-## Sponsoring
-
-If you like this theme or find it helpful, please consider sponsoring me, because it will encourage and help me better maintain the project, I will be very grateful!
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ff813f?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/coteschung)
-[![Wechat Pay](https://img.shields.io/badge/-Tip%20Me%20on%20WeChat-brightgreen?logo=wechat&logoColor=white)][cn-donation]
-[![Alipay](https://img.shields.io/badge/-Tip%20Me%20on%20Alipay-blue?logo=alipay&logoColor=white)][cn-donation]
+<!-- LICENSE -->
 
 ## License
 
-This work is published under [MIT](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE) License.
+Distributed under the MIT License. You can use this project however you see fit without needing to give attribution.
 
-[starter]: https://github.com/cotes2020/chirpy-starter
-[use-starter]: https://github.com/cotes2020/chirpy-starter/generate
-[workflow]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/.github/workflows/pages-deploy.yml.hook
+See `LICENSE` for more information.
 
-<!-- ReadMe links -->
+## Resources
 
-[jb]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
-[cn-donation]: https://cotes.gitee.io/alipay-wechat-donation/
+While creating this theme, I came across a lot of helpful and hard-to-find resources. If you'd like to dive deeper into Jekyll, check them out:
+
+- Jumping Into Jekyll: https://dev.to/brennan/jumping-into-jekyll-4o9h
+- Jekyll Cheatsheet: https://devhints.io/jekyll
+- Course on Jekyll: https://learn-the-web.algonquindesign.ca/topics/jekyll/
+- Jekyll for Designers: http://simpleprimate.com/jekyll-for-designers/index.html
+- Dynamic Copyright on Jekyll: https://michaelsoolee.com/jekyll-copyright/
+- Creating breadcrumbs in Jekyll: https://jekyllcodex.org/without-plugin/breadcrumbs/
+- Display all items from ALL collections: https://stackoverflow.com/questions/31171041/listing-all-collections-in-jekyll
+
+### Other Resources
+
+- For markdown previews: https://jaspervdj.be/lorem-markdownum/
+- Case Study on webfont performance: https://www.keycdn.com/blog/web-font-performance
+- An extensive `.gitignore`: https://miguelmota.com/bytes/extensive-gitignore/
+
+## Credit
+
+[**Pure.css**](https://purecss.io/) was created by the [Pure CSS](https://github.com/pure-css) group.
+
+[**Simple Jekyll Search**](https://github.com/christian-fei/Simple-Jekyll-Search) was created by [Christian Fei](https://github.com/christian-fei).
+
+Various notes and ideas were taken from [**Simply Jekyll**](https://github.com/raghuveerdotnet/simply-jekyll) by [Raghuveer S.](https://github.com/raghuveerdotnet).
