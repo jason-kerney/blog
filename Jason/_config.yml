@@ -29,6 +29,9 @@ url: "https://jason.teamkerney.com" # the base hostname & protocol for your site
 repository: null
 twitter: JasonKerney
 github: jason-kerney
+linkedin: jasonkerney
+npm: jasonkerney
+nuget: JasonKerney
 
 header_image: assets/MyLogo.png
 
