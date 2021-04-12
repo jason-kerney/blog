@@ -21,7 +21,9 @@
 title: "Jason's Thoughts"
 email: blog@teamkerney.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Thoughts
+  My thoughts on agility, programming, business, board games
+  and the communities that surround them. With a few thought
+  on life for good measure.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jason.teamkerney.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: null
@@ -36,7 +38,8 @@ disqus: null
 
 author: R. Jason Kerney
 author_bio: >-
-  My Bion
+  I am a developer who's focus is on the human side of
+  software development. I have 20+ years of experience.
 author_pic: assets/Profile.JPG
 
 paginate: 4
