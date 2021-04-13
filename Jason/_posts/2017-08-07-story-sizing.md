@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Story Sizing with '#NoEstimates'
-date: 2017-08-27 18:27
+date: 2017-08-07 18:27
 category: development
 author: Jason
 tags: ['No Estimates']
