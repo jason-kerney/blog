@@ -8,6 +8,10 @@ tags: ['well-being']
 summary: Increasing frequency can make reto's valuable again.
 ---
 
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img src="../../assets/img/posts/800px-Menger-Schwamm.png" alt="Sierpiński cube" style="width: 50%">
+</div>
+
 ## TL; DR
 
 Sometimes as a team becomes successful, and they have had very successful retrospectives, they stop getting value from those retrospectives. Something must change for the team, in its new state, to gain more value from this exercise. I suggest more retrospectives focused on smaller things.
