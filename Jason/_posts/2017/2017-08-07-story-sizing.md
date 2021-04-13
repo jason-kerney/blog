@@ -2,7 +2,7 @@
 layout: post
 title: Story Sizing with '#NoEstimates'
 date: 2017-08-07 18:27
-category: development
+category: agility
 author: Jason
 tags: ['No Estimates']
 summary: A way to determine if a story is small enough without estimating it.
