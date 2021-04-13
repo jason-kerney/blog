@@ -4,7 +4,7 @@ title: About the R. Jason Kerney
 permalink: /about/
 ---
 
-![Picture of Jason Kerney](../assets/MeOnStilts.JPG)
+![Picture of Jason Kerney](../assets/img/me/MeOnStilts.JPG)
 
 
 ## Name
