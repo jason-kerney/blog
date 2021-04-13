@@ -4,7 +4,7 @@ title: Our Team Doesn’t Need to Retro
 date: 2017-09-11 10:42
 category: agility
 author: Jason
-tags: ['well-being']
+tags: ['well-being', 'retrospective']
 summary: Increasing frequency can make reto's valuable again.
 ---
 
