@@ -5,7 +5,7 @@ date: 2016-07-03 12:37
 category: agility
 author: Jason
 tags: ['No Estimates']
-summary: 
+summary: When two sides are not looking at the same field, they can argue pointlessly.
 ---
 
 The problem with the #NoEstimates debate is that both sides are not arguing the same thing and therefore the debate focuses on invalid points. The #NoEstimates hash tag has almost nothing to do with estimates, despite the focus the debates have. What is really being discussed is fundamental ways of doing business.  The pro #NoEstimates group is talking about a fundamental shift in how business is being done. We are talking about regulating and controlling price of software in a very different way.

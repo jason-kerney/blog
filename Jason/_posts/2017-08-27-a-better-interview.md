@@ -5,7 +5,7 @@ date: 2017-08-27 11:19
 category: development
 author: Jason
 tags: ['process']
-summary: 
+summary: An approach to better safety
 ---
 
 As interviewing is the first impression a company has of a candidate and the first impression a candidate has of the company, it is important to get right. My goal with this article is to start an open discussion about interviewing and how we can improve it. As a community we need feedback, debate and understanding to create something better. The place I work currently has the best interview process I have ever seen in my 17 plus years in this field. By examining what they do and why, the discussion can open with a solid foundation. We can build upon this to achieve something greater. 

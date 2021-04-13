@@ -5,7 +5,7 @@ date: 2015-08-12 07:20
 category: agility
 author: Jason
 tags: ['No Estimates']
-summary: 
+summary: My experience with no estimates has lead me to know it does work.
 ---
 
 Before I start, as I will be talking about different work experiences, I need to state all my opinions are my own. They do not represent the opinions of my current or past employers.

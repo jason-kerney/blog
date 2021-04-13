@@ -2,10 +2,10 @@
 layout: post
 title: Making a safe place to work
 date: 2016-09-07 13:30
-category: 
-author: 
-tags: []
-summary: 
+category: business
+author: Jason
+tags: ['safety']
+summary: Focus on psychological safety empowers people to be thier best. 
 ---
 
 ## Thanks
