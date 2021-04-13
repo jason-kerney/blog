@@ -1,10 +1,10 @@
 ---
 layout: post
 title: A Better Interview
-date: 2017-08-27 11:19
+date: 2015-12-17 11:19
 category: development
 author: Jason
-tags: ['process']
+tags: ['process', 'people', 'hiring']
 summary: An approach to better safety
 ---
 
