@@ -1,6 +1,15 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+# hidden files
+.*
+!.github
 
-.DS_Store
+# bundler cache
+_site
+vendor
+Gemfile.lock
+
+# rubygem
+*.gem
+
+# npm dependencies
+node_modules
+package-lock.json
