@@ -43,3 +43,9 @@ That is not to say it is easy. It takes work and trust to have retrospectives at
 ## Conclusion
 
 When your team is successful and safe, your old retrospectives may stagnate. They may have addressed all the larger and most visible issues, and you need a tool to help address the smaller, and larger impacting issues. We found that tool to be increased retrospective frequency.
+
+{% assign next = site.posts | where: "title","What is a retrospective?" %}
+{% if 0 < next.size %}
+{% assign retrobloc = next | first %}
+**Related:** [What is a retrospective]({{ retrobloc.url }})
+{% endif %}

@@ -1,0 +1,68 @@
+---
+layout: post
+title: What is a good retrospective?
+date: 2021-04-30 12:42
+category: agility
+author: Jason
+tags: ['retrospective']
+summary: Signs of a good retrospective
+series: better-retro
+---
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img src="../../assets/img/posts/pexels-helena-lopes-708440.jpg" alt="Friends hanging out laughing" style="width: 50%">
+</div>
+<div style="display: flex; align-items: center; justify-content: center;">
+    <div style="font-size: xx-small">Photo by Helena Lopes from Pexels</div>
+</div>
+
+
+## TLDR;
+
+I have spoken with many people who do not know what a good retrospective looks like. I can tell you it feels a little awkward, but everyone agrees that something was discovered. Also, the action item from the retro does not require any person to be a better person.
+
+## Signs of success
+
+### Protecting the awkward
+
+People need to feel [safe](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf) to express what they are feeling. They also must have the skill to express their feelings in a safe way. The sharing of genuine emotion is key to having a successful retro.
+
+Sharing of such emotion is awkward. People will become vulnerable as these emotions surface. It is essential to protect these awkward moments and allow them to happen. We must not react in a way that stops those feeling from being shared.
+
+Now we cannot expect people to be able to share all emotions immediately if at all. However, as participants in a retrospective we are looking for one emotion we can share about the topic. One that is not exactly easy to share.
+
+Understanding the emotions that are hard to share allows us to see the edges where learning can take place.
+
+### Challenging Ideas
+
+Disagreement is a sign of feeling safe, so having disagreement is healthy; when focused on ideas. By challenging eachother's ideas we forge better ones.
+
+### Acceptence of Good Enough
+
+Where we may disagree often, we will also agree to "good enough" almost as often. A healthy retrospective does not mean that every thought has to be refined or pollished. We can accept that something is good enough and move on.
+
+### Desire to Push the Boundries
+
+Healthy retrospectives seek not only to do better but to redifine what better means.
+
+### Team focus
+
+There is no "I will...", or "You will..." as outcomes of a retrospective. The venacular is "We will...". A healthy retrospective does not ask any person to become a _better_ person, but rather asks the team to carry eachother so that the team becomes a better team.
+
+<aside class="series">
+  <h4>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h4>
+  <ol>
+    {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
+    {% for post in series-posts %}
+    <li>
+      {% if post.url == page.url %}
+      <strong>{{ post.title }}</strong>
+      {% else %}
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+  {% if series-posts.size < 3 %}
+  <p>More posts coming soon!</p>
+  {% endif %}
+</aside>
