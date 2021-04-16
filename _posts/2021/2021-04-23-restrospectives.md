@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is a retrospective?
-date: 2021-04-23 12:12
+date: 2021-04-23 06:00
 category: agility
 author: Jason
 tags: ['retrospective']

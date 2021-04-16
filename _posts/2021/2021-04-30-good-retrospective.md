@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is a good retrospective?
-date: 2021-04-30 12:42
+date: 2021-04-30 06:00
 category: agility
 author: Jason
 tags: ['retrospective']
