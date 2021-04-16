@@ -13,7 +13,7 @@ series: better-retro
     <img src="../../assets/img/posts/lights.jpg" alt="Man looking up at a lot of hanging light bulbs" style="width: 50%">
 </div>
 
-## TLDR;
+## TL; DR
 
 A retrospective serves more than one role for a team. Sometimes by focusing on other things a retrospective does for us, we can glean more from our retrospectives. It is also worthwhile to acknowledge what a retrospective is not.
 
