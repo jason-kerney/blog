@@ -11,6 +11,14 @@
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/jasonkerney/'                  # Fill with your Linkedin homepage
 -
+  type: npm
+  icon: 'fab fa-npm'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.npmjs.com/~jasonkerney'                  # Fill with your npmjs homepage
+-
+  type: nuget
+  icon: 'fab fa-windows'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.nuget.org/profiles/JasonKerney'                  # Fill with your npmjs homepage
+-
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
