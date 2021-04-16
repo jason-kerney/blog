@@ -16,7 +16,7 @@ series: better-retro
 </div>
 
 
-## TLDR;
+## TL; DR
 
 I have spoken with many people who do not know what a good retrospective looks like. I can tell you it feels a little awkward, but everyone agrees that something was discovered. Also, the action item from the retro does not require any person to be a better person.
 
