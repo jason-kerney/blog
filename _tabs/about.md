@@ -4,9 +4,6 @@ icon: fas fa-info
 order: 4
 ---
 
-
-
-
 ![Picture of Jason Kerney](../assets/img/me/MeOnStilts.JPG)
 
 
