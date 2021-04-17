@@ -4,7 +4,7 @@ icon: fas fa-info
 order: 4
 ---
 
-![Picture of Jason Kerney](../assets/img/me/MeOnStilts.JPG)
+![Picture of Jason Kerney](/assets/img/me/MeOnStilts.JPG "Jason on Stilts at the Skansen Museum")
 
 
 ## Name
@@ -15,7 +15,7 @@ Robert Jason Kerney, but goes by Jason.
 
 I am a full stack developer who started professionally developing in 1997. I really enjoy working in messy complex legacy .Net Code.
 
-I was blessed by finding wonderful mentors at the right times in my life and now I strive to pay that foreward.
+I was blessed by finding wonderful mentors at the right times in my life and now I strive to pay that foreword.
 
 ## Family
 
