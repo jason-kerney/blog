@@ -48,6 +48,8 @@ Healthy retrospectives seek not only to do better but to redefine what better me
 
 There is no "I will...", or "You will..." as outcomes of a retrospective. The vernacular is "We will...". A healthy retrospective does not ask any person to become a _better_ person, but rather asks the team to carry each other so that the team becomes a better team.
 
+----
+
 <aside class="series">
   <h4>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h4>
   <ol>

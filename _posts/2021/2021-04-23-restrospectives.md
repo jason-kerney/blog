@@ -67,6 +67,8 @@ A trudge was defined best by [Chaucer](http://www.moviequotedb.com/movies/knight
 
 Retrospectives can be defined [easily](https://www.google.com/search?q=definition+of+Retrospective&rlz=1C1GGRV_enUS752US752&oq=definition+of+Retrospective&aqs=chrome..69i57j0l5.9150j1j4&sourceid=chrome&ie=UTF-8), but the definition lacks meat. It has many roles to play. Each of these roles help improve how a team functions as a team.
 
+----
+
 <aside class="series">
   <h4>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h4>
   <ol>

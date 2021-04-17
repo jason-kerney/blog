@@ -60,6 +60,8 @@ I have listed a few causes for failed retrospectives. This cannot be called an e
 
 **Related:** [What to do when retrospectives become stale]({{ related.url }})
 
+----
+
 <aside class="series">
   <h4>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h4>
   <ol>

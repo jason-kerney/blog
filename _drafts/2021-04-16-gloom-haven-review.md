@@ -19,7 +19,7 @@ Rating: <span class="fas fa-star"></span><span class="fas fa-star"></span><span 
 
 ## What is it?
 
-[Gloomhaven]() is a [cooperative](https://en.wikipedia.org/wiki/Cooperative_board_game) [living]() strategy board game where each player plays a series of characters.
+[Gloomhaven](https://www.amazon.com/Cephalofair-Games-CPH0201-Gloomhaven/dp/B01LZXVN4P) ($88) is a [cooperative](https://en.wikipedia.org/wiki/Cooperative_board_game) [campaign](https://gamehungry.com/what-are-legacy-games-and-campaign-board-games/) strategy board game where each player plays a series of characters.
 
 Each choice you make in the game has potential impact on future game sessions. You play the same character each session until a randomly chosen goal is met, and then that character retires.
 
