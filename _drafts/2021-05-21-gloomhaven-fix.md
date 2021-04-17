@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Gloomhaven - Making The Game Playable
-date: 2021-04-16 13:12
+date: 2021-05-21 06:00
 category: gaming
 author: Jason
 tags: ['board games', 'games', 'review']
 summary: 
 series: Gloomhaven
 ---
+
+[<img src='https://cdn.shopify.com/s/files/1/0281/0173/8555/products/gloomhaven-3_2048x.jpg?v=1581874715' alt='Gloomhaven' title='Gloomhaven board game' style='width: 100%'>](https://cephalofair.com/collections/board-games/products/gloomhaven)
 
 ## TL; DR
 

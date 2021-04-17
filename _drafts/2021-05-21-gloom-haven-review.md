@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gloomhaven - An Honest Review
-date: 2021-04-16 13:11
+date: 2021-05-21 05:59
 category: gaming
 author: Jason
 tags: ['board games', 'games', 'review']
@@ -15,7 +15,7 @@ Rating: <span class="fas fa-star"></span><span class="fas fa-star"></span><span 
 
 ------
 
-<img src='https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__itemrep/img/0IdBRA_G-ZdrNaxI4Z1LPQMZD0I=/fit-in/246x300/filters:strip_icc()/pic2437871.jpg' alt='Gloomhaven' title='Gloomhaven board game' style='width: 100%'>
+[<img src='https://cdn.shopify.com/s/files/1/0281/0173/8555/products/gloomhaven-1_2048x.jpg?v=1581874715' alt='Gloomhaven' title='Gloomhaven board game' style='width: 100%'>](https://cephalofair.com/collections/board-games/products/gloomhaven)
 
 ## What is it?
 
