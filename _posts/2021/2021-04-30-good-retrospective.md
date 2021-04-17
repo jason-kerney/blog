@@ -34,19 +34,19 @@ Understanding the emotions that are hard to share allows us to see the edges whe
 
 ### Challenging Ideas
 
-Disagreement is a sign of feeling safe, so having disagreement is healthy; when focused on ideas. By challenging eachother's ideas we forge better ones.
+Disagreement is a sign of feeling safe, so having disagreement is healthy; when focused on ideas. By challenging each other's ideas we forge better ones.
 
-### Acceptence of Good Enough
+### Acceptance of Good Enough
 
-Where we may disagree often, we will also agree to "good enough" almost as often. A healthy retrospective does not mean that every thought has to be refined or pollished. We can accept that something is good enough and move on.
+Where we may disagree often, we will also agree to "good enough" almost as often. A healthy retrospective does not mean that every thought has to be refined or polished. We can accept that something is good enough and move on.
 
-### Desire to Push the Boundries
+### Desire to Push the Boundaries
 
-Healthy retrospectives seek not only to do better but to redifine what better means.
+Healthy retrospectives seek not only to do better but to redefine what better means.
 
 ### Team focus
 
-There is no "I will...", or "You will..." as outcomes of a retrospective. The venacular is "We will...". A healthy retrospective does not ask any person to become a _better_ person, but rather asks the team to carry eachother so that the team becomes a better team.
+There is no "I will...", or "You will..." as outcomes of a retrospective. The vernacular is "We will...". A healthy retrospective does not ask any person to become a _better_ person, but rather asks the team to carry each other so that the team becomes a better team.
 
 <aside class="series">
   <h4>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h4>

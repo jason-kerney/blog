@@ -39,7 +39,7 @@ Once we have started to master modifying our processes to improve them, then we 
 
 Retrospectives are a team sport. The retrospective succeeds or fails based on teamwork. A retrospective forms an ideal state for teamwork by providing facilitated activities that help focus people.
 
-In this ideal state, you can see in the small enhancements and problems the team is experiencing as a team. These enhancements and problems are easily missed as they are played out in very small contexts. Being warry of how people interact will allow the team to better understand what they are doing.
+In this ideal state, you can see in the small enhancements and problems the team is experiencing as a team. These enhancements and problems are easily missed as they are played out in very small contexts. Being wary of how people interact will allow the team to better understand what they are doing.
 
 ### Breaking Focus
 
