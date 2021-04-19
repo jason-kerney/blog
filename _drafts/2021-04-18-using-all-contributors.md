@@ -24,3 +24,20 @@ summary:
 
 The "All Contributions" site recommends the use of their git bot, I have not been able to get the bot to work as of late. As such, I recommend against the bot, and just use the CLI (Explanation below).
 
+## All Contributors Easy Setup
+
+The easiest way to use the All Contributors is with the CLI as the Github bot seems to have issues.
+
+Here are the types of [Contributors](https://allcontributors.org/docs/en/emoji-key).
+
+## Installing the CLI
+
+```npm i -D all-contributors-cli```
+
+## Init All Contributors
+
+```npx all-contributors init```
+
+## Adding Others as a contributor
+
+```npx all-contributors add {git user name} {type of contribution}```
