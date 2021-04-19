@@ -19,19 +19,19 @@ A retrospective serves more than one role for a team. Sometimes by focusing on o
 
 ## The Humble Retrospective
 
-Retrospectives serve us in more than one way. They require skill. They are a way for us to examine what has happened and how to improve. They are also a thermometer for how well the team is acting as a team. They serve to break focus, and force different perspectives on our work. Retrospectives are a team building activity. They are not a process, a trudge, or a root cause analysis. If they are you are not doing a retrospective.
+Retrospectives serve us in more than one way. They require skill. They are a way for us to examine what has happened and how to improve. They are also a thermometer for how well the team is acting as a team. They serve to break focus, and force different perspectives on our work. Retrospectives are a team building activity. They are not a process, a trudge, or a root cause analysis. If they are, you are not doing a retrospective.
 
 ## Retrospectives Are:
 
 ### Requirement of Skill
 
-Retrospectives are a deeply technical thing. This is a key concept to understand what a retrospective is. Since they require the application of scientific processes and techniques no one should expect to learn how to be part of an effective retrospective without effort, time and education.
+Retrospectives are a deeply technical thing. This is a key concept to understand what a retrospective is. Since they require the application of scientific processes and techniques no one should expect to learn how to be part of an effective retrospective without effort, time, and education.
 
 ### Focus on Improving
 
 What we always hear about retrospectives is how they are focused on improvement. Improvement is a VERY general term. What are we improving? For the answer to this I look to the idea of [single and double loop learning](https://en.wikipedia.org/wiki/Double-loop_learning).
 
-Initially a retrospective is about improving upon our processes. Here we ask how can we deliver better. What are the tweaks that can be made to gain some advantage to what we do?
+Initially a retrospective is about improving upon our processes. Here we ask how we can deliver better. What are the tweaks that can be made to gain some advantage to what we do?
 
 Once we have started to master modifying our processes to improve them, then we must start modifying how we learn to modify our process.
 
@@ -49,7 +49,7 @@ Focus is a good thing. So is stepping away to look at the bigger context. Here w
 
 ### A Root Cause Analysis
 
-A retrospective may include a root cause analysis, but it is so much more. The goal of a root cause analysis is to find the leading contributing factor in a failure. There are 2 parts of this statement that are vastly different then a retrospective.
+A retrospective may include a root cause analysis, but it is so much more. The goal of a root cause analysis is to find the leading contributing factor in a failure, so that it may be prevented in the future.
 
 Retrospectives are not necessarily about discovering causal factors. They are about working in complex domains where cause can be distributed beyond detection. Instead, the team is poking at a system to see how it responds.
 
@@ -61,7 +61,7 @@ Yes, there is a process to performing a retrospective. A retrospective is not th
 
 ### A Trudge
 
-A trudge was defined best by [Chaucer](http://www.moviequotedb.com/movies/knights-tale-a/quote_12967.html), but can be summed up as not fun, or useful. A retrospective doesn’t need to be fun, but needs to be more useful then the time taken to perform it.
+A trudge was defined best by [Chaucer](http://www.moviequotedb.com/movies/knights-tale-a/quote_12967.html), but can be summed up as not fun, or useful. A retrospective doesn’t need to be fun but needs to be more useful than the time taken to perform it.
 
 ## Recap
 

@@ -8,13 +8,13 @@ tags: ['retrospective']
 summary: Signs of a good retrospective
 series: better-retro
 ---
+
 <div style="display: flex; align-items: center; justify-content: center;">
     <img src="../../assets/img/posts/pexels-helena-lopes-708440.jpg" alt="Friends hanging out laughing" style="width: 50%">
 </div>
 <div style="display: flex; align-items: center; justify-content: center;">
     <div style="font-size: xx-small">Photo by Helena Lopes from Pexels</div>
 </div>
-
 
 ## TL; DR
 
@@ -28,13 +28,13 @@ People need to feel [safe](https://web.mit.edu/curhan/www/docs/Articles/15341_Re
 
 Sharing of such emotion is awkward. People will become vulnerable as these emotions surface. It is essential to protect these awkward moments and allow them to happen. We must not react in a way that stops those feeling from being shared.
 
-Now we cannot expect people to be able to share all emotions immediately if at all. However, as participants in a retrospective we are looking for one emotion we can share about the topic. One that is not exactly easy to share.
+We cannot expect people to be able to share all emotions immediately, if at all. However, as participants in a retrospective, we are looking for one emotion we can share about the topic, especially one that is not exactly easy to share.
 
 Understanding the emotions that are hard to share allows us to see the edges where learning can take place.
 
 ### Challenging Ideas
 
-Disagreement is a sign of feeling safe, so having disagreement is healthy; when focused on ideas. By challenging each other's ideas we forge better ones.
+Disagreement is a sign of feeling safe, so having disagreement is healthy, when focused on ideas. By challenging each other’s’ ideas, we forge better ones.
 
 ### Acceptance of Good Enough
 
