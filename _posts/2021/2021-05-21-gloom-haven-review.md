@@ -5,7 +5,7 @@ date: 2021-05-21 05:59
 category: gaming
 author: Jason
 tags: ['board games', 'games', 'review']
-summary: 
+summary: Gloomhaven is a game I enjoy but out of the box it has a high barrier to entry
 series: Gloomhaven
 ---
 

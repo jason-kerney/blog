@@ -4,8 +4,8 @@ title: Gloomhaven - Making The Game Playable
 date: 2021-05-21 06:00
 category: gaming
 author: Jason
-tags: ['board games', 'games', 'review']
-summary: 
+tags: ['board games', 'games', 'review', 'how-to']
+summary: Gloomhaven is made better with digital tools.
 series: Gloomhaven
 ---
 
