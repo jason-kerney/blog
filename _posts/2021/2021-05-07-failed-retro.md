@@ -54,7 +54,11 @@ My friend an colleague Willem Larson identified some [retrospective smells](http
 
 ### Bad Actor
 
-This does not count. A bad actor, is an environment issue. Why is the bad actor still employed? Why are they a bad actor? Very few people are actually intentionally bad actors, and if you have someone who is a bad actor during retrospectives, it is likely they are bad actors in other ways also.
+A bad actor, is an environment issue. If the person is honestly a bad actor why are they still employed? Why are they a bad actor? Very few people are actually intentionally bad actors, and if you have someone who is a bad actor during retrospectives, it is likely they are bad actors in other ways also.
+
+### Team Change.
+
+This is also an environment issue, but one that is often overlooked. Every time team membership changes, a lot of unspoken things change. Unspoken roles on the team change, the very way the team communicates change. Things get overlooked, and new boundaries must be found. Any one of these things can cause a retrospective to fail. So don't forget that it takes a while to learn how to be a team again after a person leaves or joins a team.
 
 ### Despite Best Effort, Never Succeeded
 
