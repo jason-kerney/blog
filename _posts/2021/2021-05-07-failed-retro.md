@@ -19,46 +19,50 @@ series: better-retro
 
 ## TL; DR
 
-Retrospectives fail for a lot of reasons. Most often it is systems outside of the team. When it is coming from within, then there are reasons for those actions. Understanding those reason will lead you to better success.
+Environment is a precondition of a successful retrospective, and the number one reason why it fails. Beyond that, the reasons come down to people not knowing how to get the most of their retrospective and they can improve as they gain knowledge.
 
-## What is a Failed Reto?
+## Who is this Post for
 
-A failed retrospective is one that at minimum contributes less value to the team then the time used, or at worse contributes negative value.
+The only people capable of diagnosing a retrospective are those who are actively participating in the retro. Not even the Scrum Master or Coach. If you are not actively participating in the retro and try to diagnose the retro, you are most likely [inflicting help](https://www.estherderby.com/inflicting-help/).
 
-## Who is to blame?
+This post is very much for people who are participating in regular retrospectives and not seeing the rewards that are promised.
 
-First lets talk about the harm of blame. Discovering who is to blame for a retrospective doesn't help you achieve a better retrospective, and in-fact makes it harder to gain the trust needed for a good retrospective.
+## Environment First
 
-The blame is always the system the team works in, and the ability of the team to communicate and trust.
+Before we look at internal causes for a retrospective to fail, lets look externally. [Deming](https://deming.org/a-bad-system-will-beat-a-good-person-every-time/) says that a bad system trumps a good employee every time. This means that the environment is the number one cause for an individual or team's performance.
 
-## The Environment
+- What or who in the environment is preventing you from examining how you work?
+- What or who in the environment is preventing you from changing the way you work?
+- What or who in the environment is preventing you from working as a team?
+- What or who in the environment is preventing you from trusting each other?
 
-If the environment the team is in is not one that foster's trust and open communication, then there is no hope of having a really successful retrospective. This is the first place I look when a team is not having successful retrospectives.
+The environmental factors are a precondition to having a successful retrospective. If you can answer, not necessarily share, any of the above questions, then you cannot have a successful retrospective.
 
-## Anti-patterns
+## Internal Problems
 
-My friend, and colleague [Willem Laren](https://twitter.com/techgreatness) started compiling [Retrospective Smells](https://github.com/willemlarsen/retrospective-smells) back when we worked together. The purpose of these anti-patterns wasn't to cast blame on others, but allow someone to self assess if they might be contributing negatively to a retrospective. Again, not to cast self blame, but to be able to ask what is contributing to that behavior?
+<span style='color:red'>You cannot diagnose a problem caused by someone else, you can only diagnose problems you contribute to.</span>
 
-### The Four Horsemen of Teamwork
+### Recently Became Boring
 
-There are [four common](https://www.thriveinc.com/post/the-four-horsemen) ways to deal with stress and distrust. These are perfectly natural and normal modes of communicating, that unfortunately tend to harm the person enacting them. What is worse, is that not only do individuals act out these behaviors, but so do teams.
+So if your retrospectives used to yield results and now don't, red this post: [What to do when retrospectives become stale]({{ related.url }}).
 
-Recognizing them, normalizing them and talking about them help a team to deal with them.
+This is most often caused by not looking at the small things that get in the way.
 
-### Boredom
+### Bad Behavior
 
-I wrote a whole [blog post]({{ related.url }}) on this a while ago. But this ussually comes with a retrospective frequency that is too long.
+My friend an colleague Willem Larson identified some [retrospective smells](https://github.com/willemlarsen/retrospective-smells). These are a useful tool for analyzing your own behavior. Look through them, and determine which behavior you are exibiting, and then ask your self why? My ques is that these behaviors are directly caused by your environment.
 
-## A Bad Day
+### Bad Actor
 
-Every team is entitled to a failed retrospective every once in a while. Don't sweat it, until there is a pattern.
+This does not count. A bad actor, is an environment issue. Why is the bad actor still employed? Why are they a bad actor? Very few people are actually intentionally bad actors, and if you have someone who is a bad actor during retrospectives, it is likely they are bad actors in other ways also.
 
-## Summary
+### Despite Best Effort, Never Succeeded
 
-I have listed a few causes for failed retrospectives. This cannot be called an exhaustive list, but rather the biggest hitters. Look first to things outside the team that are causing them to lack trust. Once those have been sufficiently exhausted, then look to yourself, and ask what is causing your behavior.
+This one is both the most straight forward and the most difficult to solve. You see, retrospecting is a skill. Every skill takes time, effort and guidance to learn. What makes it worse, is that _many_ agile frameworks think if you sprinkle some knowledge, like fairy dust, then anyone can facilitate a retrospective successfully.
 
+The desire to improve will do a lot, but sometimes you may need help to get started. There are two things that will help. The first is find someone with the expertise, to guide you. when looking ask questions about what makes a good facilitator? Ignore everything said about retrospective activities, they are tools not solutions. Instead look to how they think about problem solving and how they can teach you to see problems that you don't recognize.
 
-**Related:** [What to do when retrospectives become stale]({{ related.url }})
+The second, is start studying about human systems and learning. The combination of these things will garner insight and help you find your first success.
 
 ----
 
