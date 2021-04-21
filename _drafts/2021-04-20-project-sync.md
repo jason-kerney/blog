@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Sync
-date: 2021-04-20 20:25
+date: 2021-06-04 06:00
 category: development
 author: Jason
 tags: ['tool', 'open source']
@@ -13,7 +13,7 @@ summary:
 
 ## TL; DR
 
-I needed a tool to allow me to manage local Azure Git directories from the Terminal. So I built it and am sharing it.
+I needed a tool to allow me to manage local Azure Git directories from the Terminal. So, I built it and am sharing it.
 
 ## What is Project Sync
 
@@ -39,9 +39,9 @@ The most basic way to clone with ProjectSync is to browse all repositories selec
 ProjectSync --add
 ```
 
-This will then show you an alphabetized list broken up into pages. You can select which projects you want to clone by hitting space-bar. After each page, you will be given the chance to approve your selection, and then shown the next page. When the whole thing is done, you will be able to confirm all your selections.
+This will then show you an alphabetized list broken up into pages. You can select which projects you want to clone by hitting spacebar. After each page, you will be given the chance to approve your selection, and then shown the next page. When the whole thing is done, you will be able to confirm all your selections.
 
-### Search For Specific Repositories
+### Search for Specific Repositories
 
 If you already know what you are looking for, you can enter regex to limit the repositories to choose from.
 
@@ -53,6 +53,7 @@ ProjectSync --ins [Mm]y-[Rr]epository
 ```
 
 The above command will search for all repositories with "my-repository", "My-repository", "my-Repository", or "My-Repository" in their name. Again you can select each of the repositories you want to clone by highlighting them and hitting space bar. This view is also paged.
+
 
 ## Contributors to Project Sync✨
 
