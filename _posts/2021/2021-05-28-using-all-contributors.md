@@ -5,7 +5,7 @@ date: 2021-05-28 06:01
 category: development
 author: Jason
 tags: ['community', 'open source', 'how-to']
-summary: 
+summary: How to get started with the "All Contributors" specification
 series: all-contributors
 ---
 
