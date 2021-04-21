@@ -8,12 +8,8 @@ tags: ['process', 'philosophy', 'people']
 summary: What if the agile community is suffering from the curse of knowledge?
 ---
 
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img src="../../assets/img/posts/pexels-joshua-t-954283.jpg" alt="Person on far away clif" style="width: 50%">
-</div>
-<div style="display: flex; align-items: center; justify-content: center;">
-    <div style="font-size: xx-small">Photo by Joshua T from Pexels</div>
-</div>
+![Person on far away cliff](/assets/img/posts/pexels-joshua-t-954283.jpg){: width="50%" .center}
+_Photo by Joshua T from Pexels_
 
 ## TL; DR
 

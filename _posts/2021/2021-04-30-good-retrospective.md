@@ -51,7 +51,7 @@ There is no "I will...", or "You will..." as outcomes of a retrospective. The ve
 ----
 
 <aside class="series">
-  <h4>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h4>
+  <h2>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h2>
   <ol>
     {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
     {% for post in series-posts %}

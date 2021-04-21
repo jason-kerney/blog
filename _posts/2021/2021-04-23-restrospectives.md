@@ -9,9 +9,7 @@ summary: A retrospective is easily defined but hard to nail down.
 series: better-retro
 ---
 
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img src="../../assets/img/posts/lights.jpg" alt="Man looking up at a lot of hanging light bulbs" style="width: 50%">
-</div>
+![Man looking up at a lot of hanging light bulbs](/assets/img/posts/lights.jpg){: width="50%" .center}
 
 ## TL; DR
 
@@ -70,7 +68,7 @@ Retrospectives can be defined [easily](https://www.google.com/search?q=definitio
 ----
 
 <aside class="series">
-  <h4>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h4>
+  <h2>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h2>
   <ol>
     {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
     {% for post in series-posts %}

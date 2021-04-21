@@ -9,7 +9,7 @@ summary: Gloomhaven is made better with digital tools.
 series: Gloomhaven
 ---
 
-[<img src='https://cdn.shopify.com/s/files/1/0281/0173/8555/products/gloomhaven-3_2048x.jpg?v=1581874715' alt='Gloomhaven' title='Gloomhaven board game' style='width: 100%'>](https://cephalofair.com/collections/board-games/products/gloomhaven)
+[![Gloomhaven](https://cdn.shopify.com/s/files/1/0281/0173/8555/products/gloomhaven-3_2048x.jpg?v=1581874715 "Gloomhaven board game"){: width="100%"}](https://cephalofair.com/collections/board-games/products/gloomhaven)
 
 ## TL; DR
 
@@ -97,7 +97,7 @@ I use [GHAttack](https://play.google.com/store/apps/details?id=com.ict376.tym.gh
 ---
 
 <aside class="series">
-  <h4>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h4>
+  <h2>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h2>
   <ol>
     {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
     {% for post in series-posts %}

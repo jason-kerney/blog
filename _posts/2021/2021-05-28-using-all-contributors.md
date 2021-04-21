@@ -51,9 +51,8 @@ Here are the types of [Contributors](https://allcontributors.org/docs/en/emoji-k
 
 ----
 
-## Previous
 <aside class="series">
-  <h4>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h4>
+  <h2>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h2>
   <ol>
     {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
     {% for post in series-posts %}

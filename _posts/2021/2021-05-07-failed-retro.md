@@ -11,12 +11,8 @@ series: better-retro
 
 {% assign related = site.posts | where: "title","Our Team Doesn’t Need to Retro" | first %}
 
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img src="../../assets/img/posts/pexels-anna-kester-5352942.jpg" alt="Friends hanging out laughing" style="width: 50%">
-</div>
-<div style="display: flex; align-items: center; justify-content: center;">
-    <div style="font-size: xx-small">Photo by Anna Kester from Pexels</div>
-</div>
+![A burning building](/assets/img/posts/pexels-anna-kester-5352942.jpg){: width="50%" .center}
+_Photo by Anna Kester from Pexels_
 
 ## TL; DR
 
@@ -72,7 +68,7 @@ The second is start studying about human systems and learning. The combination o
 ----
 
 <aside class="series">
-  <h4>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h4>
+  <h2>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h2>
   <ol>
     {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
     {% for post in series-posts %}
