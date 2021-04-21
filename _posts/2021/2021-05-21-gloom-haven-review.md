@@ -27,15 +27,15 @@ Each choice you make in the game has potential impact on future game sessions. Y
 
 ### Cooperative with Self Interest
 
-Right now this is my favorite game. It is a cooperative game, but you gain a random secret personal goal with each scenario. **_If_** the scenario is successful, **_and_** you accomplish your goal, your character gains an extra reward that makes them more powerful/capable.
+Right now, this is my favorite game. It is a cooperative game, but you gain a random secret personal goal with each scenario. **_If_** the scenario is successful, **_and_** you accomplish your goal, your character gains an extra reward that makes them more powerful/capable.
 
-This element, encourages each player to occasionally make sub-optimal decisions that benefit their character. Most of the time, thess decisions have no impact on the end result for the party, though they add additional stress, and fun.
+This element encourages each player to occasionally make sub-optimal decisions that benefit their character. Most of the time, these decisions have no impact on the end result for the party, though they add additional stress, and fun.
 
 ### Deep Strategy with Randomness
 
 There is a lot of strategy in the game, and most often when you loose a scenario it was down to poor choices, often caused by not knowing what to expect. You almost always do better the second and third time through a scenario.
 
-However there is an element of randomness. Attacking is resolved by drawing a card and applying the number on that card to the damage dealt. However, there are cards that cause you to instantly miss the attack or double the damage dealt. This randomness means that sometimes the odds will just stack against, or for you.
+However, there is an element of randomness. Attacking is resolved by drawing a card and applying the number on that card to the damage dealt. However, there are cards that cause you to instantly miss the attack or double the damage dealt. This randomness means that sometimes the odds will just stack against, or for you.
 
 ### Pretty
 
@@ -61,7 +61,7 @@ The problem is that there is no organization that comes with the game. There are
 
 ### Fiddly
 
-Beyond being unplayable out of the box due to no included organization, the game is fiddly. There are a lot of little pieces that easily scatter that are used to keep track of statuses in the game. Bring your elbow to close to the table, and **BAM!!** you loose the state of the current combat. Hope you can remember all the details of what was happening.
+Beyond being unplayable out of the box due to no included organization, the game is fiddly. There are a lot of little pieces that easily scatter that are used to keep track of statuses in the game. Bring your elbow to close to the table, and **BAM!!** you lose the state of the current combat. Hope you can remember all the details of what was happening.
 
 ## Solutions
 
@@ -69,9 +69,9 @@ The real good news is most of these problems can be solved. I will go into detai
 
 ## Summary
 
-Gloomhaven is a fun strategy game with a high barrier to entry. Even though this is one of my most favorite games I have to give it 3 stars out of the box. This is due to no internal organization provided, and the fiddly nature of combat counters.
+Gloomhaven is a fun strategy game with a high barrier to entry. Even though this is one of my most favorite games I must give it 3 stars out of the box. This is due to no internal organization provided, and the fiddly nature of combat counters.
 
-With some work these annoyances can be overcome. When they are overcome, this game is easily a 4 and a half star game.
+With some work these annoyances can be overcome. When they are overcome, this game is easily a 4-and-a-half-star game.
 
 I recommend it, but not to the casual gamer.
 

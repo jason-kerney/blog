@@ -13,13 +13,13 @@ series: Gloomhaven
 
 ## TL; DR
 
-I love the game but without a lot of help it is not really playable. So I am here to talk about the tools that get rid of the nuances and allow you to focus on having fun.
+I love the game but without a lot of help it is not really playable. So, I am here to talk about the tools that get rid of the nuances and allow you to focus on having fun.
 
 ## Organizer
 
 This is the hardest thing for me to recommend. Good organizers cost almost as much as the base game, and once you use the other tools, most of what the organizer gives you goes to waist.
 
-**HOWEVER**, it is a must. Without a good organizational system it will take you more time to setup the game and put it away then it will to play it.
+**HOWEVER**, it is a must. Without a good organizational system, it will take you more time to setup the game and put it away then it will to play it.
 
 I purchased the [broken token organizer](https://www.amazon.com/Broken-Token-Organizer-Gloomhaven/dp/B073X4Z24Q). This is a really nice system, but the best part is the way it organizes the monsters. Each class of monster gets its own box that is clearly labeled.
 
@@ -40,7 +40,7 @@ There is a free Java application called [Gloomhaven Helper](http://esotericsoftw
 
 ## Campaign Tracker
 
-There are a number of applications that track the campaign for you. This simplifies a number of things, and removes about 10% of the fiddlyness.
+There are several applications that track the campaign for you. This simplifies a number of things and removes about 10% of the fiddlyness.
 
 A good campaign tracker will:
 
@@ -93,6 +93,7 @@ I use [Gloomhaven Perk Calculator](https://play.google.com/store/apps/details?id
 Lastly, there are applications to manager your combat deck. This removes one of the final bits of fiddlyness in the game. 
 
 I use [GHAttack](https://play.google.com/store/apps/details?id=com.ict376.tym.ghattack&hl=en_US&gl=US) available on Android.
+
 
 ---
 

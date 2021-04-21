@@ -26,7 +26,6 @@ All Contributors is a specification for giving thanks for contributions that inc
 
 Note
 : I have not been able to get the "bot" to work, so I do not recommend that, I do however recommend the CLI tool. More in second article.
-?
 
 ## Why does it matter?
 
