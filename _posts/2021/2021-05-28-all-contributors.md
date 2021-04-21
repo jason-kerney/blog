@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Magic of 'All Contributors ✨'
-date: 2021-04-18 08:19
+date: 2021-05-28 06:00
 category: development
 author: Jason
 tags: ['community', 'open source']
