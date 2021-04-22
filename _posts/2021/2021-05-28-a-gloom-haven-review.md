@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gloomhaven - An Honest Review
-date: 2021-05-21 05:59
+date: 2021-05-28 05:59
 category: gaming
 author: Jason
 tags: ['board games', 'games', 'review']
