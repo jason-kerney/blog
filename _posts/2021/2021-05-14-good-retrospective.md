@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is a good retrospective?
-date: 2021-05-07 06:00
+date: 2021-05-14 06:00
 category: agility
 author: Jason
 tags: ['retrospective']
@@ -9,12 +9,8 @@ summary: Signs of a good retrospective
 series: better-retro
 ---
 
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img src="../../assets/img/posts/pexels-helena-lopes-708440.jpg" alt="Friends hanging out laughing" style="width: 50%">
-</div>
-<div style="display: flex; align-items: center; justify-content: center;">
-    <div style="font-size: xx-small">Photo by Helena Lopes from Pexels</div>
-</div>
+![Friends hanging out laughing](/assets/img/posts/pexels-helena-lopes-708440.jpg "Good Times")
+_Photo by Helena Lopes from Pexels_
 
 ## TL; DR
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gloomhaven - Making The Game Playable
-date: 2021-05-28 06:00
+date: 2021-06-04 06:00
 category: gaming
 author: Jason
 tags: ['board games', 'games', 'review', 'how-to']

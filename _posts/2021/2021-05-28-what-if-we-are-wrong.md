@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What if We are Wrong?
-date: 2021-05-21 06:00
+date: 2021-05-28 06:00
 category: agility
 author: Jason
 tags: ['process', 'philosophy', 'people']

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Diagnosing a failed retrospective
-date: 2021-05-14 o6:00
+date: 2021-05-21 o6:00
 category: agility
 author: Jason
 tags: ['retrospective']
