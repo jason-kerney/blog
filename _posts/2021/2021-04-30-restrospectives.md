@@ -9,7 +9,7 @@ summary: A retrospective is easily defined but hard to nail down.
 series: better-retro
 ---
 
-![Man looking up at a lot of hanging light bulbs](/assets/img/posts/lights.jpg){: width="50%" .center}
+![Man looking up at a lot of hanging light bulbs](/assets/img/posts/2021/04/lights.jpg){: width="50%" .center}
 
 ## TL; DR
 

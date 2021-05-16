@@ -11,7 +11,7 @@ series: better-retro
 
 {% assign related = site.posts | where: "title","Our Team Doesn’t Need to Retro" | first %}
 
-![A burning building](/assets/img/posts/pexels-anna-kester-5352942.jpg){: width="50%" .center}
+![A burning building](/assets/img/posts/2021/05/pexels-anna-kester-5352942.jpg){: width="50%" .center}
 _Photo by Anna Kester from Pexels_
 
 ## TL; DR

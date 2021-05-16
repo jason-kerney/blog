@@ -7,7 +7,7 @@ author: Jason
 tags: ['team', 'well-being', 'work-shop', 'open source']
 ---
 
-![Pawns of a Game](/assets/img/posts/MyWorkshop/pexels-pixabay-163064.jpg)
+![Pawns of a Game](/assets/img/posts/2021/05/pexels-pixabay-163064.jpg)
 _Photo by Pixabay from Pexels_
 
 ## TL; DR

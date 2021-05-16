@@ -9,7 +9,7 @@ summary: Signs of a good retrospective
 series: better-retro
 ---
 
-![Friends hanging out laughing](/assets/img/posts/pexels-helena-lopes-708440.jpg "Good Times")
+![Friends hanging out laughing](/assets/img/posts/2021/05/pexels-helena-lopes-708440.jpg "Good Times")
 _Photo by Helena Lopes from Pexels_
 
 ## TL; DR

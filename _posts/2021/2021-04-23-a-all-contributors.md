@@ -9,7 +9,7 @@ summary: Giving credit for help has never been so easy in the open-source world.
 series: all-contributors
 ---
 
-![Pair Programming](/assets/img/posts/all-contributor/pexels-startup-stock-photos-7374.jpg "Two People Pair Programming"){: width="50%" .center}
+![Pair Programming](/assets/img/posts/2021/04/pexels-startup-stock-photos-7374.jpg "Two People Pair Programming"){: width="50%" .center}
 _Photo by Startup Stock Photos from Pexels_
 
 ## TL; DR

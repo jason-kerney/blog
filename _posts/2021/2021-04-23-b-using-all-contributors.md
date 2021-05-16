@@ -9,7 +9,7 @@ summary: How to get started with the "All Contributors" specification
 series: all-contributors
 ---
 
-![A person building something](/assets/img/posts/all-contributor/pexels-ivan-samkov-4491841.jpg "Get ready to build the ability to recognize contributions"){: width="50%" .center}
+![A person building something](/assets/img/posts/2021/04/pexels-ivan-samkov-4491841.jpg "Get ready to build the ability to recognize contributions"){: width="50%" .center}
 _Photo by Ivan Samkov from Pexels_
 
 ## Intro

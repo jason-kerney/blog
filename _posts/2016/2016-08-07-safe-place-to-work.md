@@ -36,7 +36,7 @@ The first thing to notice is the word everyone. This is not just those you work 
 
 I won a raffle held by <a href="https://www.industriallogic.com/">Industrial Logic</a>, Joshua's company. The prize came with a small number of these cards:
 
-![A box of 'Stop Work Authority' cards.](../../assets/img/posts/stop_work.jpg "Stop Work Athority Cards")
+![A box of 'Stop Work Authority' cards.](../../assets/img/posts/2016/08/stop_work.jpg "Stop Work Athority Cards")
 
 The back states you have the autority to stop work if any of these things are at risk:
 

@@ -9,7 +9,7 @@ summary: Increasing frequency can make reto's valuable again.
 ---
 
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="../../assets/img/posts/800px-Menger-Schwamm.png" alt="Sierpiński cube" style="width: 50%">
+    <img src="../../assets/img/posts/2017/09/800px-Menger-Schwamm.png" alt="Sierpiński cube" style="width: 50%">
 </div>
 
 ## TL; DR
