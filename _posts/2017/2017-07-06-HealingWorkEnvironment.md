@@ -6,6 +6,7 @@ category: business
 author: Jason
 tags: ['well-being', 'people']
 summary: A healthy work environment means a healing work environment.
+alias: /2017/07/06/a-healing-work-environment/
 ---
 
 

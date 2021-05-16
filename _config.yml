@@ -23,6 +23,8 @@ description: >-                        # used by seo meta and the atom feed
   Jason's thoughts on agility, programming, business, 
   board games, and the surrounding communities.
 
+safe: false  
+
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://jason.teamkerney.com'
 
