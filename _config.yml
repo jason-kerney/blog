@@ -19,6 +19,8 @@ title: Jason's Thoughts                          # the main title
 
 tagline: An individual that cares about the people side of programming.   # it will display as the sub-title
 
+redirects: yes
+
 description: >-                        # used by seo meta and the atom feed
   Jason's thoughts on agility, programming, business, 
   board games, and the surrounding communities.
