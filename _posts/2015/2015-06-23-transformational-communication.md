@@ -2,7 +2,7 @@
 layout: post
 title: Transformational Communication
 date: 2015-06-23 06:00
-category: Philosophy
+category: philosophy
 author: Jason
 tags: ['agility', 'people', 'mindset']
 alias: /2015/06/23/transformational-communication/
