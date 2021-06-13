@@ -6,13 +6,9 @@ order: 5
 
 ## Work
 
-Enjoying my team very much
+Enjoying my team very much getting ready to move into coaching role again.
 
 ## Gaming
-
-### Computer
-
-[![Control](https://upload.wikimedia.org/wikipedia/en/6/6a/D1IOd0BWsAAiX5T.jpg "Cover image for Control Video Game")](https://en.wikipedia.org/wiki/Control_(video_game))
 
 ### Board
 
