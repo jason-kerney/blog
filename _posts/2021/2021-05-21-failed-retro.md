@@ -41,7 +41,7 @@ The environmental factors are a precondition to having a successful retrospectiv
 
 ### Recently Became Boring
 
-So if your retrospectives used to yield results and now don't, red this post: [What to do when retrospectives become stale]({{ related.url }}).
+So if your retrospectives used to yield results and now don't, read this post: [What to do when retrospectives become stale]({{ related.url }}).
 
 This is most often caused by not looking at the small things that get in the way.
 
