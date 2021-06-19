@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-info
-order: 4
+order: 6
 ---
 
 ![Picture of Jason Kerney](/assets/img/me/MeOnStilts.jpg "Jason on Stilts at the Skansen Museum")

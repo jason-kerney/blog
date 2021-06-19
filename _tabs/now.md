@@ -1,7 +1,7 @@
 ---
 title: Now
 icon: fas fa-clock
-order: 5
+order: 4
 ---
 
 ## Work
