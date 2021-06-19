@@ -5,10 +5,13 @@ date: 2021-06-25 14:00
 category: business
 author: Jason
 tags: ['agility', 'people', 'mindset']
+alias: [/posts/transformational-communication/, /2015/06/23/transformational-communication/]
 summary: 
 ---
 
-alias: [/posts/transformational-communication/, /2015/06/23/transformational-communication/]
+![Person on far away cliff](/assets/img/posts/2021/06/pexels-cottonbro-4553169.jpg){: width="50%" .center}
+_Photo by cottonbro from Pexels_
+
 
 ## TL;DR
 
