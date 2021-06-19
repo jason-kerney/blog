@@ -9,6 +9,25 @@ summary: Signs of a good retrospective
 series: better-retro
 ---
 
+<aside class="series">
+  <h2>This post is part of the series <em>{{ page.series }}</em></h2>
+  <ol>
+    {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
+    {% for post in series-posts %}
+    <li>
+      {% if post.url == page.url %}
+      <strong>{{ post.title }}</strong>
+      {% else %}
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+  {% if series-posts.size < 3 %}
+  <p>More posts coming soon!</p>
+  {% endif %}
+</aside>
+
 ![Friends hanging out laughing](/assets/img/posts/2021/05/pexels-helena-lopes-708440.jpg "Good Times")
 _Photo by Helena Lopes from Pexels_
 
@@ -43,24 +62,3 @@ Healthy retrospectives seek not only to do better but to redefine what better me
 ### Team focus
 
 There is no "I will...", or "You will..." as outcomes of a retrospective. The vernacular is "We will...". A healthy retrospective does not ask any person to become a _better_ person, but rather asks the team to carry each other so that the team becomes a better team.
-
-----
-
-<aside class="series">
-  <h2>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h2>
-  <ol>
-    {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
-    {% for post in series-posts %}
-    <li>
-      {% if post.url == page.url %}
-      <strong>{{ post.title }}</strong>
-      {% else %}
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      {% endif %}
-    </li>
-    {% endfor %}
-  </ol>
-  {% if series-posts.size < 3 %}
-  <p>More posts coming soon!</p>
-  {% endif %}
-</aside>

@@ -9,6 +9,25 @@ summary: Gloomhaven is made better with digital tools.
 series: Gloomhaven
 ---
 
+<aside class="series">
+  <h2>This post is part of the series <em>{{ page.series }}</em></h2>
+  <ol>
+    {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
+    {% for post in series-posts %}
+    <li>
+      {% if post.url == page.url %}
+      <strong>{{ post.title }}</strong>
+      {% else %}
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+  {% if series-posts.size < 2 %}
+  <p>More posts coming soon!</p>
+  {% endif %}
+</aside>
+
 [![Gloomhaven](https://cdn.shopify.com/s/files/1/0281/0173/8555/products/gloomhaven-3_2048x.jpg?v=1581874715 "Gloomhaven board game"){: width="100%"}](https://cephalofair.com/collections/board-games/products/gloomhaven)
 
 ## TL; DR
@@ -93,25 +112,3 @@ I use [Gloomhaven Perk Calculator](https://play.google.com/store/apps/details?id
 Lastly, there are applications to manager your combat deck. This removes one of the final bits of fiddlyness in the game. 
 
 I use [GHAttack](https://play.google.com/store/apps/details?id=com.ict376.tym.ghattack&hl=en_US&gl=US) available on Android.
-
-
----
-
-<aside class="series">
-  <h2>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h2>
-  <ol>
-    {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
-    {% for post in series-posts %}
-    <li>
-      {% if post.url == page.url %}
-      <strong>{{ post.title }}</strong>
-      {% else %}
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      {% endif %}
-    </li>
-    {% endfor %}
-  </ol>
-  {% if series-posts.size < 2 %}
-  <p>More posts coming soon!</p>
-  {% endif %}
-</aside>

@@ -9,6 +9,25 @@ summary: Giving credit for help has never been so easy in the open-source world.
 series: all-contributors
 ---
 
+<aside class="series">
+  <h2>This post is part of the series <em>{{ page.series }}</em></h2>
+  <ol>
+    {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
+    {% for post in series-posts %}
+    <li>
+      {% if post.url == page.url %}
+      <strong>{{ post.title }}</strong>
+      {% else %}
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+  {% if series-posts.size < 2 %}
+  <p>More posts coming soon!</p>
+  {% endif %}
+</aside>
+
 ![Pair Programming](/assets/img/posts/2021/04/pexels-startup-stock-photos-7374.jpg "Two People Pair Programming"){: width="50%" .center}
 _Photo by Startup Stock Photos from Pexels_
 
@@ -34,26 +53,3 @@ More and more, software is becoming a team sport. The one thing that gets in the
 ## Call to Action
 
 Read the next article on how to configure and use the "All Contributors" tools. Then use them. Also tell as many people as you can about this.
-
-----
-
-## Next
-
-<aside class="series">
-  <h2>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h2>
-  <ol>
-    {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
-    {% for post in series-posts %}
-    <li>
-      {% if post.url == page.url %}
-      <strong>{{ post.title }}</strong>
-      {% else %}
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      {% endif %}
-    </li>
-    {% endfor %}
-  </ol>
-  {% if series-posts.size < 2 %}
-  <p>More posts coming soon!</p>
-  {% endif %}
-</aside>

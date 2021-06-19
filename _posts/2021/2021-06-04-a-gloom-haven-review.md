@@ -9,6 +9,25 @@ summary: Gloomhaven is a game I enjoy but out of the box it has a high barrier t
 series: Gloomhaven
 ---
 
+<aside class="series">
+  <h2>This post is part of the series <em>{{ page.series }}</em></h2>
+  <ol>
+    {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
+    {% for post in series-posts %}
+    <li>
+      {% if post.url == page.url %}
+      <strong>{{ post.title }}</strong>
+      {% else %}
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+  {% if series-posts.size < 2 %}
+  <p>More posts coming soon!</p>
+  {% endif %}
+</aside>
+
 ## TL; DR
 
 Rating: <span class="fas fa-star"></span><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="far fa-star"></span><span class="far fa-star"></span> (+ <span class="fas fa-star"></span><span class="fas fa-star-half-alt"></span>) 3 stars but can be made into 4 1/2 stars.
@@ -74,24 +93,3 @@ Gloomhaven is a fun strategy game with a high barrier to entry. Even though this
 With some work these annoyances can be overcome. When they are overcome, this game is easily a 4-and-a-half-star game.
 
 I recommend it, but not to the casual gamer.
-
----
-
-<aside class="series">
-  <h2>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h2>
-  <ol>
-    {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
-    {% for post in series-posts %}
-    <li>
-      {% if post.url == page.url %}
-      <strong>{{ post.title }}</strong>
-      {% else %}
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      {% endif %}
-    </li>
-    {% endfor %}
-  </ol>
-  {% if series-posts.size < 2 %}
-  <p>More posts coming soon!</p>
-  {% endif %}
-</aside>

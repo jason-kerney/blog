@@ -9,6 +9,25 @@ summary: A retrospective is easily defined but hard to nail down.
 series: better-retro
 ---
 
+<aside class="series">
+  <h2>This post is part of the series <em>{{ page.series }}</em></h2>
+  <ol>
+    {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
+    {% for post in series-posts %}
+    <li>
+      {% if post.url == page.url %}
+      <strong>{{ post.title }}</strong>
+      {% else %}
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+  {% if series-posts.size < 3 %}
+  <p>More posts coming soon!</p>
+  {% endif %}
+</aside>
+
 ![Man looking up at a lot of hanging light bulbs](/assets/img/posts/2021/04/lights.jpg){: width="50%" .center}
 
 ## TL; DR
@@ -64,25 +83,4 @@ A trudge was defined best by [Chaucer](http://www.moviequotedb.com/movies/knight
 ## Recap
 
 Retrospectives can be defined [easily](https://www.google.com/search?q=definition+of+Retrospective&rlz=1C1GGRV_enUS752US752&oq=definition+of+Retrospective&aqs=chrome..69i57j0l5.9150j1j4&sourceid=chrome&ie=UTF-8), but the definition lacks meat. It has many roles to play. Each of these roles help improve how a team functions as a team.
-
-----
-
-<aside class="series">
-  <h2>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h2>
-  <ol>
-    {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
-    {% for post in series-posts %}
-    <li>
-      {% if post.url == page.url %}
-      <strong>{{ post.title }}</strong>
-      {% else %}
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      {% endif %}
-    </li>
-    {% endfor %}
-  </ol>
-  {% if series-posts.size < 3 %}
-  <p>More posts coming soon!</p>
-  {% endif %}
-</aside>
 

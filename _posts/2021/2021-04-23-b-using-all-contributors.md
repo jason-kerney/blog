@@ -9,6 +9,25 @@ summary: How to get started with the "All Contributors" specification
 series: all-contributors
 ---
 
+<aside class="series">
+  <h2>This post is part of the series <em>{{ page.series }}</em></h2>
+  <ol>
+    {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
+    {% for post in series-posts %}
+    <li>
+      {% if post.url == page.url %}
+      <strong>{{ post.title }}</strong>
+      {% else %}
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+  {% if series-posts.size < 2 %}
+  <p>More posts coming soon!</p>
+  {% endif %}
+</aside>
+
 ![A person building something](/assets/img/posts/2021/04/pexels-ivan-samkov-4491841.jpg "Get ready to build the ability to recognize contributions"){: width="50%" .center}
 _Photo by Ivan Samkov from Pexels_
 
@@ -46,26 +65,3 @@ npx all-contributors add {git user name} {type of contribution}
 ```
 
 Here are the types of [Contributors](https://allcontributors.org/docs/en/emoji-key).
-
-
-
-----
-
-<aside class="series">
-  <h2>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h2>
-  <ol>
-    {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
-    {% for post in series-posts %}
-    <li>
-      {% if post.url == page.url %}
-      <strong>{{ post.title }}</strong>
-      {% else %}
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      {% endif %}
-    </li>
-    {% endfor %}
-  </ol>
-  {% if series-posts.size < 2 %}
-  <p>More posts coming soon!</p>
-  {% endif %}
-</aside>

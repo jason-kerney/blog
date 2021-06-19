@@ -9,6 +9,25 @@ summary: Why do retrospectives fail?
 series: better-retro
 ---
 
+<aside class="series">
+  <h2>This post is part of the series <em>{{ page.series }}</em></h2>
+  <ol>
+    {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
+    {% for post in series-posts %}
+    <li>
+      {% if post.url == page.url %}
+      <strong>{{ post.title }}</strong>
+      {% else %}
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+  {% if series-posts.size < 3 %}
+  <p>More posts coming soon!</p>
+  {% endif %}
+</aside>
+
 {% assign related = site.posts | where: "title","Our Team Doesn’t Need to Retro" | first %}
 
 ![A burning building](/assets/img/posts/2021/05/pexels-anna-kester-5352942.jpg){: width="50%" .center}
@@ -64,24 +83,3 @@ This one is both the most straight forward and the most difficult to solve. You 
 The desire to improve will do a lot, but sometimes you may need help to get started. There are two things that will help. The first is find someone with the expertise to guide you. When looking, ask questions about what makes a good facilitator. Ignore everything said about retrospective activities, they are tools not solutions. Instead look to how they think about problem solving and how they can teach you to see problems that you don't recognize.
 
 The second is start studying about human systems and learning. The combination of these things will garner insight and help you find your first success.
-
-----
-
-<aside class="series">
-  <h2>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h2>
-  <ol>
-    {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
-    {% for post in series-posts %}
-    <li>
-      {% if post.url == page.url %}
-      <strong>{{ post.title }}</strong>
-      {% else %}
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      {% endif %}
-    </li>
-    {% endfor %}
-  </ol>
-  {% if series-posts.size < 3 %}
-  <p>More posts coming soon!</p>
-  {% endif %}
-</aside>
