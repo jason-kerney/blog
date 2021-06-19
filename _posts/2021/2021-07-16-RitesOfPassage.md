@@ -6,7 +6,7 @@ category: business
 author: Jason
 tags: ['process', 'people']
 summary:
-series: Rites-of-Passage
+series: "Rites of Passage"
 ---
 
 {% assign related = site.posts | where: "title","What I learned from Agile Transformations" | first %}

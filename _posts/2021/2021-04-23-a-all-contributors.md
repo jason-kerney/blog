@@ -6,7 +6,7 @@ category: development
 author: Jason
 tags: ['community', 'open source']
 summary: Giving credit for help has never been so easy in the open-source world.
-series: all-contributors
+series: "All Contributors Project"
 ---
 
 <aside class="series">

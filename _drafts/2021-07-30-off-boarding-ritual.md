@@ -6,7 +6,7 @@ category: business
 author: Jason
 tags: ['process', 'people']
 summary: 
-series: Rites-of-Passage
+series: "Rites of Passage"
 ---
 
 <aside class="series">

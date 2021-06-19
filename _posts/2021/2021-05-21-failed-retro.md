@@ -6,7 +6,7 @@ category: agility
 author: Jason
 tags: ['retrospective']
 summary: Why do retrospectives fail?
-series: better-retro
+series: "Making a better Retro"
 ---
 
 <aside class="series">

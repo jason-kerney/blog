@@ -6,7 +6,7 @@ category: development
 author: Jason
 tags: ['community', 'open source', 'how-to']
 summary: How to get started with the "All Contributors" specification
-series: all-contributors
+series: "All Contributors Project"
 ---
 
 <aside class="series">
