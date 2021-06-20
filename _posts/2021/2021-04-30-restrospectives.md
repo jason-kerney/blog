@@ -6,7 +6,7 @@ category: agility
 author: Jason
 tags: ['retrospective']
 summary: A retrospective is easily defined but hard to nail down.
-series: "Making a better Retro"
+series: "Making a Better Retro"
 ---
 
 <aside class="series">

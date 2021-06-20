@@ -6,7 +6,7 @@ category: agility
 author: Jason
 tags: ['retrospective']
 summary: Signs of a good retrospective
-series: "Making a better Retro"
+series: "Making a Better Retro"
 ---
 
 <aside class="series">
