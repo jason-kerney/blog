@@ -10,7 +10,7 @@ summary:
 
 {% assign related = site.posts | where: "title","What is a retrospective?" | first %}
 
-![A Chair Being Restored](/assets/img/posts/2021/07/pexels-mohan-reddy-atalu-4165992.jpg){: width="50%" .center}
+![An airplane being overgrown by trees](/assets/img/posts/2021/07/pexels-mohan-reddy-atalu-4165992.jpg){: width="50%" .center}
 _Photo by Mohan Reddy Atalu from Pexels_
 
 

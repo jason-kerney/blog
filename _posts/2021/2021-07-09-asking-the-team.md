@@ -8,7 +8,7 @@ tags: ['agility', 'mindset', 'team', 'safety']
 summary: 
 ---
 
-![A Chair Being Restored](/assets/img/posts/2021/07/pexels-thibault-trillet-167590.jpg){: width="50%" .center}
+![A man at concert being held up by crowd](/assets/img/posts/2021/07/pexels-thibault-trillet-167590.jpg){: width="50%" .center}
 _Photo by Thibault Trillet from Pexels_
 
 ## TL; DR

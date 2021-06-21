@@ -9,7 +9,7 @@ alias: [/posts/transformational-communication/, /2015/06/23/transformational-com
 summary: 
 ---
 
-![Person on far away cliff](/assets/img/posts/2021/06/pexels-cottonbro-4553169.jpg){: width="50%" .center}
+![Man with box on head with finger to head as if thinking.](/assets/img/posts/2021/06/pexels-cottonbro-4553169.jpg){: width="50%" .center}
 _Photo by cottonbro from Pexels_
 
 

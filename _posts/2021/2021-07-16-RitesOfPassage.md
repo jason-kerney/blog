@@ -10,7 +10,7 @@ series: "Rites of Passage"
 ---
 
 {% assign related = site.posts | where: "title","What I learned from Agile Transformations" | first %}
-![Woman on bridge in forest](/assets/img/posts/2021/07/pexels-flo-maderebner-238631.jpg){: width="50%" .center}
+![Woman on wooden bridge in forest](/assets/img/posts/2021/07/pexels-flo-maderebner-238631.jpg){: width="50%" .center}
 _Photo by Flo Maderebner from Pexels_
 
 <aside class="series">
