@@ -57,6 +57,18 @@ Yes, none of the definitions specifically call out work transitions, but the str
 
 The first thing is to realize that even small transitions in the workplace come with stress. It is the responsibility of leaders to think about and mitigate that stress as well as they can. The idea of a rite of passage can be a valuable tool in the tool kit of someone in a role.
 
+## Parts of a Rite of Passage
+
+A rite of passage has 3 distinct stages and a known plan. The plan will map out each stage with a given start and stop criteria. It will also call out expected points of uncertainty thereby normalizing them. It helps by giving those who going through the rite something solid to hold onto. That does not mean that each stage is meticulously scheduled, as that may be impossible. However, it does mean that quantifiable criteria is given for when each stage starts and stops.
+
+There are 3 distinct stages to every rite of passage, however, that does not mean there cannot be more. The first stage represents the initiation of a transition from one social status to another. This stage focusses on normalizing uncertainty and giving the initiate a framework to build bonds and seek help. This stage is also when the initiate leaves their old social group.
+
+The second stage is all about building up bonds that are forming. This starts to empower the individual and guides them to the acquisition of skills needed in their new social role. This stage will set the individual up for success within the new group.
+
+The second stage is also the stage where those who are effected by the transition get a chance to explore what the change will mean to them. Here the groups focus on themselves and how they are going to make their transition smoother.
+
+The last stage of a rite of passage is integration. This is where the initiate enters its new social role and is expected to be, and helped in becoming, a contributing member of this new group. When this stage is over, the individual is fulling part of their new group and can function without much assistance.
+
 ## Be Warned
 
 It is easy to use any tool as a weapon. What is worse is when we are talking about social tools, it is easier and easy to do unintentionally. We must be mindful of context, the people involved and how power is perceived and distributed through a system as well as what our intent is. **_Never_** build and design social tools in a vacuum. Things like this need to be reviewed by people with many different backgrounds, ethnic groups, and people that differ from you as possible to ensure you have something that is respectful of people. Then have it review by people in different roles and within the organization to ensure you are respecting the context.
