@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transformative Communication Second Edition
-date: 2021-06-25 14:00
+date: 2021-06-25 06:00
 category: business
 author: Jason
 tags: ['agility', 'people', 'mindset']
