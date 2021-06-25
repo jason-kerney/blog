@@ -46,7 +46,7 @@ If we have tested the messaging on a focus group, have you incorporated what you
 
 ### Examining Failed Messaging
 
-How did the intended group react to the messaging? Which quadrant does the reaction fall into? Did people ignore it? Did they all accept it to mean something different? Did the rebel against it? By examining their reaction, you know what you were lacking.
+How did the intended group react to the messaging? Which quadrant does the reaction fall into? Did people ignore it? Did they all accept it to mean something different? Did they rebel against it? By examining their reaction, you know what you were lacking.
 
 ### Example
 
