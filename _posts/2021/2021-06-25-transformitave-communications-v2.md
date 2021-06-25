@@ -26,7 +26,7 @@ I wrote about this concept back in 2015. Back when I wrote about it, I did not h
 
 ## Introduction
 
-Pasture Rob Horne, of Peñasquitos Lutheran Church, introduced me to this interesting way to examine transformational messaging back in 2015. When he talked about the simple way to trouble shoot the impact of transformational messages, I knew he had discovered something golden. At that time, I did not really understand how impactful it could be. Six years later, rereading what I wrote about the technique, it hits me that this is really an important tool for helping communicate in so many contexts. I believe Pasture Rob Horne really did discover a truth about conveying information.
+Pastor Rob Horne, of Peñasquitos Lutheran Church, introduced me to this interesting way to examine transformational messaging back in 2015. When he talked about the simple way to trouble shoot the impact of transformational messages, I knew he had discovered something golden. At that time, I did not really understand how impactful it could be. Six years later, rereading what I wrote about the technique, it hits me that this is really an important tool for helping communicate in so many contexts. I believe Pastor Rob Horne really did discover a truth about conveying information.
 
 ## What is it?
 
