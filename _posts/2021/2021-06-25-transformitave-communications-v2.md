@@ -26,7 +26,7 @@ I wrote about this concept back in 2015. Back when I wrote about it, I did not h
 
 ## Introduction
 
-Pasture Rob Horne, of Peñasquitos Lutheran Church, introduced me to this interesting way to examine transformational messaging back in 2015. When he talked about the simple way to trouble shoot the impact of transformational messages, I knew he had discovered something golden. At that time I did not really understand how impactful it could be. Six years later, rereading what I wrote about the technique, it hits me that this is really an important tool for helping communicate in so many contexts. I believe Pasture Rob Horne really did discover a truth about conveying information.
+Pasture Rob Horne, of Peñasquitos Lutheran Church, introduced me to this interesting way to examine transformational messaging back in 2015. When he talked about the simple way to trouble shoot the impact of transformational messages, I knew he had discovered something golden. At that time, I did not really understand how impactful it could be. Six years later, rereading what I wrote about the technique, it hits me that this is really an important tool for helping communicate in so many contexts. I believe Pasture Rob Horne really did discover a truth about conveying information.
 
 ## What is it?
 
@@ -40,7 +40,7 @@ When communicating information to a group of people it is easy to lose the messa
 
 ### Planning for Better Communications
 
-When delivering a message to a group of people, it is easy to forget the people the message is intended for. We can get wrapped up in the idea of the message, or even the act of delivering that message. We must ask if we are respecting the people who intended to receive the message? Is there some one from the intended group that can give us feedback on the approachability of the message, and to whether or not they received the correct message?
+When delivering a message to a group of people, it is easy to forget the people the message is intended for. We can get wrapped up in the idea of the message, or even the act of delivering that message. We must ask if we are respecting the people who intended to receive the message? Is there someone from the intended group that can give us feedback on the approachability of the message, and to whether they received the correct message?
 
 If we have tested the messaging on a focus group, have you incorporated what you learned?
 
@@ -56,7 +56,7 @@ They quickly realize that the phrasing causes fear and uncertainty. They make a 
 
 ## Cultural Accessibility
 
-Cultural Accessibility is a measure of how easily it is for the intended audience to accept the message. When the accessibility is at zero, it does not matter what the message is because the intended audience will not, and cannot hear it. This is about understanding and respecting both the audience and their audience needs.
+Cultural Accessibility is a measure of how easily it is for the intended audience to accept the message. When the accessibility is at zero, it does not matter what the message is because the intended audience will not and cannot hear it. This is about understanding and respecting both the audience and the audience’s needs.
 
 ## Intended Meaning
 
@@ -105,7 +105,7 @@ A company is rolling out a new policy they feel will improve productivity and ef
 
 ## In Summary
 
-Examining messaging before it is sent out is important; especially important if there is a power gap between sender and recipient. This tool gives a simple way to examine your communications before hand and help you think through how to deliver it.
+Examining messaging before it is sent out is important; especially important if there is a power gap between sender and recipient. This tool gives a simple way to examine your communications beforehand and help you think through how to deliver it.
 
 It is especially powerful when examining communications that fail. By looking at the reactions of the intended audience, you can determine:
 
