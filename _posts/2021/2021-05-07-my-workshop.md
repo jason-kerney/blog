@@ -4,7 +4,7 @@ title: The Workshop I helped Create
 date: 2021-05-07 06:00
 category: agility
 author: Jason
-tags: ['team', 'well-being', 'work-shop', 'open source']
+tags: ['team', 'well-being', 'work-shop', 'open source', 'human systems']
 ---
 
 ![Pawns of a Game](/assets/img/posts/2021/05/pexels-pixabay-163064.jpg)

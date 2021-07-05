@@ -4,7 +4,7 @@ title: Asking the Team
 date: 2021-07-09 06:00
 category: philosophy
 author: Jason
-tags: ['agility', 'mindset', 'team', 'safety']
+tags: ['agility', 'mindset', 'team', 'safety', 'human systems']
 summary: 
 ---
 

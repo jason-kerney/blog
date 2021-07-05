@@ -4,7 +4,7 @@ title: Onboarding a Human Into a Human System
 date: 2017-07-17 18:00
 category: business
 author: Jason
-tags: ['process', 'people', 'hiring']
+tags: ['process', 'people', 'hiring', 'human systems']
 summary: Onboarding is much more than a meeting with HR, it is the integration of new person.
 ---
 

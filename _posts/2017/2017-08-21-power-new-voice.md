@@ -4,7 +4,7 @@ title: The Power of a New Voice
 date: 2017-08-21 13:43
 category: life
 author: Jason
-tags: ['well-being']
+tags: ['well-being', 'human systems']
 summary: A new view of how you operate can give you the best insight. 
 ---
 

@@ -4,7 +4,7 @@ title: What is a retrospective?
 date: 2021-04-30 06:00
 category: agility
 author: Jason
-tags: ['retrospective']
+tags: ['retrospective', 'human systems']
 summary: A retrospective is easily defined but hard to nail down.
 series: "Making a Better Retro"
 ---

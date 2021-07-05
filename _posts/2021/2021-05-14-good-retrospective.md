@@ -4,7 +4,7 @@ title: What is a good retrospective?
 date: 2021-05-14 06:00
 category: agility
 author: Jason
-tags: ['retrospective']
+tags: ['retrospective', 'human systems']
 summary: Signs of a good retrospective
 series: "Making a Better Retro"
 ---

@@ -4,7 +4,7 @@ title: A Better Interview
 date: 2015-12-17 11:19
 category: development
 author: Jason
-tags: ['process', 'people', 'hiring']
+tags: ['process', 'people', 'hiring', 'human systems']
 summary: An approach to better safety
 alias: /2016/02/01/a-better-interview/
 ---

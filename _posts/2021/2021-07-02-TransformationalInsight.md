@@ -4,7 +4,7 @@ title: What I learned from Agile Transformations
 date: 2021-07-02 06:00
 category: agility
 author: Jason
-tags: ['agility', 'mindset']
+tags: ['agility', 'mindset', 'human systems']
 summary: 
 ---
 

@@ -4,7 +4,7 @@ title: What if We are Wrong?
 date: 2021-05-28 06:00
 category: agility
 author: Jason
-tags: ['process', 'philosophy', 'people']
+tags: ['process', 'philosophy', 'people', 'human systems']
 summary: What if the agile community is suffering from the curse of knowledge?
 ---
 

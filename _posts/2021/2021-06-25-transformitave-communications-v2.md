@@ -4,7 +4,7 @@ title: Transformative Communication Second Edition
 date: 2021-06-25 06:00
 category: business
 author: Jason
-tags: ['agility', 'people', 'mindset']
+tags: ['agility', 'people', 'mindset', 'human systems']
 alias: [/posts/transformational-communication/, /2015/06/23/transformational-communication/]
 summary: 
 ---

@@ -4,7 +4,7 @@ title: Diagnosing a failed retrospective
 date: 2021-05-21 06:00
 category: agility
 author: Jason
-tags: ['retrospective']
+tags: ['retrospective', 'human systems']
 summary: Why do retrospectives fail?
 series: "Making a Better Retro"
 ---

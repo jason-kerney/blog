@@ -4,7 +4,7 @@ title: Onboarding the First Rite of Success
 date: 2021-07-23 06:00
 category: business
 author: Jason
-tags: ['process', 'people']
+tags: ['process', 'people', 'human systems']
 summary:
 series: "Rites of Passage"
 ---
