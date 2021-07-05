@@ -30,6 +30,8 @@ _Photo by Andrea Piacquadio from Pexels_
   </ol>
 </aside>
 
+{% assign related = site.posts | where: "title","Onboarding a Human Into a Human System" | first %}
+
 ## TL; DR
 
 Hiring a new employee comes with a whole lot of uncertainty that most companies do not address well. Looking at our onboarding as a rite of passage can help us address this uncertainty and simplify the means of building trust through the organization.
@@ -103,6 +105,10 @@ The second intent of this stage is to allow the new groups to explore what intig
 ### Integration
 
 The last stage is the integration of the individual within their new groups. What determines that the individual is going to be successful in their new position? Has the individual been given those things? Integrating someone into a group takes time and effort. Knowing when that is done is crucial for the success of everyone.
+
+## Thoughts
+
+In a [back in 2015]({{ related.url }}) I wrote about how the company I was at was handling onboarding. Looking back at that post, I realize I was writing about a rite of passage that was designed for that company's context. It came about by talking to new hires about the problems they faced when being hired. By listening to their contexts and input, we had covered all three stages needed for a rite to be successful.
 
 ## Conclusion
 
