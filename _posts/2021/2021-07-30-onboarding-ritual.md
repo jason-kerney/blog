@@ -9,7 +9,6 @@ summary:
 series: "Rites of Passage"
 ---
 
-
 ![Person Waiting for Train](/assets/img/posts/2021/07/pexels-andrea-piacquadio-837358.jpg)
 _Photo by Andrea Piacquadio from Pexels_
 
