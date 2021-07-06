@@ -9,6 +9,9 @@ summary:
 series: "Rites of Passage"
 ---
 
+![Game Over Sign in Multiple Colors](/assets/img/posts/2021/08/pexels-cottonbro-4835419.jpg){: width="50%" .center}
+_Photo by cottonbro from Pexels_
+
 <aside class="series">
   <h2>This post is part of the series <em>{{ page.series }}</em></h2>
   <ol>
