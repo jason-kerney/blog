@@ -21,7 +21,7 @@ Mid April 2020, I was hired as a senior full-stack engineer, with the understand
 
 ## Deciding to Take the Job
 
-I did as much do-diligence I was able to do on what the position would detail, its pay, and its growth potential. When I was satisfied I did something that scared me. I told the team about the offer, and gave them an anonymous form to tell me if they wanted me as a coach. I also informed them that if anyone said no, I would refuse the job, and be happy to do it.
+I did as much due-diligence I was able to do on what the position would detail, its pay, and its growth potential. When I was satisfied I did something that scared me. I told the team about the offer, and gave them an anonymous form to tell me if they wanted me as a coach. I also informed them that if anyone said no, I would refuse the job, and be happy to do it.
 
 ## Handling the Fallout
 
