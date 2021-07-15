@@ -56,3 +56,11 @@ However that lose is not only felt by the peers, but by the individual who has j
 ## A Stranger
 
 At the same time the individual is leaving a group, they are also joining one. They may have worked with these people before, and because of that, familiarity can cause problems here. Do not underestimate how much of a stranger an individual can become when their role changes. They are no longer working with these people in the same capacity, they are now peers. Everyone needs time and structure to help navigate and understand that relationship. Providing that structure helps individuals feel safe and invited during that process.
+
+## Giving of a Path
+
+By considering the parts of a rite of passage and a timeline for that rite of passage, you provide everyone in the organization a path to navigate the uncertainty of a change in role.
+
+With the first stage, you are again focusing on skills acquisition. A new role, has new skills, including social. With the second stage you are reforming groups. One group has lost a member and another has gained one. Take time to reform these groups. The last stage is about intigration and acceptance by everyone of a newly understood status quo.
+
+Once all stages have been mapped out for all involved, it will hopefully make the transition easier.
