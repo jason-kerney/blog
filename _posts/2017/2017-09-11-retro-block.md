@@ -6,6 +6,7 @@ category: agility
 author: Jason
 tags: ['well-being', 'retrospective', 'human systems']
 summary: Increasing frequency can make reto's valuable again.
+alias: /2017/09/11/our-team-doesnt-need-to-retro/
 ---
 
 <div style="display: flex; align-items: center; justify-content: center;">
