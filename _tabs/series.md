@@ -8,9 +8,16 @@ order: 4
     {% assign series-posts = site.posts | where_exp: 'item', "item.series != nil" %}
     {% assign series-names = series-posts | map: "series" | uniq %}
     {% for name in series-names %}
-      {% assign post = series-posts | where_exp: 'item', 'item.series == name' | last %}
+      {% assign series-current = series-posts | where_exp: 'item', 'item.series == name' %}
+      {% assign post = series-current | last %}
+      {% assign count = series-current | size %}
+      {% if count < 2 %}
+        {% assign postfix = '' %}
+      {% else %}
+        {% assign postfix = 's' %}
+      {% endif %}
       <li>
-        <a href="{{ post.baseurl }}{{ post.url }}">{{ name }}</a>
+        <a href="{{ post.baseurl }}{{ post.url }}">{{ name }}</a> - {{ count }} post{{ postfix }}
       </li>
     {% endfor %}
 
