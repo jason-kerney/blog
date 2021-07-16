@@ -30,6 +30,7 @@ _Photo by Shiva Smyth from Pexels_
 
 ## TL; DR
 
+Transformation is a big complex thing. By looking at how peoples relationships and work changes you can use rites of passage to illuminate just how complex it really is.
 
 ---
 
