@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Duplicity of Duplicate Code
-date: 2021-08-27 06:00
+date: 2021-09-03 06:00
 category: development
 author: Jason Kerney
 tags: ['mindset']
@@ -34,7 +34,7 @@ An example I recently saw regarding this concern dealt with building micro-servi
 
 So, there is a problem if in our effort to reduce duplication of code, we then have to change things that are unrelated. Now we can agree that maybe DRY was a bit too simple of an approach. We reduce noise by increasing duplication of code.
 
-What happens if that code is the realization of business context? Well, that would mean, when the code changes it is representative of some piece of business context changing. If the business context has changed, then we introduce a bug into the system if everywhere that change was missed. I think of these types of bugs as "Drift Damage". Drift Damage is the damage that happens to the product when differences in duplicated code introduces bugs into the system.
+What happens if that code is the realization of business context? Well, that would mean, when the code changes it is representative of some piece of business context changing. If the business context has changed, then we introduce a bug into the system everywhere that change was missed. I think of these types of bugs as "Drift Damage". Drift Damage is the damage that happens to the product when differences in duplicated code introduces bugs into the system.
 
 This then highlights the need of that code to be hosted somewhere central. This also highlights that there is another principle at play here.
 
