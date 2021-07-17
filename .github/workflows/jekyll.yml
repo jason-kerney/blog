@@ -62,22 +62,20 @@ jobs:
           rm ./posts -f -r
           rm ./series -f -r
           rm ./tags -f -r
-          rm ./404.html -f
-          rm ./app.js -f
-          rm ./feed.xml -f
-          rm ./index.html -f
-          rm ./redirects.json -f
-          rm ./robots.txt -f
-          rm ./sitemap.xml -f
-          rm ./sw.js -f
+          rm ./*.html -f
+          rm ./*.js -f
+          rm ./*.xml -f
+          rm ./*.json -f
+          rm ./*.txt -f
       - name: Download site
         uses: actions/download-artifact@v2.0.5
         with:
           name: site
           path: jason-kerney.github.io
-      - name: List
+      - name: Push
         run: |
-          ls
           cd ./jason-kerney.github.io
           ls
-          
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Automatic publish from github.com/jason-kerney/blog"
+          git push target master
