@@ -76,5 +76,8 @@ jobs:
           name: site
           path: jason-kerney.github.io
       - name: List
-        run: ls
+        run: |
+          ls
+          cd ./jason-kerney.github.io
+          ls
           
