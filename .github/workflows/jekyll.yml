@@ -74,7 +74,7 @@ jobs:
         uses: actions/download-artifact@v2.0.5
         with:
           name: site
-          path: .
+          path: jason-kerney.github.io
       - name: List
         run: ls
           
