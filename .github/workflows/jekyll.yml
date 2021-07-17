@@ -76,6 +76,8 @@ jobs:
         run: |
           cd ./jason-kerney.github.io
           ls
+          git config --global user.email "jason@teamkerney.com"
+          git config --global user.name "jason-kerney"
           git add .
           git diff-index --quiet HEAD || git commit -m "Automatic publish from github.com/jason-kerney/blog"
           git push target master
