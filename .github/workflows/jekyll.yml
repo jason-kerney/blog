@@ -40,3 +40,31 @@ jobs:
           name: site
           path: _site/*
           if-no-files-found: error
+          
+  deploy:
+    runs-on: ubuntu-latest
+    needs: [build]
+    steps:
+      - name: clone publish site
+      - run: |
+             git clone https://.:${{ secrets.PUBLISHKEY }}@github.com/jason-kerney/jason-kerney.github.io.git
+             cd ./jason-kerney.github.io
+             rm ./20* -f -r
+             rm ./about -f -r
+             rm ./archives -f -r
+             rm ./assets -f -r
+             rm ./categories -f -r
+             rm ./norobots -f -r
+             rm ./now -f -r
+             rm ./page* -f -r
+             rm ./posts -f -r
+             rm ./series -f -r
+             rm ./tags -f -r
+             rm ./404.html -f
+             rm ./app.js -f
+             rm ./feed.xml -f
+             rm ./index.html -f
+             rm ./redirects.json -f
+             rm ./robots.txt -f
+             rm ./sitemap.xml -f
+             rm ./sw.js -f
