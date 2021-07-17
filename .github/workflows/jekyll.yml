@@ -69,4 +69,12 @@ jobs:
           rm ./redirects.json -f
           rm ./robots.txt -f
           rm ./sitemap.xml -f
-           rm ./sw.js -f
+          rm ./sw.js -f
+      - name: Download site
+        uses: actions/download-artifact@v2.0.5
+        with:
+          name: site
+          path: .
+      - name: List
+        run: ls
+          
