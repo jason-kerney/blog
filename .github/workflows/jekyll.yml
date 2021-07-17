@@ -48,6 +48,8 @@ jobs:
       - name: clone publish site
         run: |
           git clone https://.:${{ secrets.PUBLISHKEY }}@github.com/jason-kerney/jason-kerney.github.io.git
+      - name: Remove old items
+        run: |
           cd ./jason-kerney.github.io
           rm ./20* -f -r
           rm ./about -f -r
@@ -59,12 +61,12 @@ jobs:
           rm ./page* -f -r
           rm ./posts -f -r
           rm ./series -f -r
-           rm ./tags -f -r
-           rm ./404.html -f
-           rm ./app.js -f
-           rm ./feed.xml -f
-           rm ./index.html -f
-           rm ./redirects.json -f
-           rm ./robots.txt -f
-           rm ./sitemap.xml -f
+          rm ./tags -f -r
+          rm ./404.html -f
+          rm ./app.js -f
+          rm ./feed.xml -f
+          rm ./index.html -f
+          rm ./redirects.json -f
+          rm ./robots.txt -f
+          rm ./sitemap.xml -f
            rm ./sw.js -f
