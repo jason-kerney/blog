@@ -26,7 +26,7 @@ There are a lot of boundries that divide an office into discreet groups. There a
 
 ## Important Note
 
-There are a lot of real geo-political issues around othering. For the purpose of this article, I am going to limit the discussion to those that happen in the office, and mostly those that happen around different small group cultures. This does not mean the other issues are not important, nor insignificant. If you are experiencing othering for sexual, racial, or broader cultural differences please seek qualified [help](https://civilrights.justice.gov/).
+There are a lot of real geo-political issues around othering. For this article, I am going to limit the discussion to those that happen in the office, and mostly those that happen around different small group cultures. This does not mean the other issues are not important, nor insignificant. If you are experiencing othering for sexual, racial, or broader cultural differences please seek qualified [help](https://civilrights.justice.gov/).
 
 ## Small Group Cultures
 
@@ -54,7 +54,7 @@ Other by default is a dangerous and costly natural process we need to be aware o
 
 ## The Other Enemy
 
-When someone or someones who has become "the other" and then is perceived as getting in the way of our effectiveness, it becomes easy to declare them "the enemy." After all only an enemy would _want_ us to fail. Only an enemy would get in our way.
+When someone or someones who has become "the other" and then is perceived as getting in the way of our effectiveness, it becomes easy to declare them "the enemy." After all, only an enemy would _want_ us to fail. Only an enemy would get in our way.
 
 This is the road to [Moral Disengagement](https://en.wikipedia.org/wiki/Moral_disengagement). Declaring someone our enemy gives us moral high-ground and allows us to be combative. The issue with Moral Disengagement is the real issue of othering. It is what leads to the worst behaviors toward another individual.
 
@@ -64,18 +64,18 @@ What are the effects of Moral Disengagement in our office relationships? What ha
 
 If the perception of someone as alien is the problem, then the solution is humanization. That sounds easy, they are human. There we are done.
 
-Only if it was that easy. The first step is to recognize when people be come "the other." [Outward Mindset](https://www.amazon.com/Outward-Mindset-Seeing-Beyond-Ourselves/dp/1626567158) by the Arbinger Institute talks about how hard, and crucial, this first step is. It also talks about how it is the responsibility of the individual to notice.
+Only if it was that easy. The first step is to recognize when people become "the other." [Outward Mindset](https://www.amazon.com/Outward-Mindset-Seeing-Beyond-Ourselves/dp/1626567158) by the Arbinger Institute talks about how hard, and crucial, this first step is. It also talks about how it is the responsibility of the individual to notice.
 
 What is interesting though, is it talks about how to help someone else out of, what they call, the inward mindset. The inward mindset is what I have been calling "Othering". To help someone out of the inward mindset, you first have to step out of the inward mindset and show the person compassion.
 
 Strangely enough, "other" is contagious. When you other someone, they will in turn other you. Weirdly enough, when you other someone, people, who feel strong group ties with you, will also other that person. The only way to break the cycle is to show empathy, and compassion for the person who is currently othering you.
 
-This does not mean to take the abuse and accept it, but accept that they are trying to do the best thing. Step back and learn their perspective. What is it that they are trying to accomplish? How is it that they see you or your group as getting in the way? Offer to help.
+This does not mean to take the abuse and accept it but accept that they are trying to do the best thing. Step back and learn their perspective. What is it that they are trying to accomplish? How is it that they see you or your group as getting in the way? Offer to help.
 
-These things go a long way to stopping othering. They are not sure fixes, but will help in most situations.
+These things go a long way to stopping othering. They are not sure fixes but will help in most situations.
 
 # In Conclusion
 
-There are a lot of things in the office that help us other people who belong to other groups. It is not healthy for us, or the company to that. We can all recenter, and grow our compassion in resistance to the things that encourage us to see each other as "the other."
+There are a lot of things in the office that help us other people who belong to other groups. It is not healthy for us, or the company to that. We can all recenter and grow our compassion in resistance to the things that encourage us to see each other as "the other."
 
-First step though is the hardest. We need to recognize when we are looking at someone else as alien rather then human.
+First step though is the hardest. We need to recognize when we are looking at someone else as alien rather than human.
