@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Spread of "The Other"
+title: The "Other" Working Next to Me
 date: 2021-09-10 00:30
 category: business
 author: Jason Kerney
