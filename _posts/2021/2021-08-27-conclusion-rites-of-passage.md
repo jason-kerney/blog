@@ -45,11 +45,11 @@ Examining transitions and asking, "What are the sources of uncertainty?" allow u
 
 ### First Stage
 
-In the first stage, as was said before we draw attention to the fact that things are new. We make explicit what was previously implicit. The goal here is to give people permission to acknowledge the newness of the situation. What is new, and how we acknowledge it will change from situation to situation, but the need to recognize it remains.
+In the first stage, as was said before we draw attention to the fact that things are new. We make explicit what was previously implicit. The goal here is to give people permission to acknowledge the newness of the situation. What is new, and how we acknowledge it will change from situation to situation, but the need to recognize it remains?
 
 Sometimes we are giving people the right to grieve, other times it is the right to make mistakes. Sometimes both.
 
-When approaching a new situation, one that was not mentioned before, ask yourself: "What makes this situation feel new?" Then focus on that. It may feel weird, after all most people are not use to addressing emotions in the western workforce.
+When approaching a new situation, one that was not mentioned before, ask yourself: "What makes this situation feel new?" Then focus on that. It may feel weird, after all most people are not used to addressing emotions in the Western workforce.
 
 ### Second Stage
 
@@ -61,7 +61,7 @@ One thing that is sometimes surprising is that the very container can change its
 
 This stage feels the most nebulous. People have already accepted their difference, and acquired new skills, yet there is something left undone. Here we signal to all involved that the transitional process is over. This gives individuals explicit permission to move on. It is important to give that permission, as not doing so can leave people with a sense that things were incomplete or unsettled.
 
-## Tieing it all together
+## Tying it all together
 
 So, this is my take on how rites of passage can help businesses. I know there is little here in the way of examples, templates, or formulas to follow. That is intentional. If I gave people these things, they would use them. In using a rite of passage developed in a different context, they would fail. I wish to save people that pain, but it means that I cannot give you a clear-cut answer.
 
