@@ -61,11 +61,15 @@ The first thing is to realize that even small transitions in the workplace come 
 
 A rite of passage has a known plan with three distinct stages. The plan will map out each stage with given start and stop criteria. It will also call out expected points of uncertainty, thereby normalizing them. It helps by giving those who are going through the rite something solid to hold onto. That does not mean that each stage is meticulously scheduled, as that may be impossible. However, it does mean that quantifiable criteria are given for when each stage starts and stops.
 
+### Initiation
 There are at least three distinct stages to every rite of passage, but that does not mean there cannot be more. The first stage represents the initiation of a transition from one social status to another. This stage focuses on normalizing uncertainty and giving the initiate a framework to build bonds and seek help. This stage is also when the initiate leaves their old social group.
 
+### Skills Acquisition
 The second stage is all about building up bonds that are forming. This starts to empower the individual and guides them to the acquisition of skills needed in their new social role. This stage will set the individual up for success within the new group.
 
 The second stage is also the stage where those who are affected by the transition get a chance to explore what the change will mean to them. Here the groups focus on themselves and how they are going to make their transition smoother.
+
+### Integration
 
 The last stage of a rite of passage is integration. This is where the initiate enters their new social role and is expected to be, and helped in becoming, a contributing member of this new group. When this stage is over, the individual is fulfilling part of their new group and can function without much assistance.
 
