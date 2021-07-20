@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rite of Passage when Someone Changes Position
-date: 2021-08-13 06:00
+date: 2021-08-13 00:30
 category: business
 author: Jason
 tags: ['process', 'people', 'human systems']

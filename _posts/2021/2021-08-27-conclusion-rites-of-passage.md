@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conclusion - Rites of Passage
-date: 2021-08-27 06:00
+date: 2021-08-27 00:30
 category: business
 author: Jason
 tags: ['process', 'people', 'human systems']
