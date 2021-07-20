@@ -30,7 +30,7 @@ _Photo by cottonbro from Pexels_
 
 ## TL; DR
 
-When a person leaves a company, everyone who worked with that person enters a transition period, and a time of uncertainty. This is true whether the persons departure was planned, unplanned, voluntary, involuntary, or for the safety of those around that person. Realizing this uncertainty and approaching it head on will help the transition to be less disruptive. This is where having one or more rites of passage can help.
+When a person leaves a company, everyone who worked with that person enters a transition period, and a time of uncertainty. This is true whether the persons departure was planned, unplanned, voluntary, involuntary. Realizing this uncertainty and approaching it head on will help the transition to be less disruptive. This is where having one or more rites of passage can help.
 
 ----
 

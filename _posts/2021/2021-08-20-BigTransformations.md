@@ -30,7 +30,7 @@ _Photo by Shiva Smyth from Pexels_
 
 ## TL; DR
 
-Transformation is a big complex thing. By looking at how peoples relationships and work changes you can use rites of passage to illuminate just how complex it really is.
+Transformation is a big complex thing. By looking at how people’s relationships and work changes you can use rites of passage to illuminate just how complex it really is.
 
 ---
 
@@ -38,7 +38,7 @@ Transformation is a big complex thing. By looking at how peoples relationships a
 
 So far, we have looked at rites of passage that are caused by the transition of a single individual. Someone new entering the company, someone leaving the company, and someone who's role has changed in the company. Now I want to think about rites of passages for larger groups of individuals. What happens when there is a change that effects the social status of everyone in a department or a company?
 
-These can be simple transitions like the back to work policy after the initial COVID quarantine, all the way to the infamous agile transformation. The thing here is to note that with such changes, people enter a time of uncertainty.
+These can be simple transitions like the back to work policy after the initial COVID quarantine, all the way to the infamous Agile transformation. The thing here is to note that with such changes, people enter a time of uncertainty.
 
 ## Pain at Scale
 
@@ -56,7 +56,7 @@ This creates a significant load on a single person. They must track where they a
 
 ## Change of Role but for Everyone
 
-Most of the circumstances of a big transformation are covered by the discussion about the changing of roles in the previous post. Since the organization is redefining itself and the roles of its members. So you will want to start with rites of passage that address this.
+Most of the circumstances of a big transformation are covered by the discussion about the changing of roles in the previous post. Since the organization is redefining itself and the roles of its members. So, you will want to start with rites of passage that address this.
 
 ## Offboarding needs to happen also
 
