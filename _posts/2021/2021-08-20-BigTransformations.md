@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rites of the Big Transformation
-date: 2021-08-20 06:00
+date: 2021-08-20 00:30
 category: business
 author: Jason
 tags: ['process', 'people', 'human systems']

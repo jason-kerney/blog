@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rites of Passage in the Workplace
-date: 2021-07-23 06:00
+date: 2021-07-23 00:30
 category: business
 author: Jason
 tags: ['process', 'people', 'human systems']
