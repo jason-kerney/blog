@@ -19,7 +19,7 @@ I was blessed by finding wonderful mentors at the right times in my life and now
 
 ## Family
 
-I have a wife, 2 children, and two dogs.
+I have a wife, 2 children, and a dog.
 
 ## Publications
 
