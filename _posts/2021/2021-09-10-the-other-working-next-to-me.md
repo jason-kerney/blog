@@ -11,7 +11,6 @@ summary:
 ![Girl with Rapiers pointed at her](/assets/img/posts/2021/09/pexels-cottonbro-7407853.jpg){: width="70%" .center}
 _Photo by cottonbro from Pexels_
 
-
 ## TL; DR
 
 There are a lot of boundries that divide an office into discreet groups. There are also incentives that can cause these groups to see each other as enemy rather then people working toward a common cause. We need to recognize when this happens and learn to approach each other with compassion in order to stop the cycle.
@@ -74,7 +73,7 @@ This does not mean to take the abuse and accept it but accept that they are tryi
 
 These things go a long way to stopping othering. They are not sure fixes but will help in most situations.
 
-# In Conclusion
+## In Conclusion
 
 There are a lot of things in the office that help us other people who belong to other groups. It is not healthy for us, or the company to that. We can all recenter and grow our compassion in resistance to the things that encourage us to see each other as "the other."
 
