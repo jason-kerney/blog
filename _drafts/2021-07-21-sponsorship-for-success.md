@@ -11,10 +11,9 @@ summary:
 ![??](/assets/img/posts/2021/09/??){: width="70%" .center}
 _Photo by ??_
 
-
 ## TL; DR
 
-
+Take responsibility to help those who are not being heard to be heard.
 
 ---
 
@@ -67,4 +66,4 @@ There are many more possible situations that can lead to someone being quiet. Ea
 
 ## Building on a Foundation of Respect
 
-It is the responsibility of everyone, especially those who are not afraid to speak to be a sponsor to those who's voices are not as often heard.
+It is the responsibility of everyone, especially those who are not afraid to speak to be a sponsor to those who's voices are seldom heard. This responsibility is not an easy one, but it is disastrous when it is not upheld.
