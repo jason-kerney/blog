@@ -13,6 +13,10 @@ series: "Rites of Passage"
 ![Woman on wooden bridge in forest](/assets/img/posts/2021/07/pexels-flo-maderebner-238631.jpg){: width="50%" .center}
 _Photo by Flo Maderebner from Pexels_
 
+## TL; DR
+
+_Rites of Passage_ help people transition through periods of uncertainty by both giving them a known and accepted routine to focus on, and by signaling to the individual and group that a change has happened. The use of rites of passage have been well-documented in sociology and psychology in helping people with transitions. Therefore, it makes sense that businesses utilize these methods to help teams and individuals with change. However, in my experience, they do not. This is a chance for companies, agile coaches, and individuals to start thinking about rites of passage and how they can be harnessed for good.
+
 <aside class="series">
   <h2>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h2>
   <ol>
@@ -28,10 +32,6 @@ _Photo by Flo Maderebner from Pexels_
     {% endfor %}
   </ol>
 </aside>
-
-## TL; DR
-
-_Rites of Passage_ help people transition through periods of uncertainty by both giving them a known and accepted routine to focus on, and by signaling to the individual and group that a change has happened. The use of rites of passage have been well-documented in sociology and psychology in helping people with transitions. Therefore, it makes sense that businesses utilize these methods to help teams and individuals with change. However, in my experience, they do not. This is a chance for companies, agile coaches, and individuals to start thinking about rites of passage and how they can be harnessed for good.
 
 ## What is a _Rite of Passage_
  

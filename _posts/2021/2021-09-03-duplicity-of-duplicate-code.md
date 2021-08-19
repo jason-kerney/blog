@@ -11,7 +11,6 @@ summary:
 ![Two Cars Driving on a flooded road](/assets/img/posts/2021/08/pexels-sveta-8568720.jpg){: width="70%" .center}
 _Photo by Sveta from Pexels_
 
-
 ## TL; DR
 
 “Don't repeat yourself” helped developers avoid pitfalls and a host of bad designs. That is until it did not. The question started to become duplication vs coupling. Which is better and when? But I must ask if the issue at hand here is really about duplication or coupling? I believe there is something beneath all of this. Something that needs to be paid more attention. That thing is "damage."

@@ -12,6 +12,10 @@ series: "Rites of Passage"
 ![Game Over Sign in Multiple Colors](/assets/img/posts/2021/08/pexels-cottonbro-4835419.jpg){: width="50%" .center}
 _Photo by cottonbro from Pexels_
 
+## TL; DR
+
+When a person leaves a company, everyone who worked with that person enters a transition period, and a time of uncertainty. This is true whether the persons departure was planned, unplanned, voluntary, involuntary. Realizing this uncertainty and approaching it head on will help the transition to be less disruptive. This is where having one or more rites of passage can help.
+
 <aside class="series">
   <h2>This post is part of the series <em>{{ page.series }}</em></h2>
   <ol>
@@ -27,10 +31,6 @@ _Photo by cottonbro from Pexels_
     {% endfor %}
   </ol>
 </aside>
-
-## TL; DR
-
-When a person leaves a company, everyone who worked with that person enters a transition period, and a time of uncertainty. This is true whether the persons departure was planned, unplanned, voluntary, involuntary. Realizing this uncertainty and approaching it head on will help the transition to be less disruptive. This is where having one or more rites of passage can help.
 
 ----
 
