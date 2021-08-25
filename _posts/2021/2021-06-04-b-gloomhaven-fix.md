@@ -40,7 +40,7 @@ This is the hardest thing for me to recommend. Good organizers cost almost as mu
 
 **HOWEVER**, it is a must. Without a good organizational system, it will take you more time to setup the game and put it away then it will to play it.
 
-I purchased the [broken token organizer](https://www.amazon.com/Broken-Token-Organizer-Gloomhaven/dp/B073X4Z24Q). This is a really nice system, but the best part is the way it organizes the monsters. Each class of monster gets its own box that is clearly labeled.
+I purchased an organizer similar to [this one](https://www.amazon.com/Broken-Token-Organizer-Gloomhaven/dp/B073X4Z24Q). The key point here is that each monster and game token is easily identifiable. This will greatly reduce setup and tear down times.
 
 ## Combat Tracker
 
