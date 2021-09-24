@@ -14,6 +14,8 @@ Rating: <span class="fas fa-star"></span><span class="fas fa-star"><span class="
 
 Overall, a really good introduction to Domain Driven Development. However, the author spends too much time selling his other book on domain driven development. If the writer would have only mentioned his other book once this could have been a 4 star book. If the writer could have woven other references in besides his own, it would have been a 5 star book.
 
+![Domain Driven Design Distilled Cover](/assets/img/posts/2021/09/DDDD.jpg){: width="70%" .center}
+
 ----
 
 ## A Great Spot For Beginners
