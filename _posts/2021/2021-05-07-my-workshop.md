@@ -5,14 +5,17 @@ date: 2021-05-07 06:00
 category: agility
 author: Jason
 tags: ['team', 'well-being', 'work-shop', 'open source', 'human systems']
+summary: Zach Bonaker and I made a simulation exercise I am really proud of. It focuses on how the environmental rules determine a team's success. You can find it on GitHub.
 ---
-
-![Pawns of a Game](/assets/img/posts/2021/05/pexels-pixabay-163064.jpg)
-_Photo by Pixabay from Pexels_
 
 ## TL; DR
 
 [Zach Bonaker](https://agileoutloud.wordpress.com) and I made a simulation exercise I am really proud of. It focuses on how the environmental rules determine a team's success. [Here](https://github.com/jason-kerney/TeamEnvironmentBoardGameWorkShop "Board Game Workshop") is where you can try it.
+
+---
+
+![Pawns of a Game](/assets/img/posts/2021/05/pexels-pixabay-163064.jpg)
+_Photo by Pixabay from Pexels_
 
 ## Intro
 

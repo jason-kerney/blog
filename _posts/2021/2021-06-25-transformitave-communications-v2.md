@@ -6,16 +6,17 @@ category: business
 author: Jason
 tags: ['agility', 'people', 'mindset', 'human systems']
 alias: [/posts/transformational-communication/, /2015/06/23/transformational-communication/]
-summary: 
+summary: Communicating is hard. It is harder when that communication is intended to have an impact on those who receive it. It is too easy to be too accommodating and lose the thread of intent. It is also too easy to forget about the context of the audience and make the message unaccessible to them. By using a simple quadrant graph, I will talk about how to examine the effectiveness of your communications.
 ---
-
-![Man with box on head with finger to head as if thinking.](/assets/img/posts/2021/06/pexels-cottonbro-4553169.jpg){: width="50%" .center}
-_Photo by cottonbro from Pexels_
-
 
 ## TL;DR
 
 Communicating is hard. It is harder when that communication is intended to have an impact on those who receive it. It is too easy to be too accommodating and lose the thread of intent. It is also too easy to forget about the context of the audience and make the message unaccessible to them. By using a simple quadrant graph, I will talk about how to examine the effectiveness of your communications.
+
+---
+
+![Man with box on head with finger to head as if thinking.](/assets/img/posts/2021/06/pexels-cottonbro-4553169.jpg){: width="50%" .center}
+_Photo by cottonbro from Pexels_
 
 ## Note
 

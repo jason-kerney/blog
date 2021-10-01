@@ -5,16 +5,18 @@ date: 2021-07-30 00:30
 category: business
 author: Jason
 tags: ['process', 'people', 'human systems']
-summary:
+summary: Hiring a new employee comes with a whole lot of uncertainty that most companies do not address well. Looking at our onboarding as a rite of passage can help us address this uncertainty and simplify the means of building trust through the organization.
 series: "Rites of Passage"
 ---
-
-![Person Waiting for Train](/assets/img/posts/2021/07/pexels-andrea-piacquadio-837358.jpg)
-_Photo by Andrea Piacquadio from Pexels_
 
 ## TL; DR
 
 Hiring a new employee comes with a whole lot of uncertainty that most companies do not address well. Looking at our onboarding as a rite of passage can help us address this uncertainty and simplify the means of building trust through the organization.
+
+---
+
+![Person Waiting for Train](/assets/img/posts/2021/07/pexels-andrea-piacquadio-837358.jpg)
+_Photo by Andrea Piacquadio from Pexels_
 
 <aside class="series">
   <h2>This post is part of the series <em>{{ page.series }}</em></h2>

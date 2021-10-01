@@ -5,16 +5,18 @@ date: 2021-08-27 00:30
 category: business
 author: Jason
 tags: ['process', 'people', 'human systems']
-summary: 
+summary: Planning rites of passage basically looks the same. The results are different, but that is because of contextual differences. When you look over all the previous posts in this series the similarities in questions are worth calling out.
 series: "Rites of Passage"
 ---
-
-![Butterfly and Pupa](/assets/img/posts/2021/08/pexels-miriam-fischer-2671074.jpg){: width="70%" .center}
-_Photo by Miriam Fischer from Pexels_
 
 ## TL; DR
 
 Planning rites of passage basically looks the same. The results are different, but that is because of contextual differences. When you look over all the previous posts in this series the similarities in questions are worth calling out.
+
+---
+
+![Butterfly and Pupa](/assets/img/posts/2021/08/pexels-miriam-fischer-2671074.jpg){: width="70%" .center}
+_Photo by Miriam Fischer from Pexels_
 
 <aside class="series">
   <h2>This post is part of the series <em>{{ page.series }}</em></h2>
@@ -31,8 +33,6 @@ Planning rites of passage basically looks the same. The results are different, b
     {% endfor %}
   </ol>
 </aside>
-
----
 
 ## Summary So Far
 

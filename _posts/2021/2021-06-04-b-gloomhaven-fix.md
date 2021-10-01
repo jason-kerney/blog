@@ -5,8 +5,14 @@ date: 2021-06-04 06:00
 category: gaming
 author: Jason
 tags: ['board games', 'games', 'review', 'how-to']
-summary: Gloomhaven is made better with digital tools.
+summary: I love the game but without a lot of help it is not really playable. So, I am here to talk about the tools that get rid of the nuances and allow you to focus on having fun.
 series: Gloomhaven
+---
+
+## TL; DR
+
+I love the game but without a lot of help it is not really playable. So, I am here to talk about the tools that get rid of the nuances and allow you to focus on having fun.
+
 ---
 
 <aside class="series">
@@ -29,10 +35,6 @@ series: Gloomhaven
 </aside>
 
 [![Gloomhaven](https://cdn.shopify.com/s/files/1/0281/0173/8555/products/gloomhaven-3_2048x.jpg?v=1581874715 "Gloomhaven board game"){: width="100%"}](https://cephalofair.com/collections/board-games/products/gloomhaven)
-
-## TL; DR
-
-I love the game but without a lot of help it is not really playable. So, I am here to talk about the tools that get rid of the nuances and allow you to focus on having fun.
 
 ## Organizer
 

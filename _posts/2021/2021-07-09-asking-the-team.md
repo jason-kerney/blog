@@ -5,15 +5,18 @@ date: 2021-07-09 06:00
 category: philosophy
 author: Jason
 tags: ['agility', 'mindset', 'team', 'safety', 'human systems']
-summary: 
----
+summary: I was asked to change my role to that of coach. I gave that decision to the team I would coach. It terrified me to do that, but it was worth it.
 
-![A man at concert being held up by crowd](/assets/img/posts/2021/07/pexels-thibault-trillet-167590.jpg){: width="50%" .center}
-_Photo by Thibault Trillet from Pexels_
+---
 
 ## TL; DR
 
 I was asked to change my role to that of coach. I gave that decision to the team I would coach. It terrified me to do that, but it was worth it.
+
+---
+
+![A man at concert being held up by crowd](/assets/img/posts/2021/07/pexels-thibault-trillet-167590.jpg){: width="50%" .center}
+_Photo by Thibault Trillet from Pexels_
 
 ## Approached For a Change of Role
 

@@ -5,8 +5,14 @@ date: 2021-04-23 06:00
 category: development
 author: Jason
 tags: ['community', 'open source']
-summary: Giving credit for help has never been so easy in the open-source world.
+summary: Giving people recognition is good. The "All Contributors ✨" specification and tool set makes this easy. So please use it and tell people about it.
 series: "All Contributors Project"
+---
+
+## TL; DR
+
+Giving people recognition is good. The ["All Contributors ✨"](https://github.com/all-contributors/all-contributors) specification and tool set makes this easy. So please use it and tell people about it.
+
 ---
 
 <aside class="series">
@@ -30,10 +36,6 @@ series: "All Contributors Project"
 
 ![Pair Programming](/assets/img/posts/2021/04/pexels-startup-stock-photos-7374.jpg "Two People Pair Programming"){: width="50%" .center}
 _Photo by Startup Stock Photos from Pexels_
-
-## TL; DR
-
-Giving people recognition is good. The ["All Contributors ✨"](https://github.com/all-contributors/all-contributors) specification and tool set makes this easy. So please use it and tell people about it.
 
 ## Why All Contributors ✨
 

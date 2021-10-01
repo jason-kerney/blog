@@ -5,16 +5,18 @@ date: 2021-08-13 00:30
 category: business
 author: Jason
 tags: ['process', 'people', 'human systems']
-summary: 
+summary: When someone's role changes this is, by definition, an event that changes someone’s social role in a group or groups. This is the perfect time to utilize a rite of passage to help with the transition.
 series: "Rites of Passage"
 ---
-
-![People Walking Down a Hall Talking](/assets/img/posts/2021/08/pexels-alexander-suhorucov-6457577.jpg){: width="70%" .center}
-_Photo by Alexander Suhorucov from Pexels_
 
 ## TL; DR
 
 When someone's role changes this is, by definition, an event that changes someone’s social role in a group or groups. This is the perfect time to utilize a rite of passage to help with the transition.
+
+---
+
+![People Walking Down a Hall Talking](/assets/img/posts/2021/08/pexels-alexander-suhorucov-6457577.jpg){: width="70%" .center}
+_Photo by Alexander Suhorucov from Pexels_
 
 <aside class="series">
   <h2>This post is part of the series <em>{{ page.series }}</em></h2>
@@ -31,8 +33,6 @@ When someone's role changes this is, by definition, an event that changes someon
     {% endfor %}
   </ol>
 </aside>
-
----
 
 ## Familiarity
 

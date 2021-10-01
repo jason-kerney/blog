@@ -5,16 +5,18 @@ date: 2021-08-06 00:30
 category: business
 author: Jason
 tags: ['process', 'people', 'human systems']
-summary: 
+summary: When a person leaves a company, everyone who worked with that person enters a transition period, and a time of uncertainty. This is true whether the persons departure was planned, unplanned, voluntary, involuntary. Realizing this uncertainty and approaching it head on will help the transition to be less disruptive. This is where having one or more rites of passage can help.
 series: "Rites of Passage"
 ---
-
-![Game Over Sign in Multiple Colors](/assets/img/posts/2021/08/pexels-cottonbro-4835419.jpg){: width="50%" .center}
-_Photo by cottonbro from Pexels_
 
 ## TL; DR
 
 When a person leaves a company, everyone who worked with that person enters a transition period, and a time of uncertainty. This is true whether the persons departure was planned, unplanned, voluntary, involuntary. Realizing this uncertainty and approaching it head on will help the transition to be less disruptive. This is where having one or more rites of passage can help.
+
+---
+
+![Game Over Sign in Multiple Colors](/assets/img/posts/2021/08/pexels-cottonbro-4835419.jpg){: width="50%" .center}
+_Photo by cottonbro from Pexels_
 
 <aside class="series">
   <h2>This post is part of the series <em>{{ page.series }}</em></h2>
@@ -31,8 +33,6 @@ When a person leaves a company, everyone who worked with that person enters a tr
     {% endfor %}
   </ol>
 </aside>
-
-----
 
 ## Setup
 

@@ -12,6 +12,8 @@ summary: Empathy is a skill that is learned. It is learned with effort and plied
 
 Empathy is a skill that is learned. It is learned with effort and plied to make our lives more meaningful. To get the most of this skill, we need to focus it where it hard to give empathy. Only by giving empathy to those we feel do not deserve it can we become proficient.
 
+---
+
 ![A White Dove Held Against a woman's Chest](/assets/img/posts/2021/10/pexels-artem-podrez-7048256.jpg){: width="50%" .center}
 _Photo by Artem Podrez from Pexels_
 

@@ -12,6 +12,8 @@ summary: The way we are taught to improve is rife with waste, and that waste bui
 
 The way we are taught to improve is rife with waste, and that waste builds up and prevents us from becoming truly spectacular. So, we need to do something extremely different.
 
+---
+
 ![A White Dove Held Against a woman's Chest](/assets/img/posts/2021/10/pexels-stijn-dijkstra-2583836.jpg){: width="50%" .center}
 _Photo by Stijn Dijkstra from Pexels_
 

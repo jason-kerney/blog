@@ -5,17 +5,17 @@ date: 2021-09-10 00:30
 category: business
 author: Jason Kerney
 tags: ['people', 'philosophy']
-summary: 
+summary: There are a lot of boundries that divide an office into discreet groups. There are also incentives that can cause these groups to see each other as enemy rather then people working toward a common cause. We need to recognize when this happens and learn to approach each other with compassion in order to stop the cycle.
 ---
-
-![Girl with Rapiers pointed at her](/assets/img/posts/2021/09/pexels-cottonbro-7407853.jpg){: width="70%" .center}
-_Photo by cottonbro from Pexels_
 
 ## TL; DR
 
 There are a lot of boundries that divide an office into discreet groups. There are also incentives that can cause these groups to see each other as enemy rather then people working toward a common cause. We need to recognize when this happens and learn to approach each other with compassion in order to stop the cycle.
 
 ---
+
+![Girl with Rapiers pointed at her](/assets/img/posts/2021/09/pexels-cottonbro-7407853.jpg){: width="70%" .center}
+_Photo by cottonbro from Pexels_
 
 > **OTHER** _transitive verb_
 >

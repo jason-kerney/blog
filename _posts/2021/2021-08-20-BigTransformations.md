@@ -5,16 +5,18 @@ date: 2021-08-20 00:30
 category: business
 author: Jason
 tags: ['process', 'people', 'human systems']
-summary: 
+summary: Transformation is a big complex thing. By looking at how people’s relationships and work changes you can use rites of passage to illuminate just how complex it really is.
 series: "Rites of Passage"
 ---
-
-![Balancing Stones](/assets/img/posts/2021/08/pexels-shiva-smyth-1051449.jpg){: width="70%" .center}
-_Photo by Shiva Smyth from Pexels_
 
 ## TL; DR
 
 Transformation is a big complex thing. By looking at how people’s relationships and work changes you can use rites of passage to illuminate just how complex it really is.
+
+---
+
+![Balancing Stones](/assets/img/posts/2021/08/pexels-shiva-smyth-1051449.jpg){: width="70%" .center}
+_Photo by Shiva Smyth from Pexels_
 
 <aside class="series">
   <h2>This post is part of the series <em>{{ page.series }}</em></h2>
@@ -31,8 +33,6 @@ Transformation is a big complex thing. By looking at how people’s relationship
     {% endfor %}
   </ol>
 </aside>
-
----
 
 ## A Question of Scale
 
