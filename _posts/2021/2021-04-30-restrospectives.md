@@ -5,8 +5,14 @@ date: 2021-04-30 06:00
 category: agility
 author: Jason
 tags: ['retrospective', 'human systems']
-summary: A retrospective is easily defined but hard to nail down.
+summary: A retrospective serves more than one role for a team. Sometimes by focusing on other things a retrospective does for us, we can glean more from our retrospectives. It is also worthwhile to acknowledge what a retrospective is not.
 series: "Making a Better Retro"
+---
+
+## TL; DR
+
+A retrospective serves more than one role for a team. Sometimes by focusing on other things a retrospective does for us, we can glean more from our retrospectives. It is also worthwhile to acknowledge what a retrospective is not.
+
 ---
 
 <aside class="series">
@@ -29,10 +35,6 @@ series: "Making a Better Retro"
 </aside>
 
 ![Man looking up at a lot of hanging light bulbs](/assets/img/posts/2021/04/lights.jpg){: width="50%" .center}
-
-## TL; DR
-
-A retrospective serves more than one role for a team. Sometimes by focusing on other things a retrospective does for us, we can glean more from our retrospectives. It is also worthwhile to acknowledge what a retrospective is not.
 
 ## The Humble Retrospective
 

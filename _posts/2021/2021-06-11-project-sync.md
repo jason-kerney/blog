@@ -5,15 +5,17 @@ date: 2021-06-11 06:00
 category: development
 author: Jason
 tags: ['tool', 'open source']
-summary: 
+summary: I needed a tool to allow me to manage local Azure Git directories from the Terminal. So, I built it and am sharing it.
 ---
-
-[![.NET Core](https://github.com/jason-kerney/project-sync/workflows/.NET%20Core/badge.svg)](https://github.com/jason-kerney/project-sync)
-[![License](https://img.shields.io/github/license/jason-kerney/project-sync)](https://github.com/jason-kerney/SafeSqlBuilder/blob/main/LICENSE)
 
 ## TL; DR
 
 I needed a tool to allow me to manage local Azure Git directories from the Terminal. So, I built it and am sharing it.
+
+---
+
+[![.NET Core](https://github.com/jason-kerney/project-sync/workflows/.NET%20Core/badge.svg)](https://github.com/jason-kerney/project-sync)
+[![License](https://img.shields.io/github/license/jason-kerney/project-sync)](https://github.com/jason-kerney/SafeSqlBuilder/blob/main/LICENSE)
 
 ## What is Project Sync
 

@@ -5,8 +5,14 @@ date: 2021-06-04 05:59
 category: gaming
 author: Jason
 tags: ['board games', 'games', 'review']
-summary: Gloomhaven is a game I enjoy but out of the box it has a high barrier to entry
+summary: Gloomhaven is a game I enjoy but out of the box it has a high barrier to entry. I give it 3 stars but can be made into 4 1/2 stars.
 series: Gloomhaven
+---
+
+## TL; DR
+
+Rating: <span class="fas fa-star"></span><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="far fa-star"></span><span class="far fa-star"></span> (+ <span class="fas fa-star"></span><span class="fas fa-star-half-alt"></span>) 3 stars but can be made into 4 1/2 stars.
+
 ---
 
 <aside class="series">
@@ -27,12 +33,6 @@ series: Gloomhaven
   <p>More posts coming soon!</p>
   {% endif %}
 </aside>
-
-## TL; DR
-
-Rating: <span class="fas fa-star"></span><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="far fa-star"></span><span class="far fa-star"></span> (+ <span class="fas fa-star"></span><span class="fas fa-star-half-alt"></span>) 3 stars but can be made into 4 1/2 stars.
-
-------
 
 [![Gloomhaven](https://cdn.shopify.com/s/files/1/0281/0173/8555/products/gloomhaven-1_2048x.jpg?v=1581874715 "Gloomhaven board game"){: width="100%}](https://cephalofair.com/collections/board-games/products/gloomhaven)
 

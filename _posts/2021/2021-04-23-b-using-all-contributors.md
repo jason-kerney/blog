@@ -38,7 +38,7 @@ I really love the ["All Contributors ✨"](https://github.com/all-contributors/a
 Note
 : The "All Contributions" site recommends the use of their git bot; I have not been able to get the bot to work as of late. As such, I recommend against the bot, and just use the CLI (Explanation below).
 
-## Where to start.
+## Where to start
 
 Start in the directory/folder where your project resides locally. Open a shell/terminal/command prompt in that location.
 

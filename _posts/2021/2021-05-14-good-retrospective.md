@@ -5,8 +5,14 @@ date: 2021-05-14 06:00
 category: agility
 author: Jason
 tags: ['retrospective', 'human systems']
-summary: Signs of a good retrospective
+summary: I have spoken with many people who do not know what a good retrospective looks like. I can tell you it feels a little awkward, but everyone agrees that something was discovered. Also, the action item from the retro does not require any person to be a better person.
 series: "Making a Better Retro"
+---
+
+## TL; DR
+
+I have spoken with many people who do not know what a good retrospective looks like. I can tell you it feels a little awkward, but everyone agrees that something was discovered. Also, the action item from the retro does not require any person to be a better person.
+
 ---
 
 <aside class="series">
@@ -30,10 +36,6 @@ series: "Making a Better Retro"
 
 ![Friends hanging out laughing](/assets/img/posts/2021/05/pexels-helena-lopes-708440.jpg "Good Times")
 _Photo by Helena Lopes from Pexels_
-
-## TL; DR
-
-I have spoken with many people who do not know what a good retrospective looks like. I can tell you it feels a little awkward, but everyone agrees that something was discovered. Also, the action item from the retro does not require any person to be a better person.
 
 ## Signs of success
 

@@ -5,17 +5,17 @@ date: 2021-09-17 00:30
 category: business
 author: Jason Kerney
 tags: ['people', 'philosophy', 'safety', 'well-being']
-summary: 
+summary: Take responsibility to help those who are not being heard to be heard.
 ---
-
-![Woman with PostIt Over Mouth. PostIt has an 'X' on It.](/assets/img/posts/2021/09/pexels-anete-lusina-5723267.jpg){: width="70%" .center}
-_Photo by Anete Lusina from Pexels_
 
 ## TL; DR
 
 Take responsibility to help those who are not being heard to be heard.
 
 ---
+
+![Woman with PostIt Over Mouth. PostIt has an 'X' on It.](/assets/img/posts/2021/09/pexels-anete-lusina-5723267.jpg){: width="70%" .center}
+_Photo by Anete Lusina from Pexels_
 
 ## The Voice Often Not Heard
 

@@ -5,18 +5,19 @@ date: 2021-07-02 06:00
 category: agility
 author: Jason
 tags: ['agility', 'mindset', 'human systems']
-summary: 
+summary: Human systems are at best a complex system. When we try to change that system we need to respect that system and understand it. Making changes that focus on simple answers but ignoring the complex parts of the system is inviting failure.
+---
+
+## TL;DR
+
+Human systems are at best a complex system. When we try to change that system we need to respect that system and understand it. Making changes that focus on simple answers but ignoring the complex parts of the system is inviting failure.
+
 ---
 
 {% assign related = site.posts | where: "title","What is a retrospective?" | first %}
 
 ![An airplane being overgrown by trees](/assets/img/posts/2021/07/pexels-mohan-reddy-atalu-4165992.jpg){: width="50%" .center}
 _Photo by Mohan Reddy Atalu from Pexels_
-
-
-## TL;DR
-
-Human systems are at best a complex system. When we try to change that system we need to respect that system and understand it. Making changes that focus on simple answers but ignoring the complex parts of the system is inviting failure.
 
 ## Introduction
 

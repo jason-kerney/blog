@@ -5,8 +5,14 @@ date: 2021-05-21 06:00
 category: agility
 author: Jason
 tags: ['retrospective', 'human systems']
-summary: Why do retrospectives fail?
+summary: Environment is a precondition of a successful retrospective, and the number one reason why it fails. Beyond that, the reasons come down to people not knowing how to get the most of their retrospective and they can improve as they gain knowledge.
 series: "Making a Better Retro"
+---
+
+## TL; DR
+
+Environment is a precondition of a successful retrospective, and the number one reason why it fails. Beyond that, the reasons come down to people not knowing how to get the most of their retrospective and they can improve as they gain knowledge.
+
 ---
 
 <aside class="series">
@@ -32,10 +38,6 @@ series: "Making a Better Retro"
 
 ![A burning building](/assets/img/posts/2021/05/pexels-anna-kester-5352942.jpg){: width="50%" .center}
 _Photo by Anna Kester from Pexels_
-
-## TL; DR
-
-Environment is a precondition of a successful retrospective, and the number one reason why it fails. Beyond that, the reasons come down to people not knowing how to get the most of their retrospective and they can improve as they gain knowledge.
 
 ## Who is this Post for
 

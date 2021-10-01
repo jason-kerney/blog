@@ -5,15 +5,17 @@ date: 2021-05-28 06:00
 category: agility
 author: Jason
 tags: ['process', 'philosophy', 'people', 'human systems']
-summary: What if the agile community is suffering from the curse of knowledge?
+summary: I believe the knowledge gap between the rest of the world and the agile community is so great that companies, and the people in them, cannot make an educated evaluation to the value we can provide. Worse yet, in situations where we could provide orders of magnitude more value than our cost, we are not setup to succeed, simply because this chasm of knowledge is too great and we cannot see it.
 ---
-
-![Person on far away cliff](/assets/img/posts/2021/05/pexels-joshua-t-954283.jpg){: width="50%" .center}
-_Photo by Joshua T from Pexels_
 
 ## TL; DR
 
 I believe the knowledge gap between the rest of the world and the agile community is so great that companies, and the people in them, cannot make an educated evaluation to the value we can provide. Worse yet, in situations where we could provide orders of magnitude more value than our cost, we are not setup to succeed, simply because this chasm of knowledge is too great and we cannot see it.
+
+---
+
+![Person on far away cliff](/assets/img/posts/2021/05/pexels-joshua-t-954283.jpg){: width="50%" .center}
+_Photo by Joshua T from Pexels_
 
 ## People out there want our help
 
