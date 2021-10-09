@@ -4,7 +4,7 @@ title: The waste in the way we improve
 date: 2021-10-08 00:30
 category: agility
 author: Jason
-tags: ['agility', 'retrospectives']
+tags: ['agility', 'retrospective']
 summary: The way we are taught to improve is rife with waste, and that waste builds up and prevents us from becoming truly spectacular. So, we need to do something extremely different.
 ---
 
