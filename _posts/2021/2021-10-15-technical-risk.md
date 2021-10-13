@@ -12,6 +12,11 @@ summary: When talking about technical risk, we are really talking about the risk
 
 When talking about technical risk, we are really talking about the risk of failure. There are a lot of ways to identify areas that have a high risk of failure and then use that to assess what if anything should be done about it. However, these are usually opaque to the businessman. This article hopes to make them more visible.
 
+---
+
+![A White Dove Held Against a woman's Chest](/assets/img/posts/2021/10/pexels-nataliya-vaitkevich-6120204.jpg){: width="50%" .center}
+_Photo by Nataliya Vaitkevich from Pexels_
+
 ## Introduction
 
 Have you ever wondered how much risk is in the source code for your product? Could you ask a programmer to quantify the risk? I bet if you did you heard something about technical debt. But what is risk, and what does it mean? How is it different then technical debt?  … because it is different.
