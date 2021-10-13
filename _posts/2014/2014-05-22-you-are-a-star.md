@@ -9,6 +9,9 @@ summary:
 alias: /2014/05/you-are-a-star/
 ---
 
+![A White Dove Held Against a woman's Chest](/assets/img/posts/2014/pexels-monstera-7139774){: width="50%" .center}
+_Photo by Monstera from Pexels_
+
 I believe I suffered from [Imposter Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) for most of my career, and if there is one thing I can say I have definitely learned is that you are the star. No matter your experience level, language, or technology bent; the fact that you are out there producing code makes you a star.
 
 If you are not producing code: do so. I can promise you one sure thing: No code you write will ever be as bad as some of the code I have personally put into production. I wrote some things when I was a junior programmer that would make the faint of heart faint. Trust me, I had to run a production application in debug because a variable would lose its value. To keep the program working I would have to edit the memory location and then hit continue.
