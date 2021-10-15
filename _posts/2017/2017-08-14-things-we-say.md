@@ -5,7 +5,7 @@ date: 2017-08-14 18:39
 category: development
 author: Jason
 tags: ['well-being']
-summary: I want to retire certain phrases from programmer parlance.
+summary: I want to retire certain phrases from programmer parlance. We are not clear in what we say. We use incorrect metaphor. We choose vague terms instead of better ones. Let us trim some of the excess terminology and jargon.
 ---
 
 I want to retire certain phrases from programmer parlance.
@@ -13,6 +13,11 @@ I want to retire certain phrases from programmer parlance.
 ## TL; DR
 
 We are not clear in what we say. We use incorrect metaphor. We choose vague terms instead of better ones. Let us trim some of the excess terminology and jargon.
+
+---
+
+![Pair Programming](/assets/img/posts/2017/08/pexels-cottonbro-5089178.jpg "A person measuring a piece of wood."){: width="50%" .center}
+_Photo by cottonbro from Pexels_
 
 ## Technical Excellence
 
