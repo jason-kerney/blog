@@ -35,13 +35,13 @@ We spend so much time talking about making things simple and then engaging in a 
 
 It is amazing to me how much energy we spend saying nothing rather than what we mean. If we could talk specifically about the types of complexity we want to avoid, we allow for improvement. We start the conversation that moves us into a better place.
 
-Remove confusion, add clarity and forget simple. 
+Remove confusion, add clarity and forget simple.
 
 ## Technical Debt
 
 Technical debt was a good metaphor. Past tense. It was created for a specific reason, it was to explain the causal effect of decisions to bankers. It was not created to discuss the state of the code between developers. So, let’s stop using it for such communications!
 
-Instead of technical debt, let’s talk about Anti-patterns or Code Smells. Both have names for specific things that can be addressed. They can be researched and understood. Better yet, there are know ways to move from these potential problems to good patterns. 
+Instead of technical debt, let’s talk about Anti-patterns or Code Smells. Both have names for specific things that can be addressed. They can be researched and understood. Better yet, there are know ways to move from these potential problems to good patterns.
 
 Lastly if we are talking about the state of code caused by a ignoring problems over a long time, then even the team “Code Rot” is better at describing what needs to be said. There is real meat in using directed language to discuss the state of a codebase between developers.
 
