@@ -5,16 +5,21 @@ date: 2017-07-24 11:05
 category: business
 author: Jason
 tags: ['process', 'people']
-summary: The secret is that the employee needs to be central.
+summary: The only person qualified to give advice to an employee regarding their career is the employee. That means we need to empower the people who work for- and with- us to analyze their career. If we can empower people to better their lives they will do more and do it better.
 ---
-
-I am talking at #Agile2017 about [giving meaningful, helpful, and humane, employee feedback](https://www.agilealliance.org/agile2017/program/). The secret is that the employee needs to be central.
 
 ## TL; DR
 
 The only person qualified to give advice to an employee regarding their career is the employee. That means we need to empower the people who work for- and with- us to analyze their career. If we can empower people to better their lives they will do more and do it better.
 
-##  Questing
+Note: I am spoke at #Agile2017 about [giving meaningful, helpful, and humane, employee feedback](https://www.agilealliance.org/agile2017/program/). The secret is that the employee needs to be central.
+
+---
+
+![Two people in business conversation](/assets/img/posts/2021/05/pexels-mentatdgt-1311518.jpg "Better Reviews")
+_Photo by mentatdgt from Pexels_
+
+## Questing
 
 What if employees looked forward to receiving feedback? What if they found feedback valuable and able to improve their lives? What would that look like? How would we provide that environment? Our department asked these questions and the whole department [swarmed](https://agiletools.wordpress.com/2007/12/03/what-is-swarming/) to tackle the problem. The solution we came up with worked well in our context, and I also believe the lessons learned while figuring the answer out are valuable to others.
 
