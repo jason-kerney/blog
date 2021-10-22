@@ -16,7 +16,7 @@ Note: I am spoke at #Agile2017 about [giving meaningful, helpful, and humane, em
 
 ---
 
-![Two people in business conversation](/assets/img/posts/2021/05/pexels-mentatdgt-1311518.jpg "Better Reviews")
+![Two people in business conversation](/assets/img/posts/2017/07/pexels-mentatdgt-1311518.jpg "Better Reviews")
 _Photo by mentatdgt from Pexels_
 
 ## Questing
