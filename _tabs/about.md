@@ -38,6 +38,7 @@ I have a wife, 2 children, and a dog.
 
 ## Interviews
 
+- [Agile Disrupted 2021-Nov-01](https://agiledisrupted.com/f/hard-conversations)
 - [Open Agile SoCal 2014](https://www.youtube.com/watch?v=lNsPW86HoOE)
 - [GrockShare](https://www.grokshare.com/jason-kerneys-mob-programming-experience/)
 - [Integrumtech](https://integrumtech.com/2011/09/jason-kerney-about-using-creative-processes-to-drive-development/)
