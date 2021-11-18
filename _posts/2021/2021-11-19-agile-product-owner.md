@@ -13,6 +13,15 @@ series: histories
 
 This is a guest blog written by [Nancy Van Schooenderwoert](#about-nancy-van-schooenderwoert). It examines the history of the product owner as well as things that commonly go wrong. It ties it all together by discussing how to compensate for the things that cause it to go wrong.
 
+---
+
+![People looking at a tablet](/assets/img/posts/2021/11/pexels-tiger-lily-7109173.jpg){: width="50%" .left}
+_Photo by Tiger Lily from Pexels_
+
+---
+
+
+
 ## Origin and purpose of the Role
 
 I’ve always liked knowing the origin of an idea as my best way into understanding it better.  The Agile Product Owner role didn’t exist in 1993 when the first Scrum team was started at Easel corp.  It came along later and was actually inspired by the Chief Engineer role in the Toyota Production System.  That role has no direct authority – no direct reports.  The Chief Engineer is responsible for the vision for a whole product, e.g. Camry or Prius, and this role is usually filled by someone with deep experience in both engineering and marketing.
