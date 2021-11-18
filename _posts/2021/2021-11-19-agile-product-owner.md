@@ -11,7 +11,7 @@ series: histories
 
 ## TL;DR
 
-This is a guest blog written by [Nancy Van Schooenderwoert](#about-nancy-van-schooenderwoert). It examines the history of the product owner as well as things that commonly go wrong. It ties it all together by discussing how to compensate for the things that cause it to go wrong.
+This is a guest blog written by [Nancy Van Schooenderwoert](#about-nancy-van-schooenderwoert). It examines the history of the product owner as well as things that commonly go wrong. By talking about how the product owner and scrum master came from different aspects of the Chief Engineer you can better understand the inspiration for the role.
 
 ---
 
