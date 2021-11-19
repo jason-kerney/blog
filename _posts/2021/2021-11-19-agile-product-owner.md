@@ -15,7 +15,7 @@ This is a guest blog written by [Nancy Van Schooenderwoert](#about-nancy-van-sch
 
 ---
 
-![People looking at a tablet](/assets/img/posts/2021/11/pexels-tiger-lily-7109173.jpg){: width="50%" .left}
+![People looking at a tablet](/assets/img/posts/2021/11/pexels-tiger-lily-7109173.jpg){: width="50%" .center}
 _Photo by Tiger Lily from Pexels_
 
 ---
