@@ -20,7 +20,7 @@ _Rites of Passage_ help people transition through periods of uncertainty by both
 _Photo by Flo Maderebner from Pexels_
 
 <aside class="series">
-  <h2>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h2>
+  <h2>This post is part of the series <em>{{ page.series }}</em></h2>
   <ol>
     {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
     {% for post in series-posts %}
