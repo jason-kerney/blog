@@ -1,13 +1,16 @@
 ---
 layout: post
 title: Consent for Change
-date: 2023-01-03 07:31
+date: 2023-01-27 00:30
 category: business
 author: Jason
 tags: ['human systems', 'people', 'safety', 'philosophy']
 summary: Consent is a barrier to engagement in change management. However, basic agreement is not enough. We need to get meaningful consent to allow for engagement. That means people need to trust us first then allow us to guide the change.
-series: "Consent in the Workplace"
+series: "Working with Consent"
 ---
+
+![Man with stop on his palm](/assets/img/posts/2023/01/pexels-joël-super-823301.jpg){: width="50%" .center}
+_Photo by [Joël Super](https://www.pexels.com/photo/photography-of-a-persons-hand-with-stop-signage-823301) from [Pexels](https://www.pexels.com)_
 
 {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
 {% assign series-size = series-posts | size %}
