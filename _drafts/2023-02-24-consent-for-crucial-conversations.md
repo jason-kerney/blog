@@ -12,7 +12,6 @@ series: "Working with Consent"
 ![Person standing alone on rock in middle of water](/assets/img/posts/2023/01/pexels-vladislav-murashko-5990737.jpg){: width="50%" .center}
 _Photo by [Vladislav Murashko](https://www.pexels.com/photo/man-in-black-jacket-standing-on-the-seashore-5990737) from [Pexels](https://www.pexels.com)_
 
-
 {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
 {% assign series-size = series-posts | size %}
 {% assign related = site.posts | where: "title","Consent for Change" | first %}
