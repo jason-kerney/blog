@@ -71,7 +71,7 @@ More importantly, they need to know they can revoke consent in the future.
 
 ## Having Consent is not enough
 
-It is important to know that many things can affect consent, and once given it can be lost. Since consent is about trust it is not universal or stagnant. Consent is a minute by minute thing, and we need to be aware of it. This means we need to check in with people throughout the change to ensure that we still have consent, especially when something in the change, changes.
+It is important to know that many things can affect consent, and once given it can be lost. Since consent is about trust it is not universal or stagnant. Consent is a minute by minute thing, and we need to be aware of it. This means we need to check in with people throughout the change to ensure that we still have consent, especially when something in the change changes.
 
 ## Paying is not enough
 
@@ -83,9 +83,9 @@ It is worth noting that if you run paid training, it is not enough to assume tha
 
 There is a lot to unpack with this question. Gaining consent is all about gaining trust. When I talk about trust, I like to bring up the [Trust Equation `(credibility + reliability + intimacy) / self-orientation`](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation). [^1] I examine what I am doing and saying on this equation. The most impactful part of this equation is `self-orientation`. I need to minimize how much I am oriented on myself and my goals.
 
-Paradoxically, for me, I find I am best at minimizing my self-orientation if I first examine what my self-orientation is. What do I have to gain from doing the thing I am doing. If I can examine this and be truthful about it it allows me to then examine what my message is and identify where I am focusing on me. The next thing I find helpful, is to spend time examining why I think what I am about to do is helpful for the audience. I then examine that against my own desires. Am I masking my own desires as things that will be beneficial to the audience?
+Paradoxically, for me, I find I am best at minimizing my self-orientation if I first examine what my self-orientation is. What do I have to gain from doing the thing I am doing. If I can examine this and be truthful about it it allows me to then examine what my message is and identify where I am focusing on me. The next thing I find helpful is to spend time examining why I think what I am about to do is helpful for the audience. I then examine that against my own desires. Am I masking my own desires as things that will be beneficial to the audience?
 
-Once I have an understanding of why I think this will be beneficial to the audience of the change, then I farm for decent. I ask people to challenge me, and I listen. Sometimes, they will raise things that are actually covered but I did not think of. Most often though, they tell me why I am wrong. I find that what I was planning is not correctly fit to the people who I am effecting. So I change, and correct the fit.
+Once I have an understanding of why I think this will be beneficial to the audience of the change, then I farm for dissent. I ask people to challenge me, and I listen. Sometimes, they will raise things that are actually covered but I did not think of. Most often though, they tell me why I am wrong. I find that what I was planning is not correctly fit to the people who I am affecting. So I change, and correct the fit.
 
 This shows vulnerability, and gives stronger agency. It corrects for my self-focus, and allows me to not only gain trust but do a better job.
 
