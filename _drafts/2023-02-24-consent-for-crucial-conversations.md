@@ -20,7 +20,6 @@ _Photo by [Vladislav Murashko](https://www.pexels.com/photo/man-in-black-jacket-
 <aside class="series">
   <h2>This post is part of the series <em>{{ page.series }}</em></h2>
   <ol>
-    {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
     {% for post in series-posts %}
     <li>
       {% if post.url == page.url %}
@@ -44,7 +43,7 @@ Crucial conversations are hard, because they are made crucial by being unfavorab
 
 A crucial conversation is a conversation intended to deliver unfavorable news and sometimes change behavior related to that news. Each of these goals are very different, but engagement by the person in the conversation greatly improves chances of success. Engagement relies on trust. Trust relies on consent.
 
-To have this conversation, we will need meaningful consent. If you are curious about what I mean by "meaning full" consent you can read the [first]({{ related.url }}) post in this series.
+To have this conversation, we will need meaningful consent. If you are curious about what I mean by "meaningful" consent you can read the [first]({{ related.url }}) post in this series.
 
 ### Why Consent
 

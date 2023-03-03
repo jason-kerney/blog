@@ -14,12 +14,13 @@ _Photo by [Pixabay](https://www.pexels.com/photo/egg-power-fear-hammer-40721/) f
 
 {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
 {% assign series-size = series-posts | size %}
+{% assign crucial = site.posts | where: "title","Consent for Crucial Conversations" | first %}
+{% assign xform = site.posts | where: "title","Transformative Communication Second Edition" | first %}
 
 {% if 1 < series-size %}
 <aside class="series">
   <h2>This post is part of the series <em>{{ page.series }}</em></h2>
   <ol>
-    {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
     {% for post in series-posts %}
     <li>
       {% if post.url == page.url %}
@@ -45,7 +46,7 @@ For the purpose of this article, I will be talking about consent in regards to m
 
 ### What is Consent
 
-At its core consent means the explicit permission to do something that involves the person who gives the permission. Though that definition is not enough. It leaves out the **why** you need consent in a work environment to do work related tasks.
+At its core consent means the explicit permission to do something that directly affects the person providing permission. Though that definition is not enough. It leaves out the **why** you need consent in a work environment before making changes.
 
 Consent is really about trust. Trust first that the person has the ability not to consent, and secondly that what is about to happen will be emotionally, physically, financially, and psychologically safe.
 
@@ -55,7 +56,7 @@ Consent is really about trust. Trust first that the person has the ability not t
 
 ### Meaningful Consent
 
-Meaningful consent is where the person consents not only in word and action but emotionally and willfully. They are fully accepting of what is about to take place. They are in short fully engaged with it.
+Meaningful consent is where the person consents not only in word and action but emotionally and willfully. They are fully accepting of what is about to take place. They are, in short, fully engaged with it.
 
 ## Showing up is not enough
 
@@ -65,13 +66,13 @@ Having people in the room is a starting place to speak about consent. It gives u
 
 ## Words are not enough
 
-Giving verbal or written consent does not mean you have meaningful consent. When you gain consent from a person, care must be given that they believe this consent was given without pressure. They must trust that not giving consent means they are free from the change that is about to happen.
+Someone giving verbal or written consent does not mean you have meaningful consent. When you gain consent from a person, care must be given that they believe this consent was given without pressure. They must trust that not giving consent means they are free from the change that is about to happen.
 
 More importantly, they need to know they can revoke consent in the future.
 
 ## Having Consent is not enough
 
-It is important to know that many things can affect consent, and once given it can be lost. Since consent is about trust it is not universal or stagnant. Consent is a minute by minute thing, and we need to be aware of it. This means we need to check in with people throughout the change to ensure that we still have consent, especially when something in the change changes.
+It is important to know that many things can affect consent, and once given it can be lost. Since consent is about trust, it is not universal or stagnant. Consent is a minute-by-minute thing, and we need to be aware of it. This means we need to check in with people throughout the change to ensure that we still have consent, especially when something in the change changes.
 
 ## Paying is not enough
 
@@ -81,21 +82,59 @@ It is worth noting that if you run paid training, it is not enough to assume tha
 
 ### Trust
 
-There is a lot to unpack with this question. Gaining consent is all about gaining trust. When I talk about trust, I like to bring up the [Trust Equation `(credibility + reliability + intimacy) / self-orientation`](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation). [^1] I examine what I am doing and saying on this equation. The most impactful part of this equation is `self-orientation`. I need to minimize how much I am oriented on myself and my goals.
+There is a lot to unpack with this question. Gaining consent is all about gaining trust. When I talk about trust, I like to bring up the [Trust Equation `(credibility + reliability + intimacy) / self-orientation`](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation). [^1] I examine what I am doing and saying using this equation. The most impactful part of this equation is `self-orientation`. I need to minimize how much I am oriented on myself and my goals.
 
-Paradoxically, for me, I find I am best at minimizing my self-orientation if I first examine what my self-orientation is. What do I have to gain from doing the thing I am doing. If I can examine this and be truthful about it it allows me to then examine what my message is and identify where I am focusing on me. The next thing I find helpful is to spend time examining why I think what I am about to do is helpful for the audience. I then examine that against my own desires. Am I masking my own desires as things that will be beneficial to the audience?
+Paradoxically, for me, I find I am best at minimizing my self-orientation if I first examine what my self-orientation is. What do I have to gain from doing the thing I am doing? If I can examine this and be truthful about it it allows me to then examine what my message is and identify where I am focusing on me. The next thing I find helpful is to spend time examining why I think what I am about to do is helpful for the audience. I then examine that against my own desires. Am I masking my own desires as things that will be beneficial to the audience?
 
-Once I have an understanding of why I think this will be beneficial to the audience of the change, then I farm for dissent. I ask people to challenge me, and I listen. Sometimes, they will raise things that are actually covered but I did not think of. Most often though, they tell me why I am wrong. I find that what I was planning is not correctly fit to the people who I am affecting. So I change, and correct the fit.
+Once I have an understanding of why I think this will be beneficial to the audience of the change, then I farm for dissent. I ask people to challenge me, and I listen. Sometimes, they will raise things that are actually covered but I did not think of. Most often though, they tell me why I am wrong. I find that what I was planning is not correctly fit to the people who I am affecting. So, I change, and correct the fit.
 
-This shows vulnerability, and gives stronger agency. It corrects for my self-focus, and allows me to not only gain trust but do a better job.
+My willingness to change shows vulnerability and gives stronger agency. It corrects for my self-focus and allows me to not only gain trust but do a better job.
 
 ### Explicitness
 
-Once we have trust to do the change, we then need to be explicit about what is about to happen. We need to be as clear as we can be. If there is a surprise used to forward learning, we need to examine if that surprise is necessary. If it is, we need to have consent to surprise the person. The goal here is to maximize the understanding of what is going to happen, so that we minimize the chance of losing consent at a later step.
+Once we have trust to do the change, we then need to be explicit about what is about to happen. We need to be as clear as we can. If there is a surprise used to forward learning, we need to examine if that surprise is necessary. If it is, we need to have consent to surprise the person. The goal here is to maximize the understanding of what is going to happen, so that we minimize the chance of losing consent at a later step.
 
 ### Consent
 
-Once we have trust, and have been explicit about what is happening, we can then ask for consent. We need to start by giving the person an out. Describe what will be happening if they choose to abstain. Carefully word the description as not to be a veiled threat. Also, inform the person that at any time they may choose to remove their consent. Then simply ask. “Do you consent with moving forward with …”.
+Once we have trust and have been explicit about what is happening, we can then ask for consent. We need to start by giving the person an out. Describe what happens if they choose to abstain. Carefully word the description as not to be a veiled threat. Also, inform the person that at any time they may choose to remove their consent. Then simply ask. “Do you consent with moving forward with …”.
+
+## Not Having Consent
+
+So, when you give people the option to opt out, some will take it. The first thing to realize is each person most likely has a unique reason for no giving consent and even if that is not true, you need to approach each individually. By doing so, you have the ability to reduce the perception of self-focus.
+
+Now, there will be individuals who will never give their consent. You cannot make everyone happy, however, this is a great time to reflect. Here are some scenarios and things to consider.
+
+### The Course is Wrong
+
+I start with this, because it is the hardest to see. Our answers are seductive to ourselves, and it is easiest to accept, especially if the dissenters are in the minority or people we have had past disagreements with.
+
+To determine if the change is the wrong change you need to listen to each person refusing to give consent. Understand their point of view, and accept they are offering genuine insight. You do not have to agree with their insight, but you need to understand it.
+
+Once you understand it you can judge the change and see if it can be changed to accommodate without losing its intent.
+
+### The Message is Wrong
+
+Knowing when the change is being messaged wrong is almost as hard as knowing when the course is wrong. You need to listen and deeply understand people. In my post, [{{xform.title}}]({{ xform.url }}), I examine a few of the ways communication can misfire and what to do about it. The good thing is that the if messaging is wrong you can more easily correct that. The bad thing is that if the messaging is wrong, you do not know if the course is wrong.
+
+### The Environment is Wrong
+
+First this is really a subcategory of "The Course is Wrong". When the environment is wrong, something is rewarding the individual for not giving consent to the change. It could be pay structure, status, or other rewards. You must first change those things before you can get consent.
+
+### The Person is Wrong
+
+This is the easiest, and therefore jumped to far too often. The person can only be wrong for the change when all other options have been tried. When the person is wrong, you are left with a few questions you need to answer.
+
+1. Can the individual exist without the change?
+2. Can the change exist without the individual?
+3. Can other exist within the change without the individual?
+
+If either of these questions is "No" then there is something that needs to be done. {% if crucial.title %}I cover how to gain consent for a crucial conversation in my article: [{{ crucial.title }}]({{ crucial.url }}){% else %}I will cover crucial conversations in a latter article.{% endif %}
+
+## How do You Know
+
+The most bothering question is: "How do you know if you have meaningful consent?" That is like asking, "How do you know if you have someone's trust?" In truth, you do not know. You can watch and look for behaviors. In truth though that will only help you detect when you do not have trust, it will not help you win it.
+
+What you need to do, is live by your promise to allow non-consent to be an option.
 
 ## Conclusion
 
