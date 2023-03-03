@@ -59,7 +59,7 @@ Meaningful consent is where the person consents not only in word and action but 
 
 ## Showing up is not enough
 
-If our goal is engagement then we need to worry about meaningful consent. It is not enough that an employee shows up for whatever we have scheduled to facilitate the change. There are a lot of reasons a person may show up that have nothing to do with giving consent. They may be afraid of being viewed as a lesser employee when raises come out. They may be afraid of missing out. They may simply want a break from their job.
+If our goal is engagement, then we need to worry about meaningful consent. It is not enough that an employee shows up for whatever we have scheduled to facilitate the change. There are a lot of reasons a person may show up that have nothing to do with giving consent. They may be afraid of being viewed as a lesser employee when raises come out. They may be afraid of missing out. They may simply want a break from their job.
 
 Having people in the room is a starting place to speak about consent. It gives us the opportunity to ask for consent, but we still need to ask for it.
 
@@ -91,7 +91,7 @@ This shows vulnerability, and gives stronger agency. It corrects for my self-foc
 
 ### Explicitness
 
-Once we have trust to do the change, we then need to be explicit about what is about to happen. We need to be as clear as we can be. If there is a surprise used to forward learning, we need to examine if that surprise is necessary. If it is, we need to have consent to surprise the person. The goal here is to maximize the understanding of what is going to happen, so that we minimize the chance of loosing consent at a later step.
+Once we have trust to do the change, we then need to be explicit about what is about to happen. We need to be as clear as we can be. If there is a surprise used to forward learning, we need to examine if that surprise is necessary. If it is, we need to have consent to surprise the person. The goal here is to maximize the understanding of what is going to happen, so that we minimize the chance of losing consent at a later step.
 
 ### Consent
 
