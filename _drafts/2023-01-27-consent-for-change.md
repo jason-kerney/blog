@@ -9,7 +9,7 @@ summary: Consent is a barrier to engagement in change management. However, basic
 series: "Working with Consent"
 ---
 
-![Man with stop on his palm](/assets/img/posts/2023/04/pexels-pixabay-40721.jpg){: width="50%" .center}
+![Egg about to be smashed by giant wood mallet](/assets/img/posts/2023/04/pexels-pixabay-40721.jpg){: width="50%" .center}
 _Photo by [Pixabay](https://www.pexels.com/photo/egg-power-fear-hammer-40721/) from [Pexels](https://www.pexels.com)_
 
 {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
