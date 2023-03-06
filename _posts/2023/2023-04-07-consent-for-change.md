@@ -14,7 +14,7 @@ _Photo by [Pixabay](https://www.pexels.com/photo/egg-power-fear-hammer-40721/) f
 
 {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
 {% assign series-size = series-posts | size %}
-{% assign crucial = site.posts | where: "title","Consent for Crucial Conversations" | first %}
+{% assign crucial = series-posts | where: "title","Consent for Crucial Conversations" | first %}
 {% assign xform = site.posts | where: "title","Transformative Communication Second Edition" | first %}
 
 {% if 1 < series-size %}
