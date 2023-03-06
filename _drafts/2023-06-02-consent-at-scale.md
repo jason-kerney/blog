@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Consent to help
+title: Consent at Scale
 date: 2023-06-02 00:30
 category: business
 author: Jason
@@ -9,8 +9,8 @@ summary:
 series: "Working with Consent"
 ---
 
-![Egg about to be smashed by giant wood mallet](/assets/img/posts/2023/04/pexels-pixabay-40721.jpg){: width="50%" .center}
-_Photo by [Pixabay](https://www.pexels.com/photo/egg-power-fear-hammer-40721/) from [Pexels](https://www.pexels.com)_
+![Egg about to be smashed by giant wood mallet](/assets/img/posts/2023/06/pexels-kelly-4570692.jpg){: width="50%" .center}
+_Photo by [Kelly](https://www.pexels.com/photo/crowd-of-activists-fighting-on-street-during-manifestation-4570692/) from [Pexels](https://www.pexels.com)_
 
 {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
 {% assign series-size = series-posts | size %}
@@ -36,7 +36,8 @@ _Photo by [Pixabay](https://www.pexels.com/photo/egg-power-fear-hammer-40721/) f
 
 ## TL; DR
 
-??
+?
 
-## Helping at Work
+## What is Scale
 
+When you are talking about gaining consent of a group, scale is measured along 2 different axis. The number of contexts, and the amount of time. As either grows the ability to gain and keep consent is very difficult.
