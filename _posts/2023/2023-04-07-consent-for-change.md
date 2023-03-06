@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consent for Change
-date: 2023-01-27 00:30
+date: 2023-04-07 00:30
 category: business
 author: Jason
 tags: ['human systems', 'people', 'safety', 'philosophy']

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consent for Crucial Conversations
-date: 2023-02-24 00:30
+date: 2023-05-05 00:30
 category: business
 author: Jason
 tags: ['human systems', 'people', 'safety', 'philosophy']
