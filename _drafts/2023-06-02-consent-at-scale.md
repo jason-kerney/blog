@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Consent at Scale
+title: Changing with Consent at Scale
 date: 2023-06-02 00:30
 category: business
 author: Jason
@@ -35,7 +35,7 @@ _Photo by [Kelly](https://www.pexels.com/photo/crowd-of-activists-fighting-on-st
 
 ## TL; DR
 
-?
+At scale everything gets tricky. Gaining trust at scale can be nearly impossible, and there is no consent without trust. Maybe approaching a change in smaller pieces can help us gain consent from each individual effected by the change.
 
 ## What is Scale
 
@@ -51,7 +51,7 @@ Everything about gaining consent is still true for large scale change. So you st
 
 ## Partition Change to Gain Trust
 
-Every change happens in steps and efforts with gradient returns. Rather then trying to gain upfront consent for everything that is about to happen approach it in bite sized pieces. Gain consent, for individual changes within individual contexts. This will reduce both the time and number of contexts you are working with. Another benefit to seeking consent to as small of changes as possible, is you can better describe what is happening and therefore build trust.
+Every change happens in steps and efforts with gradient returns. Rather then trying to gain upfront consent for everything that is about to happen approach it in bite sized pieces. Gain consent, for individual changes within individual contexts. This will reduce both the time and number of contexts you are working with. Another benefit to seeking consent for as small of changes as possible, is you can better describe what is happening and therefore build trust.
 
 Large changes happen in small movements and so does large scale consent.
 
@@ -63,4 +63,10 @@ So you need to take time and really focus on being worthy of people's trust so t
 
 ## Consent at Scale
 
-Is really about consent and not really about scale.
+Is really about consent and not really about scale. You need to focus on the individuals that are being effected. You can only gain meaningful consent from individuals, not from groups.
+
+Lastly, thinking of people as groups rather then individuals can lead to "othering" which will remove your chances to get meaningful consent for any change.
+
+## Call to Action
+
+When thinking about large a future scale change, focus on individuals not groups. Learn from those individuals that do not give concent for the change.
