@@ -35,7 +35,7 @@ _Photo by [Kelly](https://www.pexels.com/photo/crowd-of-activists-fighting-on-st
 
 ## TL; DR
 
-
+?
 
 ## What is Scale
 

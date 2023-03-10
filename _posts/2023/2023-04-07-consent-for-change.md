@@ -17,6 +17,10 @@ _Photo by [Pixabay](https://www.pexels.com/photo/egg-power-fear-hammer-40721/) f
 {% assign crucial = series-posts | where: "title","Consent for Crucial Conversations" | first %}
 {% assign xform = site.posts | where: "title","Transformative Communication Second Edition" | first %}
 
+> "People do not resist change, people resist coercion."
+> 
+> Esther Derby
+
 {% if 1 < series-size %}
 <aside class="series">
   <h2>This post is part of the series <em>{{ page.series }}</em></h2>
