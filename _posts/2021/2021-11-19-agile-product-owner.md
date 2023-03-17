@@ -6,7 +6,6 @@ category: agility
 author: Nancy Van Schooenderwoert
 tags: ['agility', 'mindset']
 summary: This is a guest blog written by Nancy Van Schooenderwoert. It examines the history of the product owner as well as things that commonly go wrong. It ties it all together by discussing how to compensate for the things that cause it to go wrong.
-series: histories
 ---
 
 ## TL;DR
@@ -19,8 +18,6 @@ This is a guest blog written by [Nancy Van Schooenderwoert](#about-nancy-van-sch
 _Photo by Tiger Lily from Pexels_
 
 ---
-
-
 
 ## Origin and purpose of the Role
 
