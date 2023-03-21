@@ -80,7 +80,7 @@ Having people in the room is a starting place to speak about consent. It gives u
 
 ### Your words are not enough
 
-If you ask for consent as a means to disarm people then you will never really get it. Your request becomes transactional and lacks meaning. This will show up in your interactions with those are the consenting individuals. They will sense it and you will loose trust. You must not only show consideration for others, but honestly have it.
+If you ask for consent as a means to disarm people then you will never really get it. Your request becomes transactional and lacks meaning. This will show up in your interactions with the consenting individuals. They will sense it and you will loose trust. You must not only show consideration for others, but honestly have it.
 
 ### Their words are not enough
 
