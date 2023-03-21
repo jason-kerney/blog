@@ -74,13 +74,13 @@ Meaningful consent is where the person consents not only in word and action but 
 
 If our goal is engagement, then we need to worry about meaningful consent. It is not enough that an employee shows up for whatever we have scheduled to facilitate the change. There are a lot of reasons a person may show up that have nothing to do with giving consent. They may be afraid of being viewed as a lesser employee when raises come out. They may be afraid of missing out. They may simply want a break from their job.
 
-Having people in the room is a starting place to speak about consent. It gives us the opportunity to ask for consent, but we still need to ask for it. Remember, asking shows consideration for other's.
+Having people in the room is a starting place to speak about consent. It gives us the opportunity to ask for consent, but we still need to ask for it. Remember, asking shows consideration for others.
 
 ## Words are not enough
 
 ### Your words are not enough
 
-If you ask for consent as a means to disarm people then you will never really get it. Your request becomes transactional and lacks meaning. This will show up in your interactions with the consenting individuals. They will sense it and you will loose trust. You must not only show consideration for others, but honestly have it.
+If you ask for consent as a means to disarm people, then you will never really get it. Your request becomes transactional and lacks meaning. This will show up in your interactions with the consenting individuals. They will sense it and you will lose trust. You must not only show consideration for others, but honestly have it.
 
 ### Their words are not enough
 
