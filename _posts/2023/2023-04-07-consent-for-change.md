@@ -46,7 +46,7 @@ Consent is a barrier to engagement in change management. However, basic agreemen
 
 ### Context
 
-When making changes to a work environment we need engagement from those effected. If the people making the change are the only people effected, well then you have engagement. For the purpose of this article, I will be talking about consent in regards to making such changes in the work place. I will discuss how gaining consent is an essential part of change management. The change that is happening could be a large re-org style change, it could be a required workshop that people are expected to attend, the change of a simple process, or the change of a commonly used tool. Any change that effects more people then those planning and managing the change.
+When making changes to a work environment we need engagement from those effected. If the people making the change are the only people effected, well then you have engagement. For the purpose of this article, I will be talking about consent in regards to making such changes in the work place. I will discuss how gaining consent is an essential part of change management. The change that is happening could be a large re-org style change, it could be a required workshop that people are expected to attend, the change of a simple process, or the change of a commonly used tool. Any change that effects more people than those planning and managing the change.
 
 ### What is Consent
 
@@ -60,7 +60,7 @@ Consent is really about trust. Trust first that the person has the ability not t
 >
 > Charles Feldman via Brene Brown
 
-The above quote is the best definition I have ever seen for what is trust. In the context of this article, the thing you are making vulnerable is the proposed change. The funny thing is it always was, but we have a need to acknowledge that vulnerability.
+The above quote is the best definition I have ever seen for what trust is. In the context of this article, the thing you are making vulnerable is the proposed change. The funny thing is it always was, but we have a need to acknowledge that vulnerability.
 
 ### Why Consent
 
@@ -114,7 +114,7 @@ My willingness to change shows vulnerability and gives stronger agency. It corre
 
 Once we have trust to do the change, we then need to be explicit about what is about to happen. We need to be as clear as we can. If there is a surprise used to forward learning, we need to examine if that surprise is necessary. If it is, we need to have consent to surprise the person. The goal here is to maximize the understanding of what is going to happen, so that we minimize the chance of losing consent at a later step.
 
-There is also an explicitness that needs to be asked for from the consenter. You need them to be explicit about what they consent to. This is a step to help alignment, and clear up possible future confusions. It also gives the person giving consent a chance to express their expectations of the change that is about to happen. It enables those involved to reach the clearest possible communications. It is the responsibility of the person who is trying to attain consent to ensure they are understood.
+There is also an explicitness that needs to be asked for from the consenter. You need them to be explicit about what they consent to. This is a step to help alignment and clear up possible future confusions. It also gives the person giving consent a chance to express their expectations of the change that is about to happen. It enables those involved to reach the clearest possible communications. It is the responsibility of the person who is trying to attain consent to ensure they are understood.
 
 ### Consent
 
@@ -128,7 +128,7 @@ Now, there will be individuals who will never give their consent. You cannot mak
 
 ### The Course is Wrong
 
-I start with this, because it is the hardest to see. Our answers are seductive to ourselves, and it is easiest to accept, especially if the dissenters are in the minority or people we have had past disagreements with.
+I start with this, because it is the hardest to see. Our answers are seductive to ourselves, and it is easiest to accept, especially if the dissenters are in the minority or people, we have had past disagreements with.
 
 To determine if the change is the wrong change you need to listen to each person refusing to give consent. Understand their point of view, and accept they are offering genuine insight. You do not have to agree with their insight, but you need to understand it.
 
@@ -148,7 +148,7 @@ There is a special note to put here. If the environment has been a transactional
 
 ### The Person is Wrong
 
-This is the easiest, and therefore jumped to far too often. The person can only be wrong for the change when all other options have been tried. When the person is wrong, you are left with a few questions you need to answer.
+This is the easiest, and therefore jumped too far too often. The person can only be wrong for the change when all other options have been tried. When the person is wrong, you are left with a few questions you need to answer.
 
 1. Can the individual exist without the change?
 2. Can the change exist without the individual?
