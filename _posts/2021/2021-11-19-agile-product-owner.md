@@ -103,6 +103,7 @@ in the series “Agile Methods for Safety-Critical Systems”.
 ### Contact Info
 
 Website: [www.leanagilepartners.com](www.leanagilepartners.com)
+
 Linked In: https://www.linkedin.com/in/nancy-van-schooenderwoert-37882/
 
 Speaking at Agile India on 2021-Nov-20: [https://confengine.com/conferences/agile-india-2021/schedule/rich#session-29487-info](https://confengine.com/conferences/agile-india-2021/schedule/rich#session-29487-info)
