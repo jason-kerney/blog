@@ -6,7 +6,7 @@ category: business
 author: Jason
 tags: ['human systems', 'people', 'safety', 'philosophy']
 summary: Consent is a barrier to engagement in change management. However, basic agreement is not enough. We need to get meaningful consent to allow for engagement. That means people need to trust us first then allow us to guide the change.
-series: "Working with Consent"
+series: "Working with Consent1"
 ---
 
 ![Egg about to be smashed by giant wood mallet](/assets/img/posts/2023/04/pexels-pixabay-40721.jpg){: width="50%" .center}
@@ -38,7 +38,7 @@ _Photo by [Pixabay](https://www.pexels.com/photo/egg-power-fear-hammer-40721/) f
 </aside>
 {% endif %}
 
-## TL; DR
+## Overview
 
 Consent is a barrier to engagement in change management. However, basic agreement is not enough. We need to get meaningful consent to allow for engagement. That means people need to trust us first then allow us to guide the change. Simply doing facilitated training will not guarantee engagement, it may even counter act engagement if consent was not given before the training takes place.
 
@@ -46,7 +46,7 @@ Consent is a barrier to engagement in change management. However, basic agreemen
 
 ### Context
 
-When making changes to a work environment we need engagement from those effected. If the people making the change are the only people effected, well then you have engagement. For the purpose of this article, I will be talking about consent in regards to making such changes in the work place. I will discuss how gaining consent is an essential part of change management. The change that is happening could be a large re-org style change, it could be a required workshop that people are expected to attend, the change of a simple process, or the change of a commonly used tool. Any change that effects more people than those planning and managing the change.
+When making changes to a work environment we need engagement from those effected. If the people making the change are the only people effected, well then you have engagement. For the purpose of this article, I will be talking about consent in regards to making such changes in the work place. I will discuss how gaining consent is an essential part of change management. The change that is happening could be a large re-org style change, a required workshop that people are expected to attend, a  change of a simple process, or the change of a commonly used tool. Any change that effects more people than those planning and managing the change.
 
 ### What is Consent
 
@@ -104,7 +104,7 @@ There is a lot to unpack with this question. Gaining consent is all about gainin
 
 Another way to examine trust is using the [B.R.A.V.I.N.G. Model](https://brenebrown.com/videos/anatomy-trust-video/) presented by Brene Brown. This gives you a way to investigate what is going wrong in gaining and receiving trust. it might even lead to a few of the issues listed below.
 
-Paradoxically, for me, I find I am best at minimizing my self-orientation if I first examine what my self-orientation is. What do I have to gain from doing the thing I am doing? If I can examine this and be truthful about it it allows me to then examine what my message is and identify where I am focusing on me. The next thing I find helpful is to spend time examining why I think what I am about to do is helpful for the audience. I then examine that against my own desires. Am I masking my own desires as things that will be beneficial to the audience?
+Paradoxically, for me, I find I am best at minimizing my self-orientation if I first examine what my self-orientation is. What do I have to gain from doing the thing I am doing? If I can examine this and be truthful about it allows me to then examine what my message is and identify where I am focusing on me. The next thing I find helpful is to spend time examining why I think what I am about to do is helpful for the audience. I then examine that against my own desires. Am I masking my own desires as things that will be beneficial to the audience?
 
 Once I have an understanding of why I think this will be beneficial to the audience of the change, then I farm for dissent. I ask people to challenge me, and I listen. Sometimes, they will raise things that are actually covered but I did not think of. Most often though, they tell me why I am wrong. I find that what I was planning is not correctly fit to the people who I am affecting. So, I change, and correct the fit.
 
@@ -128,7 +128,7 @@ Now, there will be individuals who will never give their consent. You cannot mak
 
 ### The Course is Wrong
 
-I start with this, because it is the hardest to see. Our answers are seductive to ourselves, and it is easiest to accept, especially if the dissenters are in the minority or people, we have had past disagreements with.
+When trouble shooting why I do not have consent I start with the idea that the course may be wrong, because it is the hardest to see. Our answers are seductive to ourselves, and it is easiest to accept, especially if the dissenters are in the minority or people, we have had past disagreements with.
 
 To determine if the change is the wrong change you need to listen to each person refusing to give consent. Understand their point of view, and accept they are offering genuine insight. You do not have to agree with their insight, but you need to understand it.
 
@@ -148,7 +148,7 @@ There is a special note to put here. If the environment has been a transactional
 
 ### The Person is Wrong
 
-This is the easiest, and therefore jumped too far too often. The person can only be wrong for the change when all other options have been tried. When the person is wrong, you are left with a few questions you need to answer.
+This is the easiest answer to give, and also far more often the wrong one. The person can only be wrong for the change when all other options have been tried. When the person is wrong, you are left with a few questions you need to answer.
 
 1. Can the individual exist without the change?
 2. Can the change exist without the individual?
