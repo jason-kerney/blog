@@ -110,7 +110,7 @@ Speaking at Agile India on 2021-Nov-20: [https://confengine.com/conferences/agil
 
 ### Additional Info
 
-Co-author of Agile Methods for Safety-Critical Systems [www.agilemethodsforsafetycriticalsystems.com](www.agilemethodsforsafetycriticalsystems.com)
+Co-author of Agile Methods for Safety-Critical Systems [www.agilemethodsforsafetycriticalsystems.com](http://www.agilemethodsforsafetycriticalsystems.com)
 
 ---
 
