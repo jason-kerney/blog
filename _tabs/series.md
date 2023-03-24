@@ -1,7 +1,7 @@
 ---
 title: Series
 icon: fas fa-book
-order: 4
+order: 7
 ---
 
   <ol reversed>
