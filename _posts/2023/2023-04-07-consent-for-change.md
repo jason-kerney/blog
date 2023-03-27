@@ -122,7 +122,7 @@ Once we have trust and have been explicit about what is happening, we can then a
 
 ## Not Having Consent
 
-So, when you give people the option to opt out, some will take it. The first thing to realize is each person most likely has a unique reason for no giving consent and even if that is not true, you need to approach each individually. By doing so, you have the ability to reduce the perception of self-focus.
+So, when you give people the option to opt out, some will take it. The first thing to realize is each person most likely has a unique reason for not giving consent and even if that is not true, you need to approach each individually. By doing so, you have the ability to reduce the perception of self-focus.
 
 Now, there will be individuals who will never give their consent. You cannot make everyone happy, however, this is a great time to reflect. Here are some scenarios and things to consider.
 
@@ -152,7 +152,7 @@ This is the easiest answer to give, and also far more often the wrong one. The p
 
 1. Can the individual exist without the change?
 2. Can the change exist without the individual?
-3. Can other exist within the change without the individual?
+3. Can others exist within the change without the individual?
 
 If either of these questions is "No" then there is something that needs to be done. {% if crucial.title %} I cover how to gain consent for a crucial conversation in my article: [{{ crucial.title }}]({{ crucial.url }}){% else %} I will cover crucial conversations in a latter article.{% endif %}
 
