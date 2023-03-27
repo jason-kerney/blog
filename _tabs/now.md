@@ -6,8 +6,8 @@ order: 5
 
 ## Work
 
-Enjoying my team very much getting ready to move into coaching role again.
+Working as a Technical Coach, helping teams who want to be helped achieve more success.
 
 ## Books
 
-[The Systems Bible: The Beginner's Guide to Systems Large and Small](https://www.amazon.com/Systems-Bible-Beginners-Guide-Large/dp/0961825170) by John Gall
+On a break, but have several I am thinking about.
