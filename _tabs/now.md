@@ -10,4 +10,4 @@ Working as a Technical Coach, helping teams who want to be helped achieve more s
 
 ## Books
 
-On a break, but have several I am thinking about.
+[The Outward Mindset from the Arbinger Institute](https://a.co/d/9FHDvMi).
