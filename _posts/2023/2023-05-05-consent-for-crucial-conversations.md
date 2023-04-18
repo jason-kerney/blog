@@ -41,13 +41,13 @@ Crucial conversations are hard, because they are made crucial by being unfavorab
 
 ### Context
 
-A crucial conversation is a conversation intended to deliver unfavorable news and sometimes change behavior related to that news. Each of these goals are very different, but engagement by the person in the conversation greatly improves chances of success. Engagement relies on trust. Trust relies on consent.
+A crucial conversation is a conversation intended to deliver unfavorable news and sometimes change behavior related to that news. Each of these goals are very different, but engagement by the person in the conversation greatly improves the chances of success. Engagement relies on trust. Trust relies on consent.
 
 To have this conversation, we will need meaningful consent. If you are curious about what I mean by "meaningful" consent you can read the [first]({{ related.url }}) post in this series.
 
 ### Why Consent
 
-Since this is a professional blog about professional workplaces, I can imagine someone saying that "This conversation has to happen so why do I need consent". Well that depends on our goal. If our goal is to have a meaningful impact on the person's life and ensure we are understood, then consent allows us to begin that process. If our goal is to fulfil HR and legal requirements so that we can fire the person, then strictly speaking consent is not needed; though it can help.
+Since this is a professional blog about professional workplaces, I can imagine someone saying that "This conversation has to happen so why do I need consent". Well that depends on our goal. If our goal is to have a meaningful impact on the person's life and ensure we are understood, then consent allows us to begin that process. If our goal is to fulfill HR and legal requirements so that we can fire the person, then strictly speaking consent is not needed, though it can help.
 
 ## Trust
 
@@ -63,11 +63,11 @@ When we are approaching from a position of power it becomes even harder not to s
 
 When we engage in a crucial conversation, we are making a big assumption. We are assuming we have some knowledge of the situation that the recipient does not have, and would benefit from. We need to also approach this with the assumption that the person will have knowledge we do not have, and that we will benefit from. This will make gaining consent easier, if they trust that they can challenge what is said in a meaningful way.
 
-If the person has no way to challenge, it will be harder to gain consent, but if you are honest with the person about the situation it can help..
+If the person has no way to challenge, it will be harder to gain consent, but if you are honest with the person about the situation it can help.
 
 ## Remember to Ask
 
-Once you have layed the ground work, you cannot assume you have consent. You need to ask. This is the most crucial part of this. By asking for permission you are gaining a chance to be truly heard. Without asking, you are not making way for the person to be engaged in what you say. You are also not giving the option to opt out.
+Once you have laid the groundwork, you cannot assume you have consent. You need to ask. This is the most crucial part of this. By asking for permission you are gaining a chance to be truly heard. Without asking, you are not making way for the person to be engaged in what you say. You are also not giving the option to opt out.
 
 ## What to do if You Can't Get Consent
 
@@ -75,8 +75,8 @@ Respect the person's will, and let consequences happen.
 
 ## What to do When You Have Consent
 
-This article is not on how to have crucial conversations there is a whole [book](https://a.co/d/3vxCNlF) on that. However, what I will talk about is the role of "opting out" during this conversation. It is really important that the person you are having this conversation with understands that they have the ability to explicitly opt out at any time. It makes the permission you gain much more meaningful if the person granting permission knows they can withdrawal it.
+This article is not on how to have crucial conversations, there is a whole [book](https://a.co/d/3vxCNlF) on that. However, what I will talk about is the role of "opting out" during this conversation. It is really important that the person you are having this conversation with understands that they have the ability to explicitly opt out at any time. It makes the permission you gain much more meaningful if the person granting permission knows they can withdraw it.
 
 ## Call to Action
 
-Before your next crucial conversation stop and spend time thinking about how you can gain explicit and meaningful consent to have that conversation.
+Before your next crucial conversation, stop and spend time thinking about how you can gain explicit and meaningful consent to have that conversation.
