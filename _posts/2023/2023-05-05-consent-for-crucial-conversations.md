@@ -15,6 +15,8 @@ _Photo by [Vladislav Murashko](https://www.pexels.com/photo/man-in-black-jacket-
 {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
 {% assign series-size = series-posts | size %}
 {% assign related = site.posts | where: "title","Consent for Change" | first %}
+{% assign change = series-posts | where: "title","Consent for Change" | first %}
+
 
 {% if 1 < series-size %}
 <aside class="series">
@@ -33,7 +35,9 @@ _Photo by [Vladislav Murashko](https://www.pexels.com/photo/man-in-black-jacket-
 </aside>
 {% endif %}
 
-## TL; DR
+## Overview
+
+In my [last]({{ change.url }}) post, I discussed the need for consent in making organizational changes. These changes become more effective if you have engagement with the employees being affected by the change. Now I am talking about making a different kind of change. What happens if you need to make a change in someone else's behavior. We start from the same place; we use the same tools to evaluate our motives to the motives of the person whose behavior needs to be changed. Now comes the time for a crucial conversation.
 
 Crucial conversations are hard, because they are made crucial by being unfavorable but necessary. If we ignore consent during these conversations we greatly reduce their ability to be successful. Consent is based on trust, the feeling of control, and an explicit request.
 
