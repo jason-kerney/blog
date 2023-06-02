@@ -52,23 +52,23 @@ The amount of time a change takes directly effects the perception of success. If
 
 In an earlier article, I talked about gaining [{{change.title}}]({{ change.url }}). However, it leaves a lot of questions unanswered when talking about large scale change. If you have not read the article, I recommend you read it before this one, as I will be building on the ideas presented there.
 
-Everything about gaining consent is still true for large scale change. So, you start there. You need to build trust, allow for a person to opt-out, and listen to them. From there you will work at reducing our two main complexity variables, number of contexts, and time.
+Everything about gaining consent is still true for large scale change. So, you start there. You need to “build trust” -- was looking for this the previous article, the element of how trust isnt a guarantee, which also requires consent. Consent in two phases?, allow for a person to opt-out, and listen to them. From there you will work at reducing our two main complexity variables, number of contexts, and time.
 
 ## Partition Change to Gain Trust
 
-Every change happens in steps and efforts with gradient returns. Rather than trying to gain upfront consent for everything that is about to happen approach it in bite sized pieces. Start first with a small group and a small change. The focus on a small group reduces context and allows you time to hear people's concerns and address them individually. It also facilitates your education on what things might prevent your change from being successful.
+Every change happens in steps and efforts with gradient returns. Rather than trying to gain upfront consent for everything that is about to happen approach it in bite sized pieces. Start first with a small group and a small change. The focus on a small group reduces context and allows you time to hear people’s concerns and address them individually. It also facilitates your education on what things might prevent your change from being successful. Assess the ecosystem the small group is in. Power dynamics within the group, outside of the group in the org, the level of impact of the change vs. the measure of safety for practice fields in the group vs. In the org. The small group may desire to trust you but may trust their manager/company less and not granting you trust. “We form the structures, and then the structures form us.” Winston Churchill. “The structures in which we are unaware of hold us prisoner.” - Peter Senge.
 
 Focusing on a small step toward the eventual change is also helpful. This reduces the timeline and complexity inherent in the change. This will allow you to gain visible success within the target group which will build trust and make future consent easier. Again, it also helps you to learn inherent problems with the proposed change and adjust.
 
-The success gained from this effort will pay out in trust with other groups and future steps, provided that you continue to approach things in the same manner. Focusing on a small group and a small change. It shows that you are serious about gaining consent, and that the individual effected by the change is as important as the change itself.
+The success gained from this effort will pay out in trust with other groups and future steps, provided that you continue to approach things in the same manner. Focusing on a small group and a small change. It shows that you are serious about gaining consent, and that the individual effected by the change is as important as the change itself. I reflect on the spread of communication beyond the group after experiencing the change. The next 1:1 with their manager, their manager’s manager, leading to positive/negative systemic impact in the living system.
 
 Large changes happen in small movements and so does large scale consent.
 
 ## Focus on Being Trustworthy
 
-As I said in the first article about consent, consent is really about trust. To gain trust you need to be worthy of that trust. As such you need to be very careful about the perspective you take when communicating about change. Remember I mentioned the [Trust Equation](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation). The part of the equation that has the biggest impact on how trustworthy you are viewed as is the perception of self-interest. It is too easy to get caught up in the benefits that a change may bring. When we speak too much on those, we start to sound like a salesperson. We start to sound as if it is for our benefit. Remember to gain trust we need to reduce the amount of self-centeredness. We need to be focused on the individuals who are going to be affected by the change. This is even more so when dealing with change at scale as those affected become more and more difficult to see as individuals.
+As I said in the first article about consent, consent is really about trust. - Trust also calls out safety. Brene Brown’s BRAVING through trust. Boundaries, Reliability, Accountability, Vault, Integrity, and Generosity. To gain trust you need to be worthy of that trust. As such you need to be very careful about the perspective you take when communicating about change. Remember I mentioned the [Trust Equation](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation). The part of the equation that has the biggest impact on how trustworthy you are viewed as is the perception of self-interest. It is too easy to get caught up in the benefits that a change may bring. When we speak too much on those, we start to sound like a salesperson. We start to sound as if it is for our benefit. Remember to gain trust we need to reduce the amount of self-centeredness. We need to be focused on the individuals who are going to be affected by the change. This is even more so when dealing with change at scale as those affected become more and more difficult to see as individuals.
 
-So, you need to take time and really focus on being worthy of people's trust so that they can give you their trust, and eventually their consent.
+So, you need to take time and really focus on being worthy of people’s trust so that they can give you their trust, and eventually their consent. An invitation to join your mission. Do they want the same things you do? Shared Vision. Enrollment vs. Renting.
 
 ## Consent at Scale
 
@@ -79,3 +79,9 @@ You need to focus on the individuals that are being affected. You can only gain 
 ## Call to Action
 
 Change at scale is momentous. Change requires engagement. Engagement requires consent. I challenge you when thinking about a future change at scale, focus on individuals not groups. Take the time to listen and learn from those individuals that do not give consent for the change.
+
+## Special Thanks
+
+There are a number of people who helped make this post a reality. I want to give each of them thanks.
+
+Specificity, I would like to thank [Tabassun Haque, Host of the “Agile Disrupted” Podcast](https://agiledisrupted.com) for her insightful comments as they improved the quality of the post significantly.
