@@ -9,6 +9,8 @@ summary: Consent is a barrier to engagement in change management. However, basic
 series: "Working with Consent"
 ---
 
+_note: edited on ? to improve understanding based on feedback_
+
 ![Egg about to be smashed by giant wood mallet](/assets/img/posts/2023/04/pexels-pixabay-40721.jpg){: width="50%" .center}
 _Photo by [Pixabay](https://www.pexels.com/photo/egg-power-fear-hammer-40721/) from [Pexels](https://www.pexels.com)_
 
@@ -40,19 +42,27 @@ _Photo by [Pixabay](https://www.pexels.com/photo/egg-power-fear-hammer-40721/) f
 
 ## Overview
 
+You are the person responsible for managing a change with the hope it will make the company better. You can, and have authority to, just tell people things are going to be different. Things then change, and seam pretty good, but somehow old problems still return. The good the change was supposed to illicit never really saw fruit. So, you decide on a new change, and the cycle starts over. I ask you how engaged were people in seeing that the change not only happened but had the results you were looking for? How can we get that kind of meaningful engagement?
+
 Consent is a barrier to engagement in change management. However, basic agreement is not enough. We need to get meaningful consent to allow for engagement. That means people need to trust us first then allow us to guide the change. Simply doing facilitated training will not guarantee engagement, it may even counter act engagement if consent was not given before the training takes place.
 
 ## The Basics
 
 ### Context
 
-When making changes to a work environment we need engagement from those effected. If the people making the change are the only people effected, well then you have engagement. For the purpose of this article, I will be talking about consent in regards to making such changes in the work place. I will discuss how gaining consent is an essential part of change management. The change that is happening could be a large re-org style change, a required workshop that people are expected to attend, a  change of a simple process, or the change of a commonly used tool. Any change that effects more people than those planning and managing the change.
+For the purpose of this article, I will be talking about consent in regard to making such changes in the workplace. More-over, I am talking about changes made from those in power in the workplace. When making changes to a work environment we need engagement from those affected. This is not just engagement to _do_ the work of the change, but engagement to bring about the intent of the change. Those who planned the change are by definition most engaged, so if those planning the change are the only people affected then you already have consent. However, it is the people who are not part of the planning process I will be focusing on. Gaining consent from those who are affected by, and most cases implementing, the change is an essential part of change management.
+
+It does not matter if the change is a small single team change, a large re-org, or a training session that people are expected to attend. In all these scenarios the people being affected have control over its success, and as such, you need to get them to buy in and engage in the outcome. Consent can help with achieving that outcome.
 
 ### What is Consent
 
 At its core consent means the explicit permission to do something that directly affects the person providing permission. Though that definition is not enough. It leaves out the **why** you need consent in a work environment before making changes.
 
 Consent is really about trust. Trust first that the person has the ability not to consent, and secondly that what is about to happen will be emotionally, physically, financially, and psychologically safe.
+
+#### Note on Power
+
+There is an implicit and explicit dynamic of power between those planning the change, and those being affected by the change. This power dynamic makes it hard to know when you get meaningful consent. So, you will need to pay extra close attention to it.
 
 ### What is Trust
 
@@ -65,6 +75,12 @@ The above quote is the best definition I have ever seen for what trust is. In th
 ### Why Consent
 
 [Forbes](https://www.forbes.com/sites/kevinkruse/2012/09/04/why-employee-engagement/?sh=7e1b2ef83aab) references a lot of research showing that when employees are engaged, they are better employees. Consent is the first barrier to engagement. If we want engagement in our change, we _need_ to start with consent.
+
+#### They always had the power anyway
+
+I really want to stress that those you are asking for consent from, always have the power to give or deny you consent. They can just ignore, leave, or even sabotage your efforts without explicitly saying no.
+
+The real reason we seek consent, is to try and make that explicit and known. It is to gain understanding of where people stand on the change we are making, and what needs to be done to get a better outcome. It is to engage our workforce and motivate them to be the leaders in the areas they have the most knowledge. It is related to what David Marquet did in [Turn the Ship Around](https://davidmarquet.com/turn-the-ship-around-book/) when he called everyone together and gave his crew authority. By gaining consent in doing the change you automatically grant authority to make it work.
 
 ### Meaningful Consent
 
@@ -148,7 +164,7 @@ There is a special note to put here. If the environment has been a transactional
 
 ### The Person is Wrong
 
-This is the easiest answer to give, and also far more often the wrong one. The person can only be wrong for the change when all other options have been tried. When the person is wrong, you are left with a few questions you need to answer.
+This is the easiest answer to give, and far more often the wrong one. The person can only be wrong for the change when all other options have been tried. When the person is wrong, you are left with a few questions you need to answer.
 
 1. Can the individual exist without the change?
 2. Can the change exist without the individual?
@@ -168,7 +184,7 @@ It can be awkward and jarring to think about consent when also tied up in the ho
 
 ## Special Thanks
 
-There are a number of people who helped make this post a reality. I want to give each of them thanks.
+There are several people who helped make this post a reality. I want to give each of them thanks.
 
 Specificity, I would like to thank [Tabassun Haque, Host of the “Agile Disrupted” Podcast](https://agiledisrupted.com) for her insightful comments as they improved the quality of the post significantly.
 
