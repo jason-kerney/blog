@@ -60,6 +60,8 @@ At its core consent means the explicit permission to do something that directly 
 
 Consent is really about trust. Trust first that the person has the ability not to consent, and secondly that what is about to happen will be emotionally, physically, financially, and psychologically safe.
 
+It is worth saying that _consent_ is not a change management framework, but rather a tool. A tool that you will have to figure out the fit of within the framework you are using.
+
 #### Note on Power
 
 There is an implicit and explicit dynamic of power between those planning the change, and those being affected by the change. This power dynamic makes it hard to know when you get meaningful consent. So, you will need to pay extra close attention to it.
