@@ -9,6 +9,8 @@ summary: Crucial conversations are hard, because they are made crucial by being 
 series: "Working with Consent"
 ---
 
+_note: edited on ? to improve understanding based on feedback_
+
 ![Person standing alone on rock in middle of water](/assets/img/posts/2023/05/pexels-vladislav-murashko-5990737.jpg){: width="50%" .center}
 _Photo by [Vladislav Murashko](https://www.pexels.com/photo/man-in-black-jacket-standing-on-the-seashore-5990737) from [Pexels](https://www.pexels.com)_
 
@@ -69,6 +71,16 @@ When we engage in a crucial conversation, we are making a big assumption. We are
 
 If the person has no way to challenge, it will be harder to gain consent, but if you are honest with the person about the situation it can help.
 
+## Manditory Crucial Conversations
+
+Now some conversations are mandated by policy or law. These apear to pose an interesting challenge to consent. Afterall, these represent workplace hazards, and can lead to legal issues and law suits.
+
+Before I continue, let me say I am no HR or Law expert. I am not giving advice on how to handle these situations, but only posing a way to think about them.
+
+First, if you ask for consent, and let it be known what the consequences will be if they refuse consent (aka termination) and the person does not consent then you know what you must do. At least now, you know. Where as if you did not ask and they gave you a silent no, you would never know until the issue came up again. Let me be clear, if they say "yes" with thier words, it does not mean that you don't have a silent no. But at least you opened the door for them to better hear you.
+
+Here, getting consent is really about the goal of ensuring the behavior is not repeated. That the person hears you, understands you, and is in agreement that the things you bring up are true and correct.
+
 ## Remember to Ask
 
 Once you have laid the groundwork, you cannot assume you have consent. You need to ask. This is the most crucial part of this. By asking for permission, you are gaining a chance to be truly heard. Without asking, you are not making way for the person to be engaged in what you say. You are also not giving the option to opt out.
@@ -80,6 +92,10 @@ Respect the person's will, and let consequences happen.
 ## What to do When You Have Consent
 
 This article is not on how to have crucial conversations, there is a whole [book](https://a.co/d/3vxCNlF) on that. However, what I will talk about is the role of "opting out" during this conversation. It is really important that the person you are having this conversation with understands that they have the ability to explicitly opt out at any time. It makes the permission you gain much more meaningful if the person granting permission knows they can withdraw it.
+
+## Knowing you have engagement
+
+The thing to listen for here, is "That's right" rather then "You're right". "You're" right means the person is not taking ownership of the conversation, and are giving you ownership. "That's right" means they have internalized the situation and are taking at least some ownership of the situation.
 
 ## Call to Action
 
