@@ -80,7 +80,7 @@ The above quote is the best definition I have ever seen for what trust is. In th
 
 I really want to stress that those you are asking for consent from, always have the power to give or deny you consent. They can just ignore, leave, or even sabotage your efforts without explicitly saying no.
 
-The real reason we seek consent, is to try and make that explicit and known. It is to gain understanding of where people stand on the change we are making, and what needs to be done to get a better outcome. It is to engage our workforce and motivate them to be the leaders in the areas they have the most knowledge. It is related to what David Marquet did in [Turn the Ship Around](https://davidmarquet.com/turn-the-ship-around-book/) when he called everyone together and gave his crew authority. By gaining consent in doing the change you automatically grant authority to make it work.
+The real reason we seek consent, is to try and make that explicit and known. It is to gain understanding of where people stand on the change we are making, and what needs to be done to get a better outcome. It is to engage our workforce and motivate them to be the leaders in the areas they have the most knowledge. By gaining consent in doing the change you can automatically grant authority and desire to make it work.
 
 ### Meaningful Consent
 
