@@ -8,8 +8,8 @@ tags: ['product ownership', 'agility', 'mindset', 'technical debt', 'guest blog'
 summary: This is guest blog by David Brown. It challenges the traditional notion of technical debt, emphasizing its importance as a strategic lever rather than a simple coding issue.
 ---
 
-![Egg about to be smashed by giant wood mallet](/assets/img/posts/2023/07/pexels-tony-s-zohari-16784087.jpg){: width="50%" .center}
-_Photo by [Tony S. Zohari](https://www.pexels.com/photo/a-buddhist-temple-with-scaffolding-16784087/) from [Pexels](https://www.pexels.com)_
+![Egg about to be smashed by giant wood mallet](/assets/img/posts/2023/07/pexels-ronnie-doley-12321717.jpg){: width="50%" .center}
+_Photo by [Ronnie Doley](https://www.pexels.com/photo/scaffolding-over-golden-buddha-statue-12321717) from [Pexels](https://www.pexels.com)_
 
 ## Overview
 
