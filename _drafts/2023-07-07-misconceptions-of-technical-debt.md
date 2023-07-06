@@ -2,11 +2,14 @@
 layout: post
 title: Unraveling the Misconceptions of Technical Debt
 date: 2023-07-07 00:30
-category: 
+category: agility
 author: David-Brown
-tags: []
+tags: ['product ownership', 'agility', 'mindset', 'technical debt', 'guest blog']
 summary: 
 ---
+
+![Egg about to be smashed by giant wood mallet](/assets/img/posts/2023/07/pexels-tony-s-zohari-16784087.jpg){: width="50%" .center}
+_Photo by [Tony S. Zohari](https://www.pexels.com/photo/a-buddhist-temple-with-scaffolding-16784087/) from [Pexels](https://www.pexels.com)_
 
 ## Overview
 

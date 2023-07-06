@@ -4,7 +4,7 @@ title: Agile Product Owner role Some Thoughts on its Use
 date: 2021-11-19 00:30
 category: agility
 author: Nancy Van Schooenderwoert
-tags: ['agility', 'mindset']
+tags: ['product ownership', 'agility', 'mindset', 'guest blog']
 summary: This is a guest blog written by Nancy Van Schooenderwoert. It examines the history of the product owner as well as things that commonly go wrong. It ties it all together by discussing how to compensate for the things that cause it to go wrong.
 ---
 
