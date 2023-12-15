@@ -6,7 +6,7 @@ order: 5
 
 ## Work
 
-Working as a Software Engineering Manager.
+Working as a Software Engineering Manager. Seeing if I can improve things differently.
 
 ## Books
 
