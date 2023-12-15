@@ -6,8 +6,8 @@ order: 5
 
 ## Work
 
-Working as a Technical Coach, helping teams who want to be helped achieve more success.
+Working as a Software Engineering Manager.
 
 ## Books
 
-[The Outward Mindset from the Arbinger Institute](https://a.co/d/9FHDvMi).
+[The Making of a Manager](https://a.co/d/9g3EUx5).
