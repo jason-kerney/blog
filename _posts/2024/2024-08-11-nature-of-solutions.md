@@ -14,11 +14,7 @@ summary:
 
 ## Setup ##
 
-I have been a manager since December 2023. This is something I never wanted but am so glad I got to experience. I went from never managing, but coaching before, to managing a very large team overnight. I was familiar with this team as some time prior I was a developer on that team. I then became an agile coach and worked with that team in that capacity for almost a year. I was then moved to help another team for a year.
-
-This context is important because a development team can undergo significant changes within a year. In fact there are a lot of changes that started when I was coach that led the team to be where they were when I took over as their manager.
-
-Before stepping into the role, I purchased several books and read them. Some were on what to expect as a new manager. Some were on what to expect as a new technical manager. Others were on how to be better in both those contexts.
+I have been a manager since December 2023. Before stepping into the role, I purchased several books and read them. Some were on what to expect as a new manager. Some were on what to expect as a new technical manager. Others were on how to be better in both those contexts.
 
 As it turns out, the challenges I encountered were more nuanced and diverse than what those books had conveyed. Though there were a plethora of things I had to figure out, I want to really focus in on one particular type of thing that kept causing me problems. That one thing was "Solutions".
 
@@ -28,7 +24,7 @@ Let me setup things to be fair here. The problems I had with solutions did not a
 
 Now, let's delve into this in more detail. You cannot solve problems without some solution. Right? Well, yes, you are right. However, there are downsides to always looking to "solve" a problem. So, let’s get into it.
 
-Having a problem is well a problem. People in, at least in Southern California, desire to solve a problem when we see it. This is so prevalent that many people feel discomfort to having a problem linger without a solution even for a small amount of time. I am one of those people. This leads me to communicate about a problem through the application of a solution I propose. This would not be so bad if I did not see other people do the same thing. The problem is we have so many people focused on proposing a solution we often don't adequately describe the problem it is meant to solve.
+Having a problem is well a problem. People, in at least in Southern California, desire to solve a problem when we see it. This is so prevalent that many people feel discomfort to having a problem linger without a solution even for a small amount of time. I am one of those people. This leads me to communicate about a problem through the application of a solution I propose. This would not be so bad if I did not see other people do the same thing. The problem is we have so many people focused on proposing a solution we often don't adequately describe the problem it is meant to solve.
 
 This issue is further compounded when the individuals responsible for implementing the solution have limited understanding beyond the solution itself. Here we get a different kind of issue with a solution that is closely related to the first. Remember I am someone who feels uncomfortable when in the presence of an unsolved problem. This often leads me to not even to think to ask more detail on the original problem when presented with a solution. Instead, I dig into the solution. I want more detail about the solution. This makes me feel as if I understand the problem it solves. However, now my understanding is flawed. When I go to execute the solution, I will definitely run into something not described in the solution, and act in accordance to the problem I thought the solution was trying to solve. Since my understanding is flawed then my actions in accordance with the problem will be flawed.
 
