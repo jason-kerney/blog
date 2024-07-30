@@ -1,3 +1,13 @@
+---
+layout: post
+title: Pain Driven Development
+date: 2024-08-11 00:10
+category: 'philosophy'
+author: jason-kerney
+tags: ['agility', 'human systems', 'mindset', 'people', 'philosophy', 'process', 'well-being']
+summary: 'Focus on the removal of pains bring great benefits'
+---
+
 ## Overview ##
 
 I have been asked many times to describe my process for continuous improvement. Most people expect me to talk about some process or way I view the team's processes. However, the approach I have is much more holistic, and much more succinct. Everything, from writing code, to deciding what to work on next, to parenting all have the same philosophy. I focus on pain, and permanently removing it. I call this Philosophy "Pain Driven Development".

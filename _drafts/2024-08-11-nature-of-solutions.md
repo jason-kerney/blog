@@ -2,10 +2,10 @@
 layout: post
 title: The Nature of Solutions
 date: 2024-08-11 00:10
-category: philosophy
+category: 
 author: jason-kerney
-tags: ['agility', 'human systems', 'mindset', 'people', 'philosophy', 'process', 'well-being']
-summary: 'Focus on the removal of pains bring great benefits'
+tags: []
+summary:
 ---
 
 ## Overview ##
