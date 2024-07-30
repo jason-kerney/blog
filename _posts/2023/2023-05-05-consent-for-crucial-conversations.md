@@ -5,7 +5,7 @@ date: 2023-05-05 00:30
 category: business
 author: Jason
 tags: ['human systems', 'people', 'safety', 'philosophy']
-summary: Crucial conversations are hard, because they are made crucial by being unfavorable but necessary. If we ignore consent during these conversations, we greatly reduce their ability to be successful. Consent is based on trust, the feeling of control, and an explicit request.
+summary: 'Crucial conversations are hard, because they are made crucial by being unfavorable but necessary. If we ignore consent during these conversations, we greatly reduce their ability to be successful. Consent is based on trust, the feeling of control, and an explicit request.'
 series: "Working with Consent"
 ---
 
