@@ -10,19 +10,19 @@ summary: 'Focus on the removal of pains bring great benefits'
 
 ## Overview ##
 
-I have been asked many times to describe my process for continuous improvement. Most people expect me to talk about some process or way I view the team's processes. However, the approach I have is much more holistic, and much more succinct. Everything, from writing code, to deciding what to work on next, to parenting all have the same philosophy. I focus on pain, and permanently removing it. I call this Philosophy "Pain Driven Development".
+I have been asked many times to describe my process for continuous improvement. Most people expect me to talk about some process or way I view the team's processes. However, the approach I have is much more holistic and succinct. Everything, from writing code to deciding what to work on next to parenting, all have the same philosophy. The philosophy focuses on pain, and permanently removing it. I have call this Philosophy "Pain Driven Development".
 
 ## What is Pain Driven Development ##
 
 First and foremost, I do not advocate for the creation of more pain in a development process. There is almost always way more than anyone can handle. There is usually so much pain in everything we do that we often become accustomed to that pain, and even stop noticing that it hurts.
 
-Pain Driven Development is a philosophy of radically removing pain. Removal of pain is not easy, but in general it follows 3 steps that sound easy.
+Pain Driven Development is a philosophy of radically removing pain. In general Pain Driven Development can be described in 3 steps that sound easy; but are not.
 
 1. Draw attention to pain and increase how much it hurts.
 1. Remove the probable cause of the pain.
-   * Ensure you are removing the cause, not the thing making it visible and painful. It is much easier to hide the pain.
-     * Scenario: If an objective requires a external team for the objective to be met. Then the relationship, and ownership issues need to be addressed before that pain is removed. Simply calling the objective done because your team did their part hides the pain.
-1. Reorganize the solution for the pain such that it is easy for you, or your team, to execute on and ensure that the pain does not come back.
+   * One must be careful to remove the source of pain, not something that has been making the pain noticeable. It is much easier to hide the pain.
+     * Scenario: If an objective requires a external team for the objective to be met. Then the relationship, and ownership issues need to be addressed before that pain is removed. Having simply called the objective done because your team did their part hides the pain.
+1. Reorganize the solution for the pain such that it will be easy for you, or your team, to execute on and ensure that the pain does not come back.
 
 ## Step 1: Make the Pain Visible ##
 
@@ -42,7 +42,7 @@ The dev team was focusing on new features instead of relieving pain. I started b
 
 ### First Step ###
 
-The first step in improving is to make anything that causes pain to actually hurt. The hurt gives us impetus to make changes.
+The first step in improving has to be to make anything that causes pain to actually hurt. The hurt will give us impetus to make changes.
 
 ## Step 2: Remove the Cause of the Pain ##
 
