@@ -34,7 +34,7 @@
         },
         {
             "name": "publish:raw",
-            "command": "gittey build && gittey commit && git subtree push --prefix _site origin gh-pages",
+            "command": "gittey build && gittey commit && git subtree pull --prefix _site origin gh-pages && git subtree push --prefix _site origin gh-pages",
             "description": "publishes changes to the website"
         },
         {
