@@ -10,4 +10,4 @@ Working as a Software Engineering Manager. Seeing if I can improve things differ
 
 ## Books
 
-[The Making of a Manager](https://a.co/d/9g3EUx5).
+[The Fifth Discipline](https://a.co/d/dW2KkRd).
