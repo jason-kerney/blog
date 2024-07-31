@@ -24,7 +24,7 @@
         },
         {
             "name": "push",
-            "command": "gittey pull && ./clean.ps1 && gittey build && gittey commit && git push",
+            "command": "gittey pull && powershell ./clean.ps1 && gittey build && gittey commit && git push",
             "description":"builds site and then pushes changes"
         },
         {
