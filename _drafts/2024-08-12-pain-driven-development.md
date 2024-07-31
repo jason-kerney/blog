@@ -8,7 +8,11 @@ tags: ['agility', 'human systems', 'mindset', 'people', 'philosophy', 'process',
 summary: 'Focus on the removal of pains bring great benefits'
 ---
 
-> "Quality comes not from inspection, but from improvement of the production process."
+> "Manage the cause, not the result."
+>
+> ~ W. Edwards Deming
+
+> "The aim of leadership should be to improve the performance of man and machine, to improve quality, to increase output, and simultaneously to bring pride of workmanship to people. Put in a negative way, the aim of leadership is not merely to find and record failures of men, but to remove the causes of failure: to help people to do a better job with less effort."
 >
 > ~ W. Edwards Deming
 
@@ -143,7 +147,7 @@ In the side not above I talk about how Test Driven Development is just a special
 
 ### Not Really Universal ###
 
-It is easy, to say "This does not apply to X." Especially when someone has not tried Pain Driven Development. Think about the two examples I gave, one about my health, and the other about a software project. These are about as far apart as I can think of. I could give more examples but then I would just fill this post beyond anyone wanting to read it. I don't believe I can convince you. All I can say is I try to live by this. I try to make removal of pain my number 1 priority. I have found it to benefit me when I do and hurt me when I don't.
+It is easy, to say "This does not apply to X." Especially when someone has not tried Pain Driven Development. Think about the two examples I gave, one about my health, and the other about a software project. These are about as far apart as I can think of. I could give more examples but then I would just fill this post beyond anyone wanting to read it. I don't believe I can convince you. All I can say is I try to live by this. I try to make removal of pain one of my top priorities. I have found it to benefit me when I do and hurt me when I don't.
 
 ## In Conclusion ##
 
