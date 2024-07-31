@@ -8,6 +8,10 @@ tags: ['agility', 'human systems', 'mindset', 'people', 'philosophy', 'process',
 summary: 'Focus on the removal of pains bring great benefits'
 ---
 
+> "Quality comes not from inspection, but from improvement of the production process."
+>
+> ~ W. Edwards Deming
+
 ## Overview ##
 
 I have been asked many times to describe my process for continuous improvement. Most people expect me to talk about some process or way I view the team's processes. However, the approach I have is much more holistic and succinct. Everything, from writing code to deciding what to work on next to parenting, all have the same philosophy. The philosophy focuses on pain, and permanently removing it. I have call this Philosophy "Pain Driven Development".
