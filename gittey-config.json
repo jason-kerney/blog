@@ -24,12 +24,12 @@
         },
         {
             "name": "push",
-            "command": "gittey pull && powershell ./clean.ps1 && gittey build && gittey commit && git push",
+            "command": "gittey pull && gittey build && gittey commit && git push",
             "description":"builds site and then pushes changes"
         },
         {
             "name": "build",
-            "command": "bundle exec jekyll build",
+            "command": "powershell ./clean.ps1 && bundle exec jekyll build",
             "description": "builds site"
         },
         {
