@@ -24,7 +24,7 @@
         },
         {
             "name": "push",
-            "command": "gittey pull && gittey build && git push",
+            "command": "gittey pull && Remove-Item ./_site -Recurse -Force && gittey build && gittey commit && git push",
             "description":"builds site and then pushes changes"
         },
         {

@@ -24,8 +24,8 @@
         },
         {
             "name": "push",
-            "command": "gittey pull; git push",
-            "description":"pushes changes"
+            "command": "gittey pull && gittey build && git push",
+            "description":"builds site and then pushes changes"
         },
         {
             "name": "build",
