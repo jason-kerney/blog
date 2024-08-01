@@ -106,7 +106,7 @@ There are two approaches that can help.
 
 1. Seek the help and guidance of a professional who is experienced with the type of pain you are experiencing. This is what I did in the first example, and the team did in the second example by hiring me.
 1. Try to make the pain worse without introducing new pain. This was not in any of my examples so let me give you a new one. It is contrived but built off a number lived of experiences.
-   * There is pain around deployment and the team tries an experiment to see if they can make the pain worse.
+   * There is pain around deployment so the team experiments with trying to find the source of the pain, by making deployment's pain worse, in order to uncover the source.
      1. Now there is pain around deployment and committing of code. However, the deployment pain is unchanged. This means the team's thought about where the pain was, was wrong. This change needs to be reverted and another experiment needs to be tried.
      1. Now there is pain around committing of code, and pain around deployment however the pain around deployment has increased. This means the team is closer to the source of the problem. However, it will be more complicated because it is affecting more systems. The next experiment the team needs to decide is which pain they will try to increase.
      1. Now there is pain around committing of code, but no pain around deployment. This is the trickiest of situations. Either the team has moved the pain closer to its origin or has inadvertently masked the pain. The change needs to be carefully inspected to see if it should have actually increased the deployment pain. If so, then the direction is most likely correct. The pain originated elsewhere and was manifesting in the deployment stage.
@@ -123,7 +123,7 @@ In the first story, I suddenly was pain free. The quality of my life increased s
 
 Focusing on stability while stability was the biggest pain had the effect of improving the work environment of the company's employees. People reported that they liked their job more. By removing the pain of having to use an unstable system, we improved people’s lives and increased their happiness.
 
-When we changed from focusing on stability to adding features, was when the need for features were more painful than stability. People became excited to gain our new updates. The company started overtaking their competition. The company became successful enough that within 6 months it was sold to a larger company for a hefty profit.
+When we changed from focusing on stability to adding features, was when the need for features were more painful than stability. People became excited to gain our new updates. The company started overtaking their competition; then became successful enough that within 6 months it was sold to a larger company for a hefty profit.
 
 Lastly, the development team started to love their job.
 
