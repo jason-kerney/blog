@@ -18,19 +18,21 @@ summary: 'Focus on the removal of pains bring great benefits'
 
 ## 1. Overview ##
 
-I have been asked many times to describe my process for continuous improvement. Most people expect me to talk about some process or way I view the team's processes. However, the approach I have is much more holistic and succinct. Everything, from writing code to deciding what to work on next to parenting, all have the same philosophy. The philosophy focuses on pain, and permanently removing it. I have call this Philosophy "Pain Driven Development".
+I have been asked many times to describe my process for continuous improvement. Most people expect me to talk about some process or way I view the team's processes. However, the approach I have is much more holistic and succinct. Everything, from writing code to deciding what to work on next to parenting, all have the same philosophy. The philosophy focuses on pain, and permanently removing it. I have called this Philosophy "Pain Driven Development".
 
 ## 2. What is Pain Driven Development ##
 
 First and foremost, I do not advocate for the creation of more pain in a development process. There is almost always way more than anyone can handle. There is usually so much pain in everything we do that we often become accustomed to that pain, and even stop noticing that it hurts.
 
-Pain Driven Development is a philosophy of radically removing pain. In general Pain Driven Development can be described in 3 steps that sound easy; but are not.
+Pain Driven Development is a philosophy of radically removing pain. In general Pain Driven Development can be described in 3 steps that sound easy... but are not.
 
-1. Draw attention to pain and increase how much it hurts.
-1. Remove the probable cause of the pain.
+1. Make Pain Visible and increase how much it hurts.
+   * This is about investigating the cause.
+   * Sometimes when the cause is unknown, we need to increase how much the pain hurts. Like a doctor touching a tender area and asking where it hurts.
+1. Remove the Cause of the Pain.
    * One must be careful to remove the source of pain, not something that has been making the pain noticeable. It is much easier to hide the pain.
-     * Scenario: If an objective requires a external team for the objective to be met. Then the relationship, and ownership issues need to be addressed before that pain is removed. Having simply called the objective done because your team did their part hides the pain.
-1. Reorganize the solution for the pain such that it will be easy for you, or your team, to execute on and ensure that the pain does not come back.
+     * Scenario: If an objective requires an external team for the objective to be met, then the relationship and ownership issues need to be addressed before that pain is removed. Having simply called the objective done because your team did their part hides the pain.
+1. Reorganize the solution for the pain such that it will be easy for you, or your team, to execute on and ensure.that the pain does not come back.
 
 ## 3. Step 1: Make the Pain Visible ##
 
@@ -48,29 +50,29 @@ I worked on a team that built software that made the company efficient at the se
 
 The dev team was focusing on new features instead of relieving pain. I started by focusing in on the pain the users were experiencing, and even though we were not adding new features the end users started to trust the development team. Our first release took 2 weeks to get the end user to even try it, because they did not want any updates for fear of what it would break.
 
-### 3.3. Conclusion of the First Step ###
+### 3.3. Summary: Make the Pain Visible ###
 
-The first step in improving has to be to make anything that causes pain to actually hurt. The hurt will give us impetus to make changes.
+The first step in improving has to be to make anything that causes pain to actually hurt. The hurt will give us the  impetus to make changes.
 
 ## 4. Step 2: Remove the Cause of the Pain ##
 
 ### 4.1. First Example ###
 
-In the first example I was in pain for 16+ years. My body found a solution that prevented me from feeling pain; it changed the way I walk. But this change caused other parts of my body to hurt. I eventually removed the cause of my pain by going to the doctor. When we try and fix a problem, we often try to fix the thing that makes the problem visible. It is as important for small non-medical pains as it was for the small pain I experienced when I walked correctly.
+In the first example I was in pain for 16+ years. My body found a solution that prevented me from feeling pain; it changed the way I walked. But this change caused other parts of my body to hurt. I eventually removed the cause of my pain by going to the doctor. When we try and fix a problem, we often try to fix the thing that makes the problem visible. It is as important for small non-medical pains as it was for the small pain I experienced when I walked correctly.
 
 ### 4.2. Second Example ###
 
-In the second example above, the team focused on making the system stable for a whole year. I am not advocating that you should focus on stability for that length of time. In the above story the biggest pain the company felt was stability. This eroded trust with our end users and so we focused on one bug at a time. The bug we focused on was the thing that caused the biggest pain. We switched to working on features when the lack of features was a bigger pain then stability.
+In the second example above, the team focused on making the system stable for a whole year. I am not advocating that you should focus on stability for that length of time. The biggest pain the company felt was stability. This eroded trust with our end users and so we focused on one bug at a time. The bug we focused on was the thing that caused the biggest pain. We switched to working on features when the lack of features was a bigger pain then stability.
 
-### 4.3. Summary of the Second Step ###
+### 4.3. Summary: Remove the Cause of the Pain ###
 
-So, try to remove the actual pain not the thing that shows that the pain exists.
+Try to remove the actual pain not the thing that shows that the pain exists. If you do not know the cause return back to step 1, "Make the Pain Visible".
 
 ## 5. Step 3: Reorganize ##
 
 ### 5.1. First Example ###
 
-In my story, get prescribe the medical inserts for my shoes does not into itself does not prevent my pain. I need to reorganize my life to where my shoes more. I need to move my inserts when I get new shoes, and a host of other things change. I need these changes to be integrated into what I do, and not get into my why.
+In my story, I get prescribed the medical inserts for my shoes did not into itself prevent my pain. I need to reorganize my life to wear my shoes more. I need to move my inserts when I get new shoes, and a host of other things change. I need these changes to be integrated into what I do, and not get into my way.
 
 ### 5.2. Second Example ###
 
@@ -82,7 +84,7 @@ Just having a solution is not good enough. The processes, and artifacts need to 
 
 ## 6. Side Note: Test Driven Development ##
 
-The astute reader who knows Test Driven Development (TDD) will notice the similarities. This is not coincidental, in fact TDD is a sub process of Pain Driven Development. Here the original pain is that the software does not deliver a need of the customer. The test makes that pain apparent. The code removes the pain. Refactoring that code reorganizes the solution to make it easier to live with.
+The astute reader who knows Test Driven Development (TDD) will notice the similarities. This is not coincidental, in fact TDD is a sub process of Pain Driven Development. Here, the original pain is that the software does not deliver a need of the customer. The test makes that pain apparent. The code removes the pain. Refactoring that code reorganizes the solution to make it easier to live with.
 
 ## 7. Possible Arguments ##
 
@@ -98,18 +100,18 @@ In the second story it is not obvious but the fact that there was no functioning
 
 #### 7.1.3. Tip to Avoid Superficial Fixes ####
 
-A lot of the time we actually do not know what is causing the actual pain. We know the thing that is alerting it. In the first example it was my knee pain. But what do we do if we do not know where the pain comes from. How do we not implement a superficial fix? Both of these questions are answered the same ways.
+A lot of the time we actually do not know what is causing the actual pain. We know the thing that is alerting us to it. In the first example it was my knee pain. But what do we do if we do not know where the pain comes from. How do we not implement a superficial fix? Both of these questions are answered in the same ways.
 
 There are two approaches that can help.
 
 1. Seek the help and guidance of a professional who is experienced with the type of pain you are experiencing. This is what I did in the first example, and the team did in the second example by hiring me.
-1. Try to make the pain worse without introducing new pain. This was not in any of my examples so let me give you a new one. It is contrived but built off a number of experiences.
+1. Try to make the pain worse without introducing new pain. This was not in any of my examples so let me give you a new one. It is contrived but built off a number lived of experiences.
    * There is pain around deployment and the team tries an experiment to see if they can make the pain worse.
      1. Now there is pain around deployment and committing of code. However, the deployment pain is unchanged. This means the team's thought about where the pain was, was wrong. This change needs to be reverted and another experiment needs to be tried.
-     1. Now there is pain around committing of code, and pain around deployment however the pain around deployment has increased. This means the team is closer to the source of the problem. However, it will be more complicated because it is effecting more systems. The next experiment the team needs to decide which pain they will try to increase.
-     1. Now there if pain around committing of code, but no pain around deployment. This is the trickiest of situations. Either the team has moved the pain closer to its origin or has inadvertently masked the pain. The change needs to be carefully inspected to see if it should have actually increased the deployment pain. If so, then the direction is most likely correct. The pain originated elsewhere and was manifesting in the deployment stage.
+     1. Now there is pain around committing of code, and pain around deployment however the pain around deployment has increased. This means the team is closer to the source of the problem. However, it will be more complicated because it is affecting more systems. The next experiment the team needs to decide is which pain they will try to increase.
+     1. Now there is pain around committing of code, but no pain around deployment. This is the trickiest of situations. Either the team has moved the pain closer to its origin or has inadvertently masked the pain. The change needs to be carefully inspected to see if it should have actually increased the deployment pain. If so, then the direction is most likely correct. The pain originated elsewhere and was manifesting in the deployment stage.
      1. The deployment hurts worse, but no new pains have popped up. The team is headed in the correct direction for finding the source of the pain. Now the team needs to decide if there is enough evidence to what is causing the pain or try another experiment.
-1. Once the pain is fixed watch for a new pain to appear. It may not appear right away but may be up to five iterations out. If the new pain appears, revert the change, and see if the new pain disappears as the old pain returns. If so then you solved a superficial problem. If not, re-apply the fix and now decide if this new pain is the worst.
+1. Once the pain is fixed watch for a new pain to appear. It may not appear right away and may be up to five iterations out. If the new pain appears, revert the change, and see if the new pain disappears as the old pain returns. If so then you solved a superficial problem. If not, re-apply the fix and now decide if this new pain is the worst.
 
 ### 7.2. A Negative Focus ###
 
@@ -143,7 +145,7 @@ This project was deeply agile. We built incrementally. We focused on the custome
 
 #### 7.3.2. A Word About the Side Note ####
 
-In the side not above I talk about how Test Driven Development is just a specialization of Pain Driven Development. That is only the beginning. Behavior Driven Development (Of Course as it is a TDD Perspective), Sprints where retrospectives allow us to reorganize our solutions, and just about every other agile practice around how we work.
+In the side note above I talk about how Test Driven Development is just a specialization of Pain Driven Development. That is only the beginning. Behavior Driven Development (Of Course as it is a TDD Perspective), Sprints where retrospectives allow us to reorganize our solutions, and just about every other agile practice around how we work.
 
 ### 7.4. Not Really Universal ###
 
