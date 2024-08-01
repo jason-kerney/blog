@@ -16,6 +16,9 @@ summary: 'Focus on the removal of pains bring great benefits'
 >
 > ~ W. Edwards Deming
 
+![Medical Diagnosis Procedure](/assets/img/posts/2024/08/pexels-cristian-rojas-8460232.jpg){: width="50%" .center}
+_[Photo by Los Muertos](https://www.pexels.com/photo/patient-during-a-procedure-in-a-hospital-8460232/) Crew from [Pexels](https://www.pexels.com)_
+
 ## 1. Overview ##
 
 I have been asked many times to describe my process for continuous improvement. Most people expect me to talk about some process or way I view the team's processes. However, the approach I have is much more holistic and succinct. Everything, from writing code to deciding what to work on next to parenting, all have the same philosophy. The philosophy focuses on pain, and permanently removing it. I have called this Philosophy "Pain Driven Development".
