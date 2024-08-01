@@ -12,12 +12,12 @@ summary: 'Focus on the removal of pains bring great benefits'
 >
 > ~ W. Edwards Deming
 
+![Medical Diagnosis Procedure](/assets/img/posts/2024/08/pexels-cristian-rojas-8460232.jpg){: width="50%" .center}
+_[Photo by Los Muertos](https://www.pexels.com/photo/patient-during-a-procedure-in-a-hospital-8460232/) Crew from [Pexels](https://www.pexels.com)_
+
 > "The aim of leadership should be to improve the performance of man and machine, to improve quality, to increase output, and simultaneously to bring pride of workmanship to people. Put in a negative way, the aim of leadership is not merely to find and record failures of men, but to remove the causes of failure: to help people to do a better job with less effort."
 >
 > ~ W. Edwards Deming
-
-![Medical Diagnosis Procedure](/assets/img/posts/2024/08/pexels-cristian-rojas-8460232.jpg){: width="50%" .center}
-_[Photo by Los Muertos](https://www.pexels.com/photo/patient-during-a-procedure-in-a-hospital-8460232/) Crew from [Pexels](https://www.pexels.com)_
 
 ## 1. Overview ##
 
