@@ -85,9 +85,9 @@ In the second example, the team was constantly refactoring code and architecture
 
 Just having a solution is not good enough. The processes, and artifacts need to change to ensure that pain does not return.
 
-## 6. Side Note: Test Driven Development ##
+## 6. Side Note: Test-Driven Development ##
 
-The astute reader who knows Test Driven Development (TDD) will notice the similarities. This is not coincidental, in fact TDD is a sub process of Pain Driven Development. Here, the original pain is that the software does not deliver a need of the customer. The test makes that pain apparent. The code removes the pain. Refactoring that code reorganizes the solution to make it easier to live with.
+The astute reader who knows Test-Driven Development (TDD) will notice the similarities. This is not coincidental, in fact TDD is a sub process of Pain Driven Development. Here, the original pain is that the software does not deliver a need of the customer. The test makes that pain apparent. The code removes the pain. Refactoring that code reorganizes the solution to make it easier to live with.
 
 ## 7. Possible Arguments ##
 
@@ -103,7 +103,7 @@ In the second story it is not obvious but the fact that there was no functioning
 
 #### 7.1.3. Tip to Avoid Superficial Fixes ####
 
-A lot of the time we actually do not know what is causing the actual pain. We know the thing that is alerting us to it. In the first example it was my knee pain. But what do we do if we do not know where the pain comes from. How do we not implement a superficial fix? Both of these questions are answered in the same ways.
+A lot of the time we do not know what is causing the actual pain. We know the thing that is alerting us to it. In the first example it was my knee pain. But what do we do if we do not know where the pain comes from. How do we not implement a superficial fix? Both of these questions are answered in the same ways.
 
 There are two approaches that can help.
 
@@ -144,11 +144,11 @@ The effect the team had on the end users talks directly to User Experience. Peop
 
 Innovation was always necessary and part of our process. There is [research](https://hbr.org/2019/11/why-constraints-are-good-for-innovation) that shows innovation needs boundaries to be maximized.
 
-This project was deeply agile. We built incrementally. We focused on the customer. We even did Test Driven Development. I would argue that Pain Driven Development is Agile Development distilled down.
+This project was deeply agile. We built incrementally. We focused on the customer. We even did Test-Driven Development. I would argue that Pain Driven Development is Agile Development distilled down.
 
 #### 7.3.2. A Word About the Side Note ####
 
-In the side note above I talk about how Test Driven Development is just a specialization of Pain Driven Development. That is only the beginning. Behavior Driven Development (Of Course as it is a TDD Perspective), Sprints where retrospectives allow us to reorganize our solutions, and just about every other agile practice around how we work.
+In the side note above I talk about how Test-Driven Development is just a specialization of Pain Driven Development. That is only the beginning. Behavior Driven Development (Of Course as it is a TDD Perspective), Sprints where retrospectives allow us to reorganize our solutions, and just about every other agile practice around how we work.
 
 ### 7.4. Not Really Universal ###
 
