@@ -149,7 +149,7 @@ In the side note above I talk about how Test Driven Development is just a specia
 
 ### 7.4. Not Really Universal ###
 
-It is easy, to say "This does not apply to X." Especially when someone has not tried Pain Driven Development. Think about the two examples I gave, one about my health, and the other about a software project. These are about as far apart as I can think of. I could give more examples but then I would just fill this post beyond anyone wanting to read it. I don't believe I can convince you. All I can say is I try to live by this. I try to make removal of pain one of my top priorities. I have found it to benefit me when I do and hurt me when I don't.
+It is easy, to say "This does not apply to X." Especially when someone has not tried Pain Driven Development. Think about the two examples I gave, one about my health, and the other about a software project. These are about as far apart as I can think of. I could give more examples but then I would just fill this post beyond anyone wanting to read it. My goal is not to convince you, but to expose you to the ideas behind this approach so that you can decide for yourself if you want to try it. For me, I try to live by this. I try to make removal of pain one of my top priorities and I have found it to benefit me when I do and hurt me when I don't.
 
 ## 8. In Conclusion ##
 
