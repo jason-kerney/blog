@@ -35,7 +35,7 @@ Pain Driven Development is a philosophy of radically removing pain. In general P
 1. Remove the Cause of the Pain.
    * One must be careful to remove the source of pain, not something that has been making the pain noticeable. It is much easier to hide the pain.
      * Scenario: If an objective requires an external team for the objective to be met, then the relationship and ownership issues need to be addressed before that pain is removed. Having simply called the objective done because your team did their part hides the pain.
-1. Reorganize the solution for the pain such that it will be easy for you, or your team, to execute on and ensure.that the pain does not come back.
+1. Reorganize the solution for the pain such that it will be easy for you, or your team, to execute on and ensure that the pain does not come back.
 
 ## 3. Step 1: Make the Pain Visible ##
 
