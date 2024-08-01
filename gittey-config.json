@@ -29,13 +29,18 @@
         },
         {
             "name": "build",
-            "command": "powershell ./clean.ps1 && bundle exec jekyll build",
+            "command": "powershell ./clean.ps1 && bundle exec jekyll build && powershell ./siteclean.ps1",
             "description": "builds site"
         },
         {
+            "name": "publish:raw",
+            "command": "gittey build && gittey commit && git subtree pull --prefix _site origin gh-pages && git subtree push --prefix _site origin gh-pages",
+            "description": "publishes changes to the website"
+        },
+        {
             "name": "publish",
-            "command": "gittey push; gittey checkout; gittey merge-from-branch; gittey push; gittey checkout",
-            "description": "publishes changes to the main branch"
+            "command": "gittey push; gittey checkout; gittey merge-from-branch; gittey build && gittey push && gittey publish:raw && gittey push && git subtree push --prefix _site origin gh-pages; gittey checkout",
+            "description": "publishes changes to the main branch and website"
         },
         {
             "name": "serve",
