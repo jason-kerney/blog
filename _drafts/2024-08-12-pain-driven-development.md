@@ -39,7 +39,7 @@ Pain Driven Development is a philosophy of radically removing pain. In general P
 
 ## 3. Step 1: Make the Pain Visible ##
 
-### 3.1. First Example ###
+### 3.1. Examples ###
 
 For years, I had a bad knee caused by a broken foot. I broke the foot when I was 14, and it never healed right. When in my 30's I went to the doctor for knee pain, and she told me my knee should have been in agony considering how long I had the underlying injury. She told me that my gait was all messed up because I was the best at coping with an injury she had ever seen. However, I was messing up my back as well as my knee from the way I walked.
 
@@ -47,41 +47,35 @@ I had a problem, the original pain of my foot not healing correctly was messing 
 
 If I had not adapted, and it hurt to walk, I would not have knee or back problems now. Instead, I would have gone to the doctor, and gotten the very easy and inexpensive solution of medical inserts for my shoes much earlier.
 
-### 3.2 Second Example ###
-
-I worked on a team that built software that made the company efficient at the services they provided. When I joined the company, the software was so buggy that it could not be updated and had not been updated successfully in three years. I spent the first two weeks of my employment talking to consumers of the various pieces of software to determine which software was causing the biggest pain. I then focused the team's effort to relieving that pain by increasing the stability of the system before we started adding requested features. It took us a month to make our first change that went into production without introducing any new bugs. In that month we removed one major bug and nothing else new. By the end of the year, we were pushing updates every day. It took us a year to get the code stable enough that we were able to add new features.
+In another instance, I worked on a team that built software that made the company efficient at the services they provided. When I joined the company, the software was so buggy that it could not be updated and had not been updated successfully in three years. I spent the first two weeks of my employment talking to consumers of the various pieces of software to determine which software was causing the biggest pain. I then focused the team's effort to relieving that pain by increasing the stability of the system before we started adding requested features. It took us a month to make our first change that went into production without introducing any new bugs. In that month we removed one major bug and nothing else new. By the end of the year, we were pushing updates every day. It took us a year to get the code stable enough that we were able to add new features.
 
 The dev team was focusing on new features instead of relieving pain. I started by focusing in on the pain the users were experiencing, and even though we were not adding new features the end users started to trust the development team. Our first release took 2 weeks to get the end user to even try it, because they did not want any updates for fear of what it would break.
 
-### 3.3. Summary: Make the Pain Visible ###
+### 3.2. Summary: Make the Pain Visible ###
 
 The first step in improving has to be to make anything that causes pain to actually hurt. The hurt will give us the  impetus to make changes.
 
 ## 4. Step 2: Remove the Cause of the Pain ##
 
-### 4.1. First Example ###
+### 4.1. Examples ###
 
 In the first example I was in pain for 16+ years. My body found a solution that prevented me from feeling pain; it changed the way I walked. But this change caused other parts of my body to hurt. I eventually removed the cause of my pain by going to the doctor. When we try and fix a problem, we often try to fix the thing that makes the problem visible. It is as important for small non-medical pains as it was for the small pain I experienced when I walked correctly.
 
-### 4.2. Second Example ###
-
 In the second example above, the team focused on making the system stable for a whole year. I am not advocating that you should focus on stability for that length of time. The biggest pain the company felt was stability. This eroded trust with our end users and so we focused on one bug at a time. The bug we focused on was the thing that caused the biggest pain. We switched to working on features when the lack of features was a bigger pain then stability.
 
-### 4.3. Summary: Remove the Cause of the Pain ###
+### 4.2. Summary: Remove the Cause of the Pain ###
 
 Try to remove the actual pain not the thing that shows that the pain exists. If you do not know the cause return back to step 1, "Make the Pain Visible".
 
 ## 5. Step 3: Reorganize ##
 
-### 5.1. First Example ###
+### 5.1. Examples ###
 
-In my story, I get prescribed the medical inserts for my shoes did not into itself prevent my pain. I need to reorganize my life to wear my shoes more. I need to move my inserts when I get new shoes, and a host of other things change. I need these changes to be integrated into what I do, and not get into my way.
-
-### 5.2. Second Example ###
+In the story about my knee, I get prescribed the medical inserts for my shoes did not into itself prevent my pain. I need to reorganize my life to wear my shoes more. I need to move my inserts when I get new shoes, and a host of other things change. I need these changes to be integrated into what I do, and not get into my way.
 
 In the second example, the team was constantly refactoring code and architecture to encompass the stability of the system. With each bug removed, the architecture morphed to fix that pain. An example of this is with one feature that was technically added early on, but it was not something the end users would have called a feature. But as we were removing bugs, it became apparent that installing updates was a pain bigger than the bugs we were fixing. Because of this, we made it so the application could detect a new version and install the new version automatically. This drastically changed the overall architecture of the application and the application install processes. Every bug we fixed had similar impact on the individual software packages and the way software suite worked.
 
-### 5.3. Third Step ###
+### 5.2. Summary: Reorganize ###
 
 Just having a solution is not good enough. The processes, and artifacts need to change to ensure that pain does not return.
 
@@ -93,15 +87,13 @@ The astute reader who knows Test-Driven Development (TDD) will notice the simila
 
 ### 7.1. A Focus on Superficial Benefits ###
 
-#### 7.1.1. First Example ####
+#### 7.1.1. Examples ####
 
-The story about my knee pain really highlights what happens when Pain Driven Development is done wrong. My first solution, changing the way I walk, was focused on the superficial benefit. It masked the pain rather than addressing the problem.
+The first story really highlights what happens when Pain Driven Development is done wrong. My first solution, changing the way I walk, was focused on the superficial benefit. It masked the pain rather than addressing the problem.
 
-#### 7.1.2. Second Example ####
+In the second about the software team I worked with it is not obvious but the fact that there was no functioning update for three years was caused by focusing on Superficial Benefits. Here the pain was masked by simply ignoring it. The thought that what the end user really wanted was new features over a functioning piece of software. To be fair, the reason this was happening is the team did not have the skills to harden the system. It was not a willful ignoring of stability; it was a passive ignoring of stability. But the team did not pursue the skills to stabilize the application environment until I made it the priority.
 
-In the second story it is not obvious but the fact that there was no functioning update for three years was caused by focusing on Superficial Benefits. Here the pain was masked by simply ignoring it. The thought that what the end user really wanted was new features over a functioning piece of software. To be fair, the reason this was happening is the team did not have the skills to harden the system. It was not a willful ignoring of stability; it was a passive ignoring of stability. But the team did not pursue the skills to stabilize the application environment until I made it the priority.
-
-#### 7.1.3. Tip to Avoid Superficial Fixes ####
+#### 7.1.2. Tip to Avoid Superficial Fixes ####
 
 A lot of the time we do not know what is causing the actual pain. We know the thing that is alerting us to it. In the first example it was my knee pain. But what do we do if we do not know where the pain comes from. How do we not implement a superficial fix? Both of these questions are answered in the same ways.
 
@@ -118,19 +110,17 @@ There are two approaches that can help.
 
 ### 7.2. A Negative Focus ###
 
-#### 7.2.1. First Example ####
+#### 7.2.1. Examples ####
 
 In the first story, I suddenly was pain free. The quality of my life increased significantly. Getting the inserts dynamically changed my life.
 
-#### 7.2.2. Second Example ####
-
-Focusing on stability while stability was the biggest pain had the effect of improving the work environment of the company's employees. People reported that they liked their job more. By removing the pain of having to use an unstable system, we improved people’s lives and increased their happiness.
+In the second example focusing on stability while stability was the biggest pain had the effect of improving the work environment of the company's employees. People reported that they liked their job more. By removing the pain of having to use an unstable system, we improved people’s lives and increased their happiness.
 
 When we changed from focusing on stability to adding features, was when the need for features were more painful than stability. People became excited to gain our new updates. The company started overtaking their competition; then became successful enough that within 6 months it was sold to a larger company for a hefty profit.
 
 Lastly, the development team started to love their job.
 
-#### 7.2.3. A Tip to Focus not on the Negative ####
+#### 7.2.2. A Tip to Focus not on the Negative ####
 
 First is to realize that pain is real. It is there. Then as you remove pain calibrate the impact of people being without pain has had. In my experience it is always significant. Sometimes life changing. Focus on the benefit that is gained by the removal of pain, and you will not even think of trying to solve pain as negative, even as you fail to find the source of the pain. The goal is to improve lives, not to brood on what hurts.
 
@@ -138,9 +128,9 @@ First is to realize that pain is real. It is there. Then as you remove pain cali
 
 It is reasonable to believe that Pain Driven Development ignores things like User Experience, Creativity, Innovation, and Agile.
 
-#### 7.3.1. Second Example ####
+#### 7.3.1. Example ####
 
-The effect the team had on the end users talks directly to User Experience. People started enjoying their jobs more. They became more effective at the things they were doing. They started to trust the developers more. User Experience problems are pain, and removing that pain is part and parcel to Pain Driven Development.
+In the second example the effect the team had on the end users talks directly to User Experience. People started enjoying their jobs more. They became more effective at the things they were doing. They started to trust the developers more. User Experience problems are pain, and removing that pain is part and parcel to Pain Driven Development.
 
 Innovation was always necessary and part of our process. There is [research](https://hbr.org/2019/11/why-constraints-are-good-for-innovation) that shows innovation needs boundaries to be maximized.
 
