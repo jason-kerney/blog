@@ -128,7 +128,7 @@ First is to realize that pain is real. It is there. Then as you remove pain cali
 
 It is reasonable to believe that Pain Driven Development ignores things like User Experience, Creativity, Innovation, and Agile.
 
-#### 7.3.1. Example ####
+#### 7.3.1. Examples ####
 
 In the second example the effect the team had on the end users talks directly to User Experience. People started enjoying their jobs more. They became more effective at the things they were doing. They started to trust the developers more. User Experience problems are pain, and removing that pain is part and parcel to Pain Driven Development.
 
