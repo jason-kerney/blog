@@ -53,7 +53,7 @@ The dev team was focusing on new features instead of relieving pain. I started b
 
 ### 3.2. Summary: Make the Pain Visible ###
 
-The first step in improving has to be to make anything that causes pain to actually hurt. The hurt will give us the  impetus to make changes.
+The first step in improving has to be to make anything that causes pain to actually hurt. The hurt will give us the impetus to make changes.
 
 ## 4. Step 2: Remove the Cause of the Pain ##
 
