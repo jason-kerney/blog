@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pain-Driven Development
-date: 2024-08-11 00:10
+date: 2024-08-08 00:10
 category: 'philosophy'
 author: jason-kerney
 tags: ['agility', 'human systems', 'mindset', 'people', 'philosophy', 'process', 'well-being']
