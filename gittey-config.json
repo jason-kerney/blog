@@ -39,7 +39,7 @@
         },
         {
             "name": "publish",
-            "command": "gittey push; gittey checkout; gittey publish:raw && git checkout . && gittey push && gittey publish:raw && gittey push && git subtree push --prefix _site origin gh-pages; gittey checkout",
+            "command": "gittey push; gittey publish:raw && git checkout . && gittey push && gittey publish:raw && gittey push && git subtree push --prefix _site origin gh-pages",
             "description": "publishes changes to the main branch and website"
         },
         {
