@@ -84,7 +84,7 @@ Just having a solution is not good enough. The processes, and artifacts need to 
 
 The astute reader who knows Test-Driven Development (TDD) will notice the similarities. This is not coincidental, in fact TDD is a sub process of Pain-Driven Development. Here, the original pain is that the software does not deliver a need of the customer. The test makes that pain apparent. The code removes the pain. Refactoring that code reorganizes the solution to make it easier to live with.
 
-## 7. Rebuttals to Possible Arguments ## ##
+## 7. Rebuttals to Possible Arguments ##
 
 ### 7.1. A Focus on Superficial Benefits ###
 
