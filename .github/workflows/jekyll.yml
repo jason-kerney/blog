@@ -37,13 +37,19 @@ jobs:
       - name: Build
         run: JEKYLL_ENV=production bundle exec jekyll build
 
-      - name: Deploy
+      - name: Clean up Build
         run: |
           rm ./_site/*.ps1
           rm ./_site/gittey-config.json
           cp ./CNAME ./_site/CNAME
+
+      - name: setup git
+        run: |
           git config --global user.email "jason@teamkerney.com"
           git config --global user.name "jason-kerney"
+
+      - name: publish
+        run: |
           git add .
           git commit -m "Automatic Publish"
           git subtree push --prefix _site origin gh-pages
