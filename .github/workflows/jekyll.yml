@@ -50,6 +50,7 @@ jobs:
 
       - name: publish
         run: |
+          git pull
           git add .
           git commit -m "Automatic Publish"
           git subtree push --prefix _site origin gh-pages
