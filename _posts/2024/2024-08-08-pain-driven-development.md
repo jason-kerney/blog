@@ -147,4 +147,4 @@ It is easy, to say "This does not apply to X." Especially when someone has not t
 
 ## 8. In Conclusion ##
 
-Pain is a wonderful indicator that something needs to change. Focusing on pain is an amazing way to improve. This improvement can be process improvements, team improvements, or even software improvements. The risk is changing in a way that hides the pain and does not remove the cause.
+Pain is a wonderful indicator that something needs to change. Focusing on pain is an amazing way to improve. This improvement can be process improvements, team improvements, or even software improvements. The risk is changing in a way that hides the pain and does not remove the cause. Diligence is therefore required.
