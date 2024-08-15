@@ -11,5 +11,3 @@ Working as a Software Engineering Manager. Seeing if I can improve things differ
 ## Books
 
 [The Fifth Discipline](https://a.co/d/dW2KkRd).
-
-And thinking about systems modeling.
