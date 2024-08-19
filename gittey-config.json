@@ -34,7 +34,7 @@
         },
         {
             "name": "publish",
-            "command": "gittey push && gittey checkout && gittey push && gittey checkout",
+            "command": "gittey push && gittey merge-to-branch && gittey checkout && gittey push && gittey checkout",
             "description": "publishes changes to the main branch and website"
         },
         {
