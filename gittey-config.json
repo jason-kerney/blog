@@ -24,7 +24,7 @@
         },
         {
             "name": "push",
-            "command": "gittey pull && gittey build && gittey commit && git checkout .  && git push",
+            "command": "gittey pull && git push",
             "description":"builds site and then pushes changes"
         },
         {
@@ -33,13 +33,8 @@
             "description": "builds site"
         },
         {
-            "name": "publish:raw",
-            "command": "gittey build && gittey commit && git subtree pull --prefix _site origin gh-pages && git subtree push --prefix _site origin gh-pages",
-            "description": "publishes changes to the website"
-        },
-        {
             "name": "publish",
-            "command": "gittey push; gittey publish:raw && git checkout . && gittey push && gittey publish:raw && gittey push && git subtree push --prefix _site origin gh-pages",
+            "command": "gittey push && gittey checkout && gittey push && gittey checkout",
             "description": "publishes changes to the main branch and website"
         },
         {
