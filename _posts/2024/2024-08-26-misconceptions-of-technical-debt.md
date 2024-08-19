@@ -56,7 +56,7 @@ So, let's cast off the common misconceptions of technical debt and appreciate it
 
 ![David Brown](/assets/img/posts/2023/07/DavidBrown.jpg){: width="50%" .left .float}
 
-Welcome David Brown.  With near two decades in the United States Marine Corps, David brings a unique blend of discipline, adaptability, and a touch of mischief to the world of Agile Consulting and Product Management. It doesn’t take long to discovery that he's not your typical corporate suit; he's a passionate Agilist who's on a mission to transform organizations and deliver quality products while having a good laugh along the way.
+Welcome David Brown.  With two decades in the United States Marine Corps, David brings a unique blend of discipline, adaptability, and a touch of mischief to the world of Agile Consulting and Product Management. It doesn’t take long to discovery that he's not your typical corporate suit; he's a passionate Agilist who's on a mission to transform organizations and deliver quality products while having a good laugh along the way.
 
 David's journey has been an adventure in itself. From standing up agile software engineering practices to orchestrating digital product operations, he's almost seen it all. But what sets him apart is his ability to poke fun at the dogmas of agile transformations that ironically resemble large waterfall projects, prioritizing completion over positive impact. With a lighthearted and playful approach, David challenges the status quo and encourages teams to embrace transparency, curiosity, and the joy of surprise.
 
