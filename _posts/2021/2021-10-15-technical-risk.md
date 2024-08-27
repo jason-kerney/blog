@@ -4,7 +4,7 @@ title: A Business Guide to Technical Risk
 date: 2021-10-15 0:30
 category: development
 author: Jason
-tags: ['philosophy', 'tool']
+tags: ['philosophy', 'tool', 'agility', 'mindset', 'technical debt']
 summary: When talking about technical risk, we are really talking about the risk of failure. There are a lot of ways to identify areas that have a high risk of failure and then use that to assess what if anything should be done about it. However, these are usually opaque to the businessman. This article hopes to make them more visible.
 ---
 
