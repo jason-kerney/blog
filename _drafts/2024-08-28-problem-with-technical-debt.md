@@ -1,26 +1,26 @@
 ---
 layout: post
 title: The Problem with Technical Debt
-date: 2024-08-12 00:10
+date: 2024-08-28 00:10
 category: 'philosophy'
 author: jason-kerney
 tags: ['product ownership', 'agility', 'mindset', 'technical debt']
 summary: '??'
 ---
 
-* multiple meanings
+* [x] multiple meanings
   * [X] dumpster where everything ends up to justify technical work
   * [X] Physical hardware aging
   * [X] old code
   * [X] code not written by current developers
   * [X] code written in old frameworks
   * [X] a decision point
-* shame
-* a simplification/solution
-  * focus on the decision point
-* Looking to risk
-* Measuring risk/interest
-* Call to action
+* [x] shame
+* [ ] a simplification/solution
+  * [ ] focus on the decision point
+* [ ] Looking to risk
+* [ ] Measuring risk/interest
+* [ ] Call to action
 
 {% assign debt = site.posts | where: "title","Unraveling the Misconceptions of Technical Debt" | first %}
 {% assign risk = site.posts | where: "title","A Business Guide to Technical Risk" | first %}
@@ -56,12 +56,20 @@ From these there are only two that are valid. Either we are dealing with risk, o
 
 ## Strategic Decisions ##
 
-Strategic decisions are the one instance that I wholeheartedly agree with using the term "Technical Debt". In this case, technical debt is used to refer to future risk and talk about the cost of addressing that future risk. Managing that risk, deciding on a schedule or triggers to pay that debt off is an important aspect of making a strategic decision. [David Brown spoke]({{ debt.url }}) to the need for active management of this type of technical debt.
+Strategic decisions are the one instance that I wholeheartedly agree with using the term "Technical Debt". In this case, technical debt is used to refer to future risk and talk about the cost of addressing that future risk. Managing that risk, deciding on a schedule or triggers to pay that debt off is an important aspect of making a strategic decision. [David Brown spoke]({{ debt.url }}) to the need for active management of this type of technical debt. Though he did touch on the need to manage risk also.
 
 ## Risk from the System ##
 
 There a lot of risks that emerge from a technical solution. Some of these risks have been clumped under the term "Technical Debt". This I believe is a misnomer and a mistake of the term. It muddies the water and actually makes these risks harder to talk about.
 
-There is a secondary form of muddling that happens here though. In [this](http://media.wix.com/ugd/a738b9_9a413bc46954faf89b8f7e10d9239340.pdf) international study, on the financial literacy of several industrial countries, it shows that a majority of people do not meet the most basic criteria of financially literate. However, it is my experience that most people act as if they understand how debt works.
+There is a secondary form of muddling that happens here though. In [this international study](http://media.wix.com/ugd/a738b9_9a413bc46954faf89b8f7e10d9239340.pdf), on the financial literacy of several industrial countries, it shows that a majority of people do not meet the most basic criteria of financially literate. However, it is my experience that most people act as if they understand how debt works.
 
-So, we choose an analogy that most people do not understand, that does not accurately map to what we whish to talk about, and wonder why we cannot classify and evaluate the topic well. I addressed this with less detail [here]({% post_url 2017-08-14-things-we-say.md %}/#technical-debt).
+So, we choose an analogy that most people do not understand, that does not accurately map to what we whish to talk about, and wonder why we cannot classify and evaluate the topic well.
+
+## Shame ##
+
+"Technical Debt" is a charged term when talking about something already in effect. Because of its tendency to be used as a way to devaluate someone else's work, it is a term that can be filled with shame. Shame has an effect of shutting down creative and analytical thought. Without these we are left unable to reason about the value and cost of a risk in the system. Without tools to pull apart the risk, how can we manage the risk responsibly?
+
+## A Solution ##
+
+When addressing a mire one has to be careful not to get stuck in the mud if you wish to forge a path through. So I suggest a two fold approach to the problems of the term "Technical Debt".
