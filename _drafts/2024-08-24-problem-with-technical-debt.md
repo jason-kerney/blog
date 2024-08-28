@@ -33,7 +33,7 @@ Understanding the different meanings for technical debt, helps us pull apart the
 
 ## The Definitions of Technical Debt ##
 
-There are at least 7 recognized definitions of Technical Debt. These six are the ones I hear used most often, even if they are only informally used. They are:
+There are at least seven recognized definitions of Technical Debt. These are the ones I hear used most often, even if they are only informally used. They are:
 
 * The value lost from the aging of hardware and the risk of needing to replace that hardware.
 * Code that has aged, and no longer follows best practices.
@@ -60,4 +60,8 @@ Strategic decisions are the one instance that I wholeheartedly agree with using 
 
 ## Risk from the System ##
 
-There a lot of risks that emerge from a technical solution, so I advocate 
+There a lot of risks that emerge from a technical solution. Some of these risks have been clumped under the term "Technical Debt". This I believe is a misnomer and a mistake of the term. It muddies the water and actually makes these risks harder to talk about.
+
+There is a secondary form of muddling that happens here though. In [this](http://media.wix.com/ugd/a738b9_9a413bc46954faf89b8f7e10d9239340.pdf) international study, on the financial literacy of several industrial countries, it shows that a majority of people do not meet the most basic criteria of financially literate. However, it is my experience that most people act as if they understand how debt works.
+
+So, we choose an analogy that most people do not understand, that does not accurately map to what we whish to talk about, and wonder why we cannot classify and evaluate the topic well. I addressed this with less detail [here]({% post_url 2017-08-14-things-we-say.md %}/#technical-debt).
