@@ -66,9 +66,9 @@ When he's not busy revolutionizing the tech world, you'll find David drawing ins
 
 Please note that while these sources may not directly pertain to the exact content of the blog post, they do provide valuable insights and perspectives on technical debt as a concept and its management.[^4][^5][^6]
 
-[^1]: Technical Debt: From Metaphor to Theory and Practice" by Philippe Kruchten, Robert L. Nord, and Ipek Ozkaya (IEEE Xplore)
-[^2]: "Managing Technical Debt: Reducing Friction in Software Development" by Philippe Kruchten, Robert L. Nord, Ipek Ozkaya
-[^3]: "Ward Explains Debt Metaphor" by Ward Cunningham, YouTube video, 2009.
-[^4]: "Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland
-[^5]: Martin Fowler's blog, particularly posts related to technical debt.
-[^6]: "Leading Lean Software Development: Results are Not the Point" by Mary and Tom Poppendieck
+[^1]: ["Technical Debt: From Metaphor to Theory and Practice" by Philippe Kruchten, Robert L. Nord, and Ipek Ozkaya (IEEE Xplore)](https://ieeexplore.ieee.org/document/6336722)
+[^2]: ["Managing Technical Debt: Reducing Friction in Software Development" by Philippe Kruchten, Robert L. Nord, Ipek Ozkaya](https://a.co/d/hI4YQ8B)
+[^3]: ["Ward Explains Debt Metaphor" by Ward Cunningham, YouTube video, 2009](https://youtu.be/pqeJFYwnkjE?si=8a6ugkpeeQiAsRVq).
+[^4]: ["Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland](https://a.co/d/52rtglZ)
+[^5]: [Martin Fowler's blog](https://martinfowler.com/), particularly posts related to technical debt.
+[^6]: ["Leading Lean Software Development: Results are Not the Point" by Mary and Tom Poppendieck](https://a.co/d/fSBsmx1)
