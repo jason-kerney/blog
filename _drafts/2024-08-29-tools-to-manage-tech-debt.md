@@ -117,3 +117,7 @@ How often a system is used is the only measure that effect both how likely a pro
 #### Deals with Sensitive Data ####
 
 Any risk around sensitive data becomes significantly more severe once realized. The loss, or escaping of this data can cause huge loss to the company.
+
+## Summary ##
+
+Stop talking about "Technical Debt" in generic terms. Measure and evaluate the risk associated with the IT solution. You don't have to use the framework laid out in this article, but use something. And then apply that framework to making decisions about trade offs between time to market and system design.
