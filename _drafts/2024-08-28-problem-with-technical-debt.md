@@ -45,7 +45,7 @@ Strategic decisions are the one instance that I wholeheartedly agree with using 
 
 There a lot of risks that emerge from a technical solution. Some of these risks have been clumped under the term "Technical Debt". This I believe is a misnomer and a mistake of the term. It muddies the water and actually makes these risks harder to talk about.
 
-There is a secondary form of muddling that happens here though. In [this international study](http://media.wix.com/ugd/a738b9_9a413bc46954faf89b8f7e10d9239340.pdf), on the financial literacy of several industrial countries, it shows that a majority of people do not meet the most basic criteria of financially literate. However, it is my experience that most people act as if they understand how debt works.
+There is a secondary form of muddling that happens here though. In [this international study](http://media.wix.com/ugd/a738b9_9a413bc46954faf89b8f7e10d9239340.pdf)[^1], on the financial literacy of several industrial countries, it shows that a majority of people do not meet the most basic criteria of financially literate. However, it is my experience that most people act as if they understand how debt works.
 
 So, we choose an analogy that most people do not understand, that does not accurately map to what we whish to talk about, and wonder why we cannot classify and evaluate the topic well. Without clear terms, and communication that is to the point we cannot strategically manage our risk and leverage the cost to pay off a risk against other investments.
 
@@ -72,3 +72,5 @@ I ask you to try for one month to drop the use of "Technical Debt" as much as po
 * [Research paper showing the link between code smells and software bugs](https://www.mdpi.com/2078-2489/9/11/273)
 
 ## References ##
+
+[^1]: [Financial literacy around the world: an overview by Annamaria Lusardi and Olivia S. Mitchell](http://media.wix.com/ugd/a738b9_9a413bc46954faf89b8f7e10d9239340.pdf)
