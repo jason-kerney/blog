@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Problem with Technical Debt
+title: The Problem with the term Technical Debt
 date: 2024-08-28 00:10
 category: 'philosophy'
 author: jason-kerney
