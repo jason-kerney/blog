@@ -118,6 +118,51 @@ How often a system is used is the only measure that effect both how likely a pro
 
 Any risk around sensitive data becomes significantly more severe once realized. The loss, or escaping of this data can cause huge loss to the company.
 
+## An Example of Use ##
+
+If you give each measure a value from one to five, you can then apply this formula:
+
+```javascript
+// Key Likelihood Variables
+pastErrors = 'Has Caused Errors in the Past'
+changeFrequency = 'Frequently Changed'
+designProblems = 'Known Anti-Pattern or Violation of Best Practices'
+useRegularity = 'Is used Often'
+
+// Corollary Likelihood Variables
+confusion = 'Confusion'
+endSupport = 'End of Support'
+riskDensity = 'Risk of Density'
+testSparsity = 'Test Density and Validity'
+
+corollaryLikelihood = (confusion + endSupport + riskDensity + testSparsity) / 4
+
+// Key Severity Variables
+connectedness = 'Heavily Relied Upon'
+configurations = 'Configurations'
+impact = 'Number of People Impacted'
+dataSensitivity = 'Deals with Sensitive Data'
+
+// Sub Calculations
+likelihood = (pastErrors + changeFrequency + designProblems + useRegularity + corollaryLikelihood)
+severity = (connectedness + configurations + impact + dataSensitivity)
+
+// Result
+result = likelihood * severity
+```
+
+Now in this formula `likelihood` will have a value from 5 to 25, and `severity` will have a range of 5 to 20. This gives the `result` a range from 25 to 500, but not all numbers are represented. We can then take these values and map them to a chart.
+
+| Risk Value | Risk Severity |
+|:----------:|:-------------:|
+|   25 - 66  |    Trivial    |
+|  67 - 130  |      Low      |
+| 131 - 249  |     Medium    |
+| 250 - 349  |      High     |
+| 350 - 500  |    Critical   |
+
+Any risk that is `High` or `Critical` would be addressed immediately. Any risk that was `Low` or `Medium` would get scheduled along with the normal backlog. Any risk of `Trivial` would get addressed only when there was otherwise free time, if at all.
+
 ## Summary ##
 
 Stop talking about "Technical Debt" in generic terms. Measure and evaluate the risk associated with the IT solution. You don't have to use the framework laid out in this article, but use something. And then apply that framework to making decisions about trade offs between time to market and system design.
