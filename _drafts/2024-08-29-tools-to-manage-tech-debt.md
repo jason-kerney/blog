@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Tools to manage Technical Debt'
+title: 'A practical approach to managing technical debt in IT systems'
 date: 2024-08-29 11:39
-category: agility
-author: jason-kerney
+category: 'agility'
+author: 'jason-kerney'
 tags: ['product ownership', 'agility', 'mindset', 'technical debt', 'stability']
-summary: 
+summary: 'A framework for analyzing, prioritizing, and dealing with technical debt.'
 ---
 
 ## Overview ##

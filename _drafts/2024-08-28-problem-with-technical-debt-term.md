@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Problem with the term Technical Debt
+title: 'Navigating the Complexity of Technical Debt: Rethinking Definitions and Communication'
 date: 2024-08-28 00:10
 category: 'philosophy'
 author: jason-kerney
@@ -10,9 +10,7 @@ summary: '??'
 
 ## Overview ##
 
-Technical debt is a mire that makes everyone cringe. No one likes to walk through it, and no one likes to bring it up. It is a term that I have personally witness raise the blood pressure of product owners and developers alike. One of the problems is that no one can really agree on the meaning. Yes, it was coined by Ward Cunningham but the term gained a life of its own almost immediately after it was introduced to the public at large.
-
-Understanding the different meanings for technical debt, helps us pull apart the ball of mud and make some meaning of this term. But into itself is not sufficient. We need a way to understand its effect in software (there are other articles about hardware which is not my domain) and mitigate that effect. To that regard, I challenge you to look at "technical debt" straight on and wade on into the mire.
+This article explores the various interpretations of technical debt and argues for the need to use more specific language when discussing risks and strategic decisions in software development. By focusing in on the language we use, we can better address the needs of our systems, user, and developers.
 
 ## The Definitions of Technical Debt ##
 
