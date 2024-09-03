@@ -2,15 +2,17 @@
 layout: post
 title: 'Tools to manage Technical Debt'
 date: 2024-08-29 11:39
-category: 
-author: 
-tags: []
+category: agility
+author: jason-kerney
+tags: ['product ownership', 'agility', 'mindset', 'technical debt', 'stability']
 summary: 
 ---
 
 ## Overview ##
 
-??
+In this article, we shift the focus from the confusing term "Technical Debt" to a more practical and actionable approach of managing technical risk. We explore three general types of technical risk and provide measures for evaluating the likelihood and severity of potential problems. By implementing a risk mitigation framework, you can prioritize and address risks effectively, ensuring the long-term stability and success of your IT systems.
+
+The focus is really on breaking down the parts of Technical Debt that contribute to the likelihood that risk is realized into a cost, and the severity of the impact of that cost.
 
 ## Getting Words Out of the Way ##
 
