@@ -10,17 +10,17 @@ summary: 'A framework for analyzing, prioritizing, and dealing with technical de
 
 ## Overview ##
 
-In this article, we shift the focus from the confusing term "Technical Debt" to a more practical and actionable approach of managing technical risk. We explore three general types of technical risk and provide measures for evaluating the likelihood and severity of potential problems. By implementing a risk mitigation framework, you can prioritize and address risks effectively, ensuring the long-term stability and success of your IT systems.
+In this article, we shift the focus from the confusing term "Technical Debt" to a more practical and actionable approach of managing technical risk. We explore the three general mediums that technical risk is found in and provide measures for evaluating the likelihood and severity of potential problems. By implementing a risk mitigation framework, you can prioritize and address risks effectively, ensuring the long-term stability and success of your IT systems.
 
 The focus is really on breaking down the parts of Technical Debt that contribute to the likelihood that risk is realized into a cost, and the severity of the impact of that cost.
 
 ## Getting Words Out of the Way ##
 
-After this paragraph, this article will no longer use the term "Technical Debt" or any term that resembles it. Technical Debt is a term I have seen cause nothing but confusion, and really should only be used to describe the need for a future looking strategic decision to sacrifice quality for speed to market, and the way in which the company will "pay back" that quality.
+After this section, this article will no longer use the term "Technical Debt" or any term that resembles it. Technical Debt is a term I have seen cause nothing but confusion, and really should only be used to describe the need for a future looking strategic decision to sacrifice quality for speed to market, and the way in which the company will "pay back" that quality.
 
-From here on out I will talk to **risk**. All debt is risk and needs to be managed as risk. In general this article is about how to manage technical risk.
+From here on out I will talk to **risk**. All debt, once incurred becomes risk. Now not all risk, or debt is equal, and the amount of risk is determined by a lot of factors. Managing that risk, and understanding the potential outcomes is essential. In general this article is about how to manage technical risk.
 
-## Three General Types of Technical Risk ##
+## Three General Mediums of Technical Risk ##
 
 1. Those that are part of an aging physical/logical infrastructure.
 1. Those that are part of aging Commercial Off the Shelf Software (COTS).
@@ -163,7 +163,11 @@ Now in this formula `likelihood` will have a value from 5 to 25, and `severity` 
 | 250 - 349  |      High     |
 | 350 - 500  |    Critical   |
 
-Any risk that is `High` or `Critical` would be addressed immediately. Any risk that was `Low` or `Medium` would get scheduled along with the normal backlog. Any risk of `Trivial` would get addressed only when there was otherwise free time, if at all.
+Any risk that is rated as `High` or `Critical` is something that needs to be addressed immediately. If you are looking at incurring this risk in the future, the cost associated to this risk might not be worth it.
+
+Any risk that is rated as `Medium` or `Low` is something that can be slightly delayed and prioritized with and against normal work. This is not something that should be delayed indefinitely and requires a plan of action that describes when it will be addressed, or at the very least when it will be evaluated again. If you are looking into the future, risks of these ratings are not safe bets, but the cost associated with them can be managed. Just remember before making the decision to put off quality that will incur these risks that you include a plan for paying them back.
+
+Any risk that is rated as `Trivial` is as close to a safe bet as you can get. These risks are most often delayed indefinitely but include triggers that cause us to reevaluate them. If looking to make a decision about the future, if that decision incurs a `Trivial` risk and it provides value quickly, it is almost certainly worth it.
 
 ## Summary ##
 
@@ -172,6 +176,6 @@ Stop talking about "Technical Debt" in generic terms. Measure and evaluate the r
 ## Additional Reading ##
 
 * [Dave Brown's Guest Post on Looking at the Strategic value of Technical Debt]({% post_url 2024/2024-08-26-misconceptions-of-technical-debt %})
-* [A guide to measure the risk inherent in code design and structure]({% post_url 2021/2021-10-15-technical-risk %})
+* [A detailed guide to measure the risk inherent in code design and structure]({% post_url 2021/2021-10-15-technical-risk %})
 
 [^1] [Mutation Testing](https://en.wikipedia.org/wiki/Mutation_testing)
