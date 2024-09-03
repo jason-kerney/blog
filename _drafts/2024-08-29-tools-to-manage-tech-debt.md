@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: 'Tools to manage Technical Debt'
 date: 2024-08-29 11:39
 category: 
 author: 
@@ -50,9 +50,9 @@ These have a direct effect on how likely a technical risk is to manifest a probl
 
 A part of an IT system that has caused problems will most likely cause problems again. The more frequently something has caused problems the more likely it is to do it again. Often these failures are caused by something not being really understood, or something being broken and not fixed or even not fixable.
 
-**Hardware** that has failed is likely to fail again. This is so intrinsically known that failure of a device is one of the surest ways to mark a device for replacement in the IT industry.
+**Hardware** that has failed is likely to fail again. This is so intrinsically known that failure of a device is one of the surest ways to mark a device for replacement in the IT industry. This more often then not is caused by something breaking down in the hardware itself.
 
-**COTS** solutions that the team has created tickets for beyond initial setup, will most likely spawn new tickets in the future. This is most often caused by something not being fully understood, but can also be caused by the system aging.
+**COTS** solutions that the team has created tickets for beyond initial setup, will most likely spawn new tickets in the future. This is most often caused by something not being fully understood, but can also be caused by the system aging, or underlying bugs in the software.
 
 In **Custom Software** development, a file where bugs originate tends to spawn more bugs unless something is done to drastically change the system. Bugs, originating from a known file is usually caused by people not understanding the file, or some incorrect assumptions in creating the code that have not been addressed.
 
@@ -82,15 +82,15 @@ The harder a system is to understand the more likely something will go wrong wit
 
 When an IT system is built on technology that is no longer supported, it is only a matter of time before something goes wrong, particularly if there are additional risks around it.
 
-#### Risk of Density ####
+#### Risk Density ####
 
 A part of the IT system that has a number of different technology risks associated to it is also more likely to manifest a problem.
 
-#### Test Density and Validity ####
+#### Test Sparsity & Untrustworthiness ####
 
-This is an inverse metric, but one that you have to be careful with. A system that is tested _well_ is less likely to spawn problems. The problem is how do you determine the validity and density of those tests?
+A system that is tested _well_ is less likely to spawn problems. The problem is how do you determine the validity and density of those tests?
 
-In **Custom Developed** software, this relates to two metrics: Code Coverage + Surviving Mutants. Neither tells you much about the validity of the tests individually, but having both tells you a lot.
+In **Custom Developed** software, this relates to two metrics: Code Coverage + [Surviving Mutants](https://en.wikipedia.org/wiki/Mutation_testing) [1]. Neither tells you much about the validity of the tests individually, but having both tells you a lot.
 
 ## Measures of Severity of a Potential Problem ##
 
@@ -166,3 +166,10 @@ Any risk that is `High` or `Critical` would be addressed immediately. Any risk t
 ## Summary ##
 
 Stop talking about "Technical Debt" in generic terms. Measure and evaluate the risk associated with the IT solution. You don't have to use the framework laid out in this article, but use something. And then apply that framework to making decisions about trade offs between time to market and system design.
+
+## Additional Reading ##
+
+* [Dave Brown's Guest Post on Looking at the Strategic value of Technical Debt]({% post_url 2024/2024-08-26-misconceptions-of-technical-debt %})
+* [A guide to measure the risk inherent in code design and structure]({% post_url 2021/2021-10-15-technical-risk %})
+
+[^1] [Mutation Testing](https://en.wikipedia.org/wiki/Mutation_testing)
