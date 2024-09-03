@@ -68,7 +68,7 @@ The more an IT system veers away from best, and accepted practices the more like
 
 In **Custom Software** this can be represented by code smell density, though it is not the only way this can manifest.
 
-#### Is used Often ####
+#### Is Used Often ####
 
 The more a system is used, the more the system will be explored. The more a system is explored more edge cases will come up. This means that risks inherent in the system have a greater chance of being realized into problems.
 
