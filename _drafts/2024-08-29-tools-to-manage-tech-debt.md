@@ -155,13 +155,13 @@ result = likelihood * severity
 
 Now in this formula `likelihood` will have a value from 5 to 25, and `severity` will have a range of 5 to 20. This gives the `result` a range from 25 to 500, but not all numbers are represented. We can then take these values and map them to a chart.
 
-| Risk Value | Risk Severity |
-|:----------:|:-------------:|
-|   25 - 66  |    Trivial    |
-|  67 - 130  |      Low      |
-| 131 - 249  |     Medium    |
-| 250 - 349  |      High     |
-| 350 - 500  |    Critical   |
+| Risk Value | Risk Severity |   Area Under Curve    |
+|:----------:|:-------------:|:---------------------:|
+|   25 - 74  |    Trivial    | 42 possible outcomes  |
+|  75 - 121  |      Low      | 73 possible outcomes  |
+| 122 - 219  |     Medium    | 106 possible outcomes |
+| 220 - 324  |      High     | 73 possible outcomes  |
+| 325 - 500  |    Critical   | 42 possible outcomes  |
 
 Any risk that is rated as `High` or `Critical` is something that needs to be addressed immediately. If you are looking at incurring this risk in the future, the cost associated to this risk might not be worth it.
 
