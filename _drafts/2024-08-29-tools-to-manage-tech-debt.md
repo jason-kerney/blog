@@ -8,15 +8,28 @@ tags: ['product ownership', 'agility', 'mindset', 'technical debt', 'stability']
 summary: 'A framework for analyzing, prioritizing, and dealing with technical debt.'
 ---
 
+* Need to fix mediums to talk about 3 parts of an IT infrastructure.
+
 ## Overview ##
 
 In this article, we shift the focus from the confusing term "Technical Debt" to a more practical and actionable approach of managing technical risk. We explore the three general mediums that technical risk is found in and provide measures for evaluating the likelihood and severity of potential problems. By implementing a risk mitigation framework, you can prioritize and address risks effectively, ensuring the long-term stability and success of your IT systems.
 
-The focus is really on breaking down the parts of Technical Debt that contribute to the likelihood that risk is realized into a cost, and the severity of the impact of that cost.
+I will be giving you a list of measures that allow you to examine what risk is inherent in the system. These measures attempt to be objective however, they may require a subjective way to determine how much impact they have. There are two kinds of measures. Those that measure the first is one that measures the risk of a technical item causing a problem. The second measures the severity if a problem arises from a technical debt.
+
+Since the measures do not help without a framework to work with, I will provide a sample framework. This sample framework will make some assumptions about the way the measures are evaluated. I will assume they are given a numerical range, and then use that range to determine the the importance of resolving risks associated with technical debt.
+
+The measures I give here are an example and I believe make a safe default to start from. The focus of this article will feel like the example framework given. I want you to look beyond it and into what that framework does. It breaks technical debt down to allow us to measure its overall potential impact to a system. If you throw away the provided framework please think about how to break technical debt down.
 
 ## Getting Words Out of the Way ##
 
-After this section, this article will no longer use the term "Technical Debt" or any term that resembles it. Technical Debt is a term I have seen cause nothing but confusion, and really should only be used to describe the need for a future looking strategic decision to sacrifice quality for speed to market, and the way in which the company will "pay back" that quality.
+After this section, this article will no longer use the term "Technical Debt" or any term that resembles it. Technical Debt is a term I have seen cause confusion. The term was originally coined to allow discussion about cost delaying quality to make accelerate time to market with a group of bankers. 
+
+```python
+
+# fix this
+#, and really should only be used to describe the need for a future looking strategic decision to sacrifice quality for speed to market, and the way in which the company will "pay back" that quality."
+
+```
 
 From here on out I will talk to **risk**. All debt, once incurred becomes risk. Now not all risk, or debt is equal, and the amount of risk is determined by a lot of factors. Managing that risk, and understanding the potential outcomes is essential. In general this article is about how to manage technical risk.
 
