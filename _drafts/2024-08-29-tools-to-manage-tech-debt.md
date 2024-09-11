@@ -12,7 +12,7 @@ summary: 'A framework for analyzing, prioritizing, and dealing with technical de
 
 ## Overview ##
 
-In this article, we shift the focus from the confusing term "Technical Debt" to a more practical and actionable approach of managing technical risk. We explore the three general mediums that technical risk is found in and provide measures for evaluating the likelihood and severity of potential problems. By implementing a risk mitigation framework, you can prioritize and address risks effectively, ensuring the long-term stability and success of your IT systems.
+In this article, we shift the focus from the confusing term "Technical Debt" to a more practical and actionable approach of managing technical risk. The measures I provide are general enough to cover the various parts of an IT infrastructure. They may manifest differently depending on which part of the infrastructure they are in, but they are the same measure. These measures are intended to evaluate the likelihood and severity of a risk manifesting as a problem. By implementing a risk mitigation framework, you can prioritize and address risks effectively, ensuring the long-term stability and success of your IT systems.
 
 I will be giving you a list of measures that allow you to examine what risk is inherent in the system. These measures attempt to be objective however, they may require a subjective way to determine how much impact they have. There are two kinds of measures. Those that measure the first is one that measures the risk of a technical item causing a problem. The second measures the severity if a problem arises from a technical debt.
 
@@ -22,18 +22,11 @@ The measures I give here are an example and I believe make a safe default to sta
 
 ## Getting Words Out of the Way ##
 
-After this section, this article will no longer use the term "Technical Debt" or any term that resembles it. Technical Debt is a term I have seen cause confusion. The term was originally coined to allow discussion about cost delaying quality to make accelerate time to market with a group of bankers. 
+After this section, this article will no longer use the term "Technical Debt" or any term that resembles it. Technical Debt is a term I have seen cause confusion. The term was originally coined to allow discussion about the cost of delaying quality to make an accelerate time to market within a group of bankers. Most uses for this team have strayed away from its roots. In my opinion the only useful use of this term is when talking about the cost of delaying quality in favor of accelerating time to market.
 
-```python
+The rest of the article I will be talking about the term **risk**. All debt becomes risk once occurred as it represents an outflow of money attached to an obligation and interest. The interest rate represents the weighted severity of the risk. A higher the interest rate leads to a larger outflow of money and therefor reduces money available to capture new investments. A goal of a healthy company is to incur risk that is less then the reward gained by incurring that risk. I want to help our industry measure the potential cost wrapped up in the technical risk often hidden under the term "Technical Debt".
 
-# fix this
-#, and really should only be used to describe the need for a future looking strategic decision to sacrifice quality for speed to market, and the way in which the company will "pay back" that quality."
-
-```
-
-From here on out I will talk to **risk**. All debt, once incurred becomes risk. Now not all risk, or debt is equal, and the amount of risk is determined by a lot of factors. Managing that risk, and understanding the potential outcomes is essential. In general this article is about how to manage technical risk.
-
-## Three General Mediums of Technical Risk ##
+## Three General Parts of a Technical Infrastructure ##
 
 1. Those that are part of an aging physical/logical infrastructure.
 1. Those that are part of aging Commercial Off the Shelf Software (COTS).
@@ -43,15 +36,22 @@ My specialty is going to be in the custom software department. However, I will s
 
 ## Risk Mitigation ##
 
-Risk mitigation is about making informed decisions where the impact of those decisions are known to the best of our ability without sacrificing our ability to act within a meaningful time. This does not mean always eliminating or even covering a risk. It could be simply accepting and documenting our acceptance of a risk. The key point here is understanding the impact of that decision.
+Risk mitigation is about being able to make informed decisions about handling risks in a timely manor. These decisions cannot be perfectly informed as that most likely violates the ability to be timely. They do need to be informed though. That means we are not going on gut. It also means that we need to know what those decisions were in the past so that we can make informed decisions about when to reevaluate a risk.
 
-When evaluating impact, there are two measures that must be looked at. How likely is it that a problem will be caused by a risk, and how severe will it be when that problem is manifested.
+You will notice that I did not say that risk mitigation was about fixing risks. It may be impossible to fix every risk in a system. It is about making informed decisions. Those decisions can be to accept a risk and move on. We will need to document that decision and give ourselves a timeline to reevaluate the risk to ensure it has not become more severe.
+
+There are categories of measures they are:
+
+1. [Measures for How Likely is a Problem](#measures-for-how-likely-is-a-problem)
+2. [Measures of Severity of a Potential Problem](#measures-of-severity-of-a-potential-problem)
 
 Throughout this article, I talk about risks manifesting into problems. However, it needs to be stated that there are all kinds of problems. Some problems effect the customers of the system, others effect those who manage and maintain the system. There is cost to both types of problems so I do not differentiate between the two. Cost is cost, and when we evaluate the potential impact that will dictate the cost.
 
 ### A word about Ranking ###
 
 I do not provide a ranking system, as I have found these to be highly contextual. I do suggest that each measure be given a ranking system that fits your context. That will make evaluation easier. In doing this understand that it may take a few attempts to get a ranking system that accurately reflects the needs of your IT system.
+
+Below I use an example where each measure is assumed to have a ranking system from one to five. I do not define what those values mean because of the lack of contextual awareness I have for your system. So you can create a ranking system that used one to five or something else. Please configure to your heart's content.
 
 ## Measures for How Likely is a Problem ##
 
@@ -65,11 +65,11 @@ These have a direct effect on how likely a technical risk is to manifest a probl
 
 A part of an IT system that has caused problems will most likely cause problems again. The more frequently something has caused problems the more likely it is to do it again. Often these failures are caused by something not being really understood, or something being broken and not fixed or even not fixable.
 
-**Hardware** that has failed is likely to fail again. This is so intrinsically known that failure of a device is one of the surest ways to mark a device for replacement in the IT industry. This more often then not is caused by something breaking down in the hardware itself.
+**Hardware** that has failed is likely to fail again.
 
-**COTS** solutions that the team has created tickets for beyond initial setup, will most likely spawn new tickets in the future. This is most often caused by something not being fully understood, but can also be caused by the system aging, or underlying bugs in the software.
+**COTS** solutions that have issues after the initial scope of work, to install them into the business, will most likely continue to have issues. The cause for the continuing issues could be bugs in the software or lack of understanding on the team maintaining the solution.
 
-In **Custom Software** development, a file where bugs originate tends to spawn more bugs unless something is done to drastically change the system. Bugs, originating from a known file is usually caused by people not understanding the file, or some incorrect assumptions in creating the code that have not been addressed.
+In **Custom Software** development this is seen best by associate bugs with the files that changed to fix those bugs. Files that have spawned bugs in the past are more likely to spawn bugs in the future when compared to files that have not. This is not just in comparison to files that spawn no bugs. The more bugs a file has spawned in comparison to all other files, the more likely it is to spawn bugs in the future.
 
 #### Frequently Changed ####
 
@@ -79,7 +79,7 @@ If part of an IT system is frequently changed it is more likely to produce probl
 
 The more an IT system veers away from best, and accepted practices the more likely it is to be realized as a problem. This problem can come from the way the system violates these accepted norms, after-all they are accepted for a reason. However, the problem can also come from the confusion introduced by not following the accepted norms. People expect a system to be setup and operated in a certain way, and when the system violates that it can cause confusion.
 
-In **Custom Software** this can be represented by code smell density, though it is not the only way this can manifest.
+In **Custom Software** there are well defined ant-patterns and micro-anti patterns (the micro ones are called code smells). The more of these present in a section of code the more likely that section of code is to produce a bug. The section could be function, file, module, or even the whole application. The question is how dense are these anti-patterns when comparing the number of lines of code consumed by the anti-patterns when against the total lines of code within the section.
 
 #### Is Used Often ####
 
