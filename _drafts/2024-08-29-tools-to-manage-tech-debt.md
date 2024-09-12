@@ -8,8 +8,6 @@ tags: ['product ownership', 'agility', 'mindset', 'technical debt', 'stability']
 summary: 'A framework for analyzing, prioritizing, and dealing with technical debt.'
 ---
 
-* Need to fix mediums to talk about 3 parts of an IT infrastructure.
-
 ## Overview ##
 
 In this article, we shift the focus from the confusing term "Technical Debt" to a more practical and actionable approach of managing technical risk. The measures I provide are general enough to cover the various parts of an IT infrastructure. They may manifest differently depending on which part of the infrastructure they are in, but they are the same measure. These measures are intended to evaluate the likelihood and severity of a risk manifesting as a problem. By implementing a risk mitigation framework, you can prioritize and address risks effectively, ensuring the long-term stability and success of your IT systems.
@@ -55,7 +53,7 @@ Below I use an example where each measure is assumed to have a ranking system fr
 
 ## Measures for How Likely is a Problem ##
 
-There are a number of measures you can use to help identify a risk that will have a higher likely hood causing a problem. The "Key" measures are ones that directly indicate likeliness, where "Corollary" measures are ones that only hint at how likely it will be.
+There are a number of measures you can use to help identify a risk that will have a higher likelihood causing a problem. The "Key" measures are ones that directly indicate likeliness, where "Corollary" measures are ones that only hint at how likely it will be.
 
 ### Key Measures of Likelihood ###
 
@@ -79,7 +77,7 @@ If part of an IT system is frequently changed it is more likely to produce probl
 
 The more an IT system veers away from best, and accepted practices the more likely it is to be realized as a problem. This problem can come from the way the system violates these accepted norms, after-all they are accepted for a reason. However, the problem can also come from the confusion introduced by not following the accepted norms. People expect a system to be setup and operated in a certain way, and when the system violates that it can cause confusion.
 
-In **Custom Software** there are well defined ant-patterns and micro-anti patterns (the micro ones are called code smells). The more of these present in a section of code the more likely that section of code is to produce a bug. The section could be function, file, module, or even the whole application. The question is how dense are these anti-patterns when comparing the number of lines of code consumed by the anti-patterns when against the total lines of code within the section.
+In **Custom Software** there are well defined ant-patterns and micro-anti patterns (the micro ones are called code smells). The more of these present in a section of code the more likely that section of code is to produce a bug. The section could be function, file, module, or even the whole application. The question is how dense are these anti-patterns when comparing the number of lines of code consumed by the anti-patterns against the total lines of code within the section.
 
 #### Is Used Often ####
 
@@ -103,7 +101,7 @@ A part of the IT system that has a number of different technology risks associat
 
 #### Test Sparsity & Untrustworthiness ####
 
-A system that is tested _well_ is less likely to spawn problems. The problem is how do you determine the validity and density of those tests?
+A system that is tested _well_ is less likely to spawn problems. The problem is how do you determine the validity and effectiveness of those tests?
 
 In **Custom Developed** software, this relates to two metrics: Code Coverage + [Surviving Mutants](https://en.wikipedia.org/wiki/Mutation_testing) [1]. Neither tells you much about the validity of the tests individually, but having both tells you a lot.
 
@@ -121,10 +119,6 @@ When a problem is manifested in a system, it will effect all subsystems that rel
 
 In **Custom Developed** software, this can be a file or library that is used in several parts of a system or even across multiples systems.
 
-#### Configurations ####
-
-Configurations are tricky. They have long reaching effects that are not always obvious. They tend not to have control systems in place that record their changes. Lastly they are almost always impossible to test. These things make risks in a systems configuration likely to have a high severity level when they are realized.
-
 #### Number of People Impacted ####
 
 How often a system is used is the only measure that effect both how likely a problem is to occur and how severe the problem will be when it is realized. For the purposes of severity, it works similar to "Heavily Relied Upon" but instead of being subsystems impacted it is people impacted.
@@ -132,6 +126,10 @@ How often a system is used is the only measure that effect both how likely a pro
 #### Deals with Sensitive Data ####
 
 Any risk around sensitive data becomes significantly more severe once realized. The loss, or escaping of this data can cause huge loss to the company.
+
+#### Configurations ####
+
+Configurations are tricky. They have long reaching effects that are not always obvious. They tend not to have control systems in place that record their changes. Lastly they are almost always impossible to test. These things make risks in a systems configuration likely to have a high severity level when they are realized.
 
 ## An Example of Use ##
 
@@ -166,9 +164,9 @@ severity = (connectedness + configurations + impact + dataSensitivity)
 result = likelihood * severity
 ```
 
-Now in this formula `likelihood` will have a value from 5 to 25, and `severity` will have a range of 5 to 20. This gives the `result` a range from 25 to 500, but not all numbers are represented. We can then take these values and map them to a chart.
+Now in this formula `likelihood` will have a value from 5 to 25, and `severity` will have a range of 5 to 20. This gives the `result` a range from 25 to 500. Though the numbers in this range are not evenly distributed. As such I have included the number of possible times that a number in the range can come up.
 
-| Risk Value | Risk Severity |   Area Under Curve    |
+| Risk Value | Risk Severity |   Possible Outcomes   |
 |:----------:|:-------------:|:---------------------:|
 |   25 - 74  |    Trivial    | 42 possible outcomes  |
 |  75 - 121  |      Low      | 73 possible outcomes  |
@@ -178,17 +176,23 @@ Now in this formula `likelihood` will have a value from 5 to 25, and `severity` 
 
 Any risk that is rated as `High` or `Critical` is something that needs to be addressed immediately. If you are looking at incurring this risk in the future, the cost associated to this risk might not be worth it.
 
-Any risk that is rated as `Medium` or `Low` is something that can be slightly delayed and prioritized with and against normal work. This is not something that should be delayed indefinitely and requires a plan of action that describes when it will be addressed, or at the very least when it will be evaluated again. If you are looking into the future, risks of these ratings are not safe bets, but the cost associated with them can be managed. Just remember before making the decision to put off quality that will incur these risks that you include a plan for paying them back.
+Any risk that is rated as `Medium` or `Low` is something that can be slightly delayed and prioritized with and against normal work. This is not something that should be delayed indefinitely and requires a plan of action that describes when it will be addressed, or at the very least when it will be evaluated again. Just remember before making the decision to put off quality that will incur these risks that you include a plan for addressing them.
 
-Any risk that is rated as `Trivial` is as close to a safe bet as you can get. These risks are most often delayed indefinitely but include triggers that cause us to reevaluate them. If looking to make a decision about the future, if that decision incurs a `Trivial` risk and it provides value quickly, it is almost certainly worth it.
+Any risk that is rated as `Trivial` is as close to a safe bet as you can get. These risk may not be worth addressing.
 
 ## Summary ##
 
 Stop talking about "Technical Debt" in generic terms. Measure and evaluate the risk associated with the IT solution. You don't have to use the framework laid out in this article, but use something. And then apply that framework to making decisions about trade offs between time to market and system design.
+
+If you decide to use the framework given here, there is still work to do. You need to decide what qualifies each measure to have a value of one, five and each number between. I cannot decide that for you, as I don't have your context.
+
+It is also possible the measures I have laid out in this article are incomplete, or even don't match what you need. If that is so, find others.
+
+My call to action for you is to decide on something to measure the potential risk associated to your IT infrastructure parts. Then weigh those risks against potential gains as we develope new solutions. Make meaningful decisions as to when you tackle risk or invest in new opportunities.
 
 ## Additional Reading ##
 
 * [Dave Brown's Guest Post on Looking at the Strategic value of Technical Debt]({% post_url 2024/2024-08-26-misconceptions-of-technical-debt %})
 * [A detailed guide to measure the risk inherent in code design and structure]({% post_url 2021/2021-10-15-technical-risk %})
 
-[^1] [Mutation Testing](https://en.wikipedia.org/wiki/Mutation_testing)
+[^1] [Mutation Testing](https://en.wikipedia.org/wiki/Mutation_testing) provides a metric that give you an indication of how good software tests are at catching logic breaking changes in code.
