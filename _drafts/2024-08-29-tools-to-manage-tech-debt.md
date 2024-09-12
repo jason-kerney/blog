@@ -14,15 +14,15 @@ In this article, we shift the focus from the confusing term "Technical Debt" to 
 
 I will be giving you a list of measures that allow you to examine what risk is inherent in the system. These measures attempt to be objective however, they may require a subjective way to determine how much impact they have. There are two kinds of measures. Those that measure the first is one that measures the risk of a technical item causing a problem. The second measures the severity if a problem arises from a technical debt.
 
-Since the measures do not help without a framework to work with, I will provide a sample framework. This sample framework will make some assumptions about the way the measures are evaluated. I will assume they are given a numerical range, and then use that range to determine the the importance of resolving risks associated with technical debt.
+Since the measures do not help without a framework to work with, I will provide a sample framework. This sample framework will make some assumptions about the way the measures are evaluated. I will assume they are given a numerical range, and then use that range to determine the importance of resolving risks associated with technical debt.
 
-The measures I give here are an example and I believe make a safe default to start from. The focus of this article will feel like the example framework given. I want you to look beyond it and into what that framework does. It breaks technical debt down to allow us to measure its overall potential impact to a system. If you throw away the provided framework please think about how to break technical debt down.
+The measures I give here are an example and I believe make a safe default to start from. The focus of this article will feel like the example framework given. I want you to look beyond it and into what that framework does. It breaks technical debt down to allow us to measure its overall potential impact to a system. If you throw away the provided framework, please think about how to break technical debt down.
 
 ## Getting Words Out of the Way ##
 
 After this section, this article will no longer use the term "Technical Debt" or any term that resembles it. Technical Debt is a term I have seen cause confusion. The term was originally coined to allow discussion about the cost of delaying quality to make an accelerate time to market within a group of bankers. Most uses for this team have strayed away from its roots. In my opinion the only useful use of this term is when talking about the cost of delaying quality in favor of accelerating time to market.
 
-The rest of the article I will be talking about the term **risk**. All debt becomes risk once occurred as it represents an outflow of money attached to an obligation and interest. The interest rate represents the weighted severity of the risk. A higher the interest rate leads to a larger outflow of money and therefor reduces money available to capture new investments. A goal of a healthy company is to incur risk that is less then the reward gained by incurring that risk. I want to help our industry measure the potential cost wrapped up in the technical risk often hidden under the term "Technical Debt".
+The rest of the article I will be talking about the term **risk**. All debt becomes risk once occurred as it represents an outflow of money attached to an obligation and interest. The interest rate represents the weighted severity of the risk. A higher the interest rate leads to a larger outflow of money and therefor reduces money available to capture new investments. A goal of a healthy company is to incur risk that is less than the reward gained by incurring that risk. I want to help our industry measure the potential cost wrapped up in the technical risk often hidden under the term "Technical Debt".
 
 ## Three General Parts of a Technical Infrastructure ##
 
@@ -34,7 +34,7 @@ My specialty is going to be in the custom software department. However, I will s
 
 ## Risk Mitigation ##
 
-Risk mitigation is about being able to make informed decisions about handling risks in a timely manor. These decisions cannot be perfectly informed as that most likely violates the ability to be timely. They do need to be informed though. That means we are not going on gut. It also means that we need to know what those decisions were in the past so that we can make informed decisions about when to reevaluate a risk.
+Risk mitigation is about being able to make informed decisions about handling risks in a timely manner. These decisions cannot be perfectly informed as that most likely violates the ability to be timely. They do need to be informed though. That means we are not going on gut. It also means that we need to know what those decisions were in the past so that we can make informed decisions about when to reevaluate a risk.
 
 You will notice that I did not say that risk mitigation was about fixing risks. It may be impossible to fix every risk in a system. It is about making informed decisions. Those decisions can be to accept a risk and move on. We will need to document that decision and give ourselves a timeline to reevaluate the risk to ensure it has not become more severe.
 
@@ -43,7 +43,7 @@ There are categories of measures they are:
 1. [Measures for How Likely is a Problem](#measures-for-how-likely-is-a-problem)
 2. [Measures of Severity of a Potential Problem](#measures-of-severity-of-a-potential-problem)
 
-Throughout this article, I talk about risks manifesting into problems. However, it needs to be stated that there are all kinds of problems. Some problems effect the customers of the system, others effect those who manage and maintain the system. There is cost to both types of problems so I do not differentiate between the two. Cost is cost, and when we evaluate the potential impact that will dictate the cost.
+Throughout this article, I talk about risks manifesting into problems. However, it needs to be stated that there are all kinds of problems. Some problems effect the customers of the system, others effect those who manage and maintain the system. There is cost to both types of problems, so I do not differentiate between the two. Cost is cost, and when we evaluate the potential impact that will dictate the cost.
 
 ### A word about Ranking ###
 
@@ -65,7 +65,7 @@ A part of an IT system that has caused problems will most likely cause problems 
 
 **Hardware** that has failed is likely to fail again.
 
-**COTS** solutions that have issues after the initial scope of work, to install them into the business, will most likely continue to have issues. The cause for the continuing issues could be bugs in the software or lack of understanding on the team maintaining the solution.
+**COTS** solutions are expected to have a phase where the company installs and learns the software. After that initial phase, if a COTS solution has an issue, it is likely to continue to have issues. The cause for the continuing issues could be bugs in the software or lack of understanding on the team maintaining the solution.
 
 In **Custom Software** development this is seen best by associate bugs with the files that changed to fix those bugs. Files that have spawned bugs in the past are more likely to spawn bugs in the future when compared to files that have not. This is not just in comparison to files that spawn no bugs. The more bugs a file has spawned in comparison to all other files, the more likely it is to spawn bugs in the future.
 
@@ -77,7 +77,7 @@ If part of an IT system is frequently changed it is more likely to produce probl
 
 The more an IT system veers away from best, and accepted practices the more likely it is to be realized as a problem. This problem can come from the way the system violates these accepted norms, after-all they are accepted for a reason. However, the problem can also come from the confusion introduced by not following the accepted norms. People expect a system to be setup and operated in a certain way, and when the system violates that it can cause confusion.
 
-In **Custom Software** there are well defined ant-patterns and micro-anti patterns (the micro ones are called code smells). The more of these present in a section of code the more likely that section of code is to produce a bug. The section could be function, file, module, or even the whole application. The question is how dense are these anti-patterns when comparing the number of lines of code consumed by the anti-patterns against the total lines of code within the section.
+In **Custom Software** there are well defined ant-patterns and micro-anti patterns (the micro-ones are called code smells). The more of these present in a section of code the more likely that section of code is to produce a bug. The section could be function, file, module, or even the whole application. The question is how dense these anti-patterns when comparing the number of lines of code consumed by the anti-patterns against the total lines of code within the section.
 
 #### Is Used Often ####
 
@@ -107,7 +107,7 @@ In **Custom Developed** software, this relates to two metrics: Code Coverage + [
 
 ## Measures of Severity of a Potential Problem ##
 
-There are a number of things that can be examined to determine what the impact will be when risk is realized into a problem. These help us to prioritize risks when combined with how likely we believe a problem is to occur. At this time I do not know any Corollary Measures of Severity, so I will only list "Key" measures.
+There are a number of things that can be examined to determine what the impact will be when risk is realized into a problem. These help us to prioritize risks when combined with how likely we believe a problem is to occur. At this time, I do not know any Corollary Measures of Severity, so I will only list "Key" measures.
 
 ### Key Measures of Severity ###
 
@@ -115,7 +115,7 @@ These measures directly relate to the severity of a problem when it manifests. A
 
 #### Heavily Relied Upon ####
 
-When a problem is manifested in a system, it will effect all subsystems that rely on that system. This creates a chain of failures that cascades and increases impact.
+When a problem is manifested in a system, it will affect all subsystems that rely on that system. This creates a chain of failures that cascades and increases impact.
 
 In **Custom Developed** software, this can be a file or library that is used in several parts of a system or even across multiples systems.
 
@@ -125,11 +125,11 @@ How often a system is used is the only measure that effect both how likely a pro
 
 #### Deals with Sensitive Data ####
 
-Any risk around sensitive data becomes significantly more severe once realized. The loss, or escaping of this data can cause huge loss to the company.
+Any risk around sensitive data becomes significantly more severe once realized. The loss or escaping of this data can cause huge loss to the company.
 
 #### Configurations ####
 
-Configurations are tricky. They have long reaching effects that are not always obvious. They tend not to have control systems in place that record their changes. Lastly they are almost always impossible to test. These things make risks in a systems configuration likely to have a high severity level when they are realized.
+Configurations are tricky. They have effects that reach throughout the system that are not always obvious. They tend not to have control systems in place that record their changes. Lastly, they are almost always impossible to test. These things make risks in a systems configuration likely to have a high severity level when they are realized.
 
 ## An Example of Use ##
 
@@ -178,17 +178,17 @@ Any risk that is rated as `High` or `Critical` is something that needs to be add
 
 Any risk that is rated as `Medium` or `Low` is something that can be slightly delayed and prioritized with and against normal work. This is not something that should be delayed indefinitely and requires a plan of action that describes when it will be addressed, or at the very least when it will be evaluated again. Just remember before making the decision to put off quality that will incur these risks that you include a plan for addressing them.
 
-Any risk that is rated as `Trivial` is as close to a safe bet as you can get. These risk may not be worth addressing.
+Any risk that is rated as `Trivial` is as close to a safe bet as you can get and may not be worth addressing.
 
 ## Summary ##
 
-Stop talking about "Technical Debt" in generic terms. Measure and evaluate the risk associated with the IT solution. You don't have to use the framework laid out in this article, but use something. And then apply that framework to making decisions about trade offs between time to market and system design.
+Stop talking about "Technical Debt" in generic terms. Measure and evaluate the risk associated with the IT solution. You don't have to use the framework laid out in this article but use something. And then apply that framework to making decisions about tradeoffs between time to market and system design.
 
 If you decide to use the framework given here, there is still work to do. You need to decide what qualifies each measure to have a value of one, five and each number between. I cannot decide that for you, as I don't have your context.
 
 It is also possible the measures I have laid out in this article are incomplete, or even don't match what you need. If that is so, find others.
 
-My call to action for you is to decide on something to measure the potential risk associated to your IT infrastructure parts. Then weigh those risks against potential gains as we develope new solutions. Make meaningful decisions as to when you tackle risk or invest in new opportunities.
+My call to action for you is to decide on something to measure the potential risk associated to your IT infrastructure parts. Then weigh those risks against potential gains as we develop new solutions. Make meaningful decisions as to when you tackle risk or invest in new opportunities.
 
 ## Additional Reading ##
 
