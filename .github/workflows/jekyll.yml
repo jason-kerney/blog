@@ -2,7 +2,7 @@ name: Jekyll site CI/CD
 
 on:
   schedule:
-    - cron: "30 7 * * MON" # 7:30 AM UTC (12:30 AM PST) on Monday.
+    - cron: "30 7 * * 2" # 7:30 AM UTC (12:30 AM PST) on Tuesday.
   push:
     branches: [ main ]
   pull_request:
