@@ -1,12 +1,15 @@
 ---
 layout: post
 title: 'A practical approach to managing technical debt in IT systems'
-date: 2024-08-29 11:39
+date: 2025-07-15 00:10
 category: 'agility'
 author: 'jason-kerney'
-tags: ['product ownership', 'agility', 'mindset', 'technical debt', 'stability']
+tags: ['product ownership', 'agility', 'mindset', 'technical debt', 'stability', 'risk mitigation', 'code quality', 'tech strategy']
 summary: 'A framework for analyzing, prioritizing, and dealing with technical debt.'
 ---
+
+![Good Cable Management](/assets/img/posts/2025/07/pexels-cookiecutter-19166565.jpg){: width="50%" .center}
+_[Photo by panumas nikhomkhai](https://www.pexels.com/photo/modern-building-in-austria-19166565/) from [Pexels](https://www.pexels.com)_
 
 ## Overview ##
 
@@ -18,7 +21,17 @@ Since the measures do not help without a framework to work with, I will provide 
 
 The measures I give here are an example and I believe make a safe default to start from. The focus of this article will feel like the example framework given. I want you to look beyond it and into what that framework does. It breaks technical debt down to allow us to measure its overall potential impact to a system. If you throw away the provided framework, please think about how to break technical debt down.
 
-## Getting Words Out of the Way ##
+By the end of this article, you will have:
+* A clear understanding of why the term Technical Debt can be misleading and how reframing it as Technical Risk enables better decision-making.
+* A general-purpose framework for evaluating risk across different parts of IT infrastructure: physical/logical systems, COTS software, and custom code.
+* A categorized list of objective measures that help assess:
+  * How likely a risk is to manifest as a problem.
+  * How severe the impact would be if that problem occurs.
+* A scoring model that allows you to prioritize risks using a repeatable, context-aware process.
+* A practical method to guide conversations about trade-offs between speed, cost, and long-term system stability.
+
+
+## Why We’re Replacing the Term ‘Technical Debt’ ##
 
 After this section, this article will no longer use the term "Technical Debt" or any term that resembles it. Technical Debt is a term I have seen cause confusion. The term was originally coined to allow discussion about the cost of delaying quality to make an accelerate time to market within a group of bankers. Most uses for this team have strayed away from its roots. In my opinion the only useful use of this term is when talking about the cost of delaying quality in favor of accelerating time to market.
 
@@ -27,7 +40,7 @@ The rest of the article I will be talking about the term **risk**. All debt beco
 ## Three General Parts of a Technical Infrastructure ##
 
 1. Those that are part of an aging physical/logical infrastructure.
-1. Those that are part of aging Commercial Off the Shelf Software (COTS).
+1. Those that are part of aging Off-the-shelf Commercial Software (COTS).
 1. Those imbedded in custom software.
 
 My specialty is going to be in the custom software department. However, I will speak to the others to the ability that I can. Most of what I am going to talk about is general enough to cover all three types of technical risk. It is only when I give specific advice or examples will it pertain to a particular type of risk.
@@ -43,7 +56,7 @@ There are categories of measures they are:
 1. [Measures for How Likely is a Problem](#measures-for-how-likely-is-a-problem)
 2. [Measures of Severity of a Potential Problem](#measures-of-severity-of-a-potential-problem)
 
-Throughout this article, I talk about risks manifesting into problems. However, it needs to be stated that there are all kinds of problems. Some problems effect the customers of the system, others effect those who manage and maintain the system. There is cost to both types of problems, so I do not differentiate between the two. Cost is cost, and when we evaluate the potential impact that will dictate the cost.
+Throughout this article, I talk about risks manifesting into problems. However, it needs to be stated that there are all kinds of problems. Some problems affect the customers of the system, others effect those who manage and maintain the system. There is cost to both types of problems, so I do not differentiate between the two. Cost is cost, and when we evaluate the potential impact that will dictate the cost.
 
 ### A word about Ranking ###
 
@@ -53,7 +66,7 @@ Below I use an example where each measure is assumed to have a ranking system fr
 
 ## Measures for How Likely is a Problem ##
 
-There are a number of measures you can use to help identify a risk that will have a higher likelihood causing a problem. The "Key" measures are ones that directly indicate likeliness, where "Corollary" measures are ones that only hint at how likely it will be.
+There are a number of measures you can use to help identify a risk that will have a higher likelihood of causing a problem. The "Key" measures are ones that directly indicate likeliness, where "Corollary" measures are ones that only hint at how likely it will be.
 
 ### Key Measures of Likelihood ###
 
@@ -87,9 +100,11 @@ The more a system is used, the more the system will be explored. The more a syst
 
 These measures do not tell us directly how likely a risk is to manifest into a problem. They hint at the truth. However, the more corollary measures there are pointing to a likely problem being realized the more likely it will happen.
 
-#### Confusion ####
+#### Human Factors ####
 
 The harder a system is to understand the more likely something will go wrong with it.
+
+Areas of the code base where a single individual or a small subset of individuals knows what the code does. This increases the risk that when something goes wrong it will be expensive to fix it.
 
 #### End of Support ####
 
@@ -186,7 +201,7 @@ Stop talking about "Technical Debt" in generic terms. Measure and evaluate the r
 
 If you decide to use the framework given here, there is still work to do. You need to decide what qualifies each measure to have a value of one, five and each number between. I cannot decide that for you, as I don't have your context.
 
-It is also possible the measures I have laid out in this article are incomplete, or even don't match what you need. If that is so, find others.
+It is also possible the measures I have laid out in this article are incomplete, or even don't match what you need. If that is so, find others. Remember this framework I created here is configurable and adjustable to fit your needs. Adjust it to make it fit your organization.
 
 My call to action for you is to decide on something to measure the potential risk associated to your IT infrastructure parts. Then weigh those risks against potential gains as we develop new solutions. Make meaningful decisions as to when you tackle risk or invest in new opportunities.
 
