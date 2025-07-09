@@ -6,8 +6,8 @@ order: 5
 
 ## Work ##
 
-Working as a Software Engineering Manager. Seeing if I can improve things differently.
+After a year and half of being a Software Development Manager I am currently seeking employment.
 
 ## Current Book ##
 
-[Four Disciplines of Execution](https://a.co/d/h6Uq1wh).
+[Good Strategy/Bad Strategy: The Difference and Why It Matters](https://a.co/d/cm6aTaM) by Richard Rumelt
