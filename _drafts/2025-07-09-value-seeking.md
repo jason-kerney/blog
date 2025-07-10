@@ -53,4 +53,5 @@ There is an old riddle:
 
 On the surface getting the $10K up front seems pretty good. But if you look at the penny, at the end of 30 days you will have over 5 Million dollars.
 
-This is what we want. We want to have small solutions that incrementally grow effectiveness and efficiency.
+This is what we want. We want to have small solutions that incrementally grows effectiveness and efficiency.
+
