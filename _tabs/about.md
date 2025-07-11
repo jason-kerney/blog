@@ -13,13 +13,8 @@ Robert Jason Kerney, but goes by Jason.
 
 ## Summary
 
-I am a full stack developer who started professionally developing in 1997. I really enjoy working in messy complex legacy .Net Code.
+I’m Jason Kerney, a software engineer who genuinely loves legacy code. Weird, right? But to me, the stories hidden in old systems are just waiting to be told — and improved. I specialize in bringing clarity and simplicity to complex problems through Agile practices, test-first thinking, and lots of mentorship. I enjoy speaking, teaching, and building tools that empower developers. More importantly, I believe life is about relationships — with teammates, codebases, and my incredible family. I’m lucky to be married to my best friend, and a dad to two inspiring kids who keep me grounded and curious.
 
-I was blessed by finding wonderful mentors at the right times in my life and now I strive to pay that foreword.
-
-## Family
-
-I have a wife, 2 children, and two dogs.
 
 ## Publications
 
@@ -70,13 +65,15 @@ English is my only spoken & written language.
 - Video Games
 - Paper Dice Role Playing Games
 - Natural Language Creation
+- Boardgames
 
 ## Favorite Place to Visit
 
 Both of these places I have only been to once, but wish to go again:
 
-    Cinque Terre Italy
-    New Zealand
+* Cinque Terre Italy
+* New Zealand
+* Sky Lagoon Iceland
 
 ## Favorite Quote
 
