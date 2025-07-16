@@ -209,5 +209,3 @@ My call to action for you is to decide on something to measure the potential ris
 
 * [Dave Brown's Guest Post on Looking at the Strategic value of Technical Debt]({% post_url 2024/2024-08-26-misconceptions-of-technical-debt %})
 * [A detailed guide to measure the risk inherent in code design and structure]({% post_url 2021/2021-10-15-technical-risk %})
-
-[^1] [Mutation Testing](https://en.wikipedia.org/wiki/Mutation_testing) provides a metric that give you an indication of how good software tests are at catching logic breaking changes in code.
