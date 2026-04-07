@@ -34,7 +34,7 @@ Acting in Kindness prevents us from doing something that causes suffering. But t
 
 Kindness keeps me aware of the situation I do not tease a stranger, or a friend who is not in the state of mind to enjoy it. Kindness is what drives me to order food for an associate that just returned from the hospital. Kindness keeps me from giving critically focused feedback to a person who I think wont want it.
 
-#### Kindness Over Time ####
+#### Future-Focused Kindness ####
 
 Acting in Kindness with a view on the future is a different thing entirely. Here you are focused on future suffering not suffering in the now. Because of having a long term view of the situation your actions will be different. You may do something that increases suffering now but ultimately helps a person avoid more suffering in the future.
 
@@ -57,7 +57,7 @@ Acting with consideration is about taking into account how your actions will eff
 
 Consideration is what makes me offer my chair when someone enters a room where there are no more chairs, or refuses the chair that is prospered. It is the reason I consider the rules of etiquette before eating my food in a group.
 
-#### Consideration Over Time ####
+#### Future-Focused Consideration ####
 
 Acting with consideration is still about taking into account how your actions will effect another, but the perspective changes. The question isn't "How will my actions inconvenience someone now?" The question becomes "How will my actions have lasting impact on someone?"
 
@@ -77,4 +77,16 @@ If we only apply consideration in the moment, we will appear nice but uncaring. 
 
 ### Respect ###
 
-Respect is valuing the idea that someone has inherent value, and mastery of themselves.
+Respect is valuing the idea that someone has inherent value, and mastery over themselves.
+
+#### Respect in the Moment ####
+
+Respect is about valuing that someone is their own master. They have control over their wants and needs, and it is their decisions that rule them. So respect in the moment is really about allowing someone to be themselves, to act the way they see fit.
+
+Resect directs me to allow someone to leave a work space to get some air and recenter. It listens when a coworker states they need alone time to think. It also recognizes that some people think silently, so I do not need to prod them for being silent. Respect also forces me to accept when someone makes a bad decision or when a coworker rushes a job not taking the standard amount of care and craft. Respect also forces me to acknowledge that other people have different priorities and learn different skills then those I hold valuable.
+
+#### Future-Focused Respect ####
+
+Respect _is_ about valuing someone inherently. So when viewing out into the future, respect is accepting who they want to be, what they want to be doing.
+
+Here respect, has me firing someone because their working values don't match the teams. It has me inquiring about their actions and what their intent is. It has me stopping them, when they do something that contradicts this whish, and calling them on it even if it is awkward.
