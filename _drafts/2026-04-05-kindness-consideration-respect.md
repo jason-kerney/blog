@@ -61,7 +61,7 @@ Consideration is what makes me offer my chair when someone enters a room where t
 
 Acting with consideration is still about taking into account how your actions will effect another, but the perspective changes. The question isn't "How will my actions inconvenience someone now?" The question becomes "How will my actions have lasting impact on someone?"
 
-Consideration has me watching someone fail at something I could just do, because I see they are learning with the failure. It has me intentionally making a mistake to help someone else learn to correct me when I make a real one. It also has me push someone into public speaking knowing it will advance their career.
+Consideration has me watching someone fail at something I could just do, because I see they are learning with the failure. It has me intentionally making a mistake to help someone else learn to correct me when I make a real one. It also has me push someone into public speaking knowing it will advance their career. It has me giving a team member I am going to fire because they don't fit in with the team 3 months where they can spend half their day looking for new work.
 
 #### The Other Consideration ####
 
@@ -89,4 +89,24 @@ Resect directs me to allow someone to leave a work space to get some air and rec
 
 Respect _is_ about valuing someone inherently. So when viewing out into the future, respect is accepting who they want to be, what they want to be doing.
 
-Here respect, has me firing someone because their working values don't match the teams. It has me inquiring about their actions and what their intent is. It has me stopping them, when they do something that contradicts this whish, and calling them on it even if it is awkward.
+Here respect, has me firing someone because their working values don't match the teams so that they can find a place to work the way they want to work. It has me inquiring about their actions and what their intent is. It has me stopping them, when they do something that contradicts this whish, and calling them on it even if it is awkward.
+
+#### Respect is Rich ####
+
+Respect in the moment has me looking the other way because I respect your choices, where respect focused on the future has me questioning those same choices. Focusing only on the future makes me feel callous, cold, and distant. Where as focusing on the now leaves someone feeling invisible and uncared for.
+
+## Conflict Multiplies ##
+
+I have talked about the conflict of each value within itself based on the horizon of focus. But those are not the only conflicts that arise. Conflicts grow out of the interaction of these values with each other. And as you would expect these value conflict more when you add time horizons into the mix.
+
+### Kindness - Consideration ###
+
+This is an interesting point of contention. The desire to minimize suffering and the desire to put another's needs over our own.
+
+Allowing someone to struggle to learn is inherently an unkind act in the moment. Telling a team member that they are going to be fired in 3 months is an unkind act. Helping someone who's pride will be hurt is an inconsiderate action.
+
+These are the examples I gave above for future focused actions. We can look everyday and find dozens of kind or considerate actions that were not the other kind of action.
+
+### Kindness - Respect ###
+
+### Consideration - Respect ###
