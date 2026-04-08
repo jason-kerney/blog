@@ -89,15 +89,31 @@ There is one more aspect of consideration that is worth talking about. This is t
 
 ##### Consideration Thinks it Knows Better #####
 
+Consideration has an insidious side. It's goal is to fulfill the needs of others. This means that you _know_ the needs of others. And that you are positioned to give them their needs when they are not. It has ties to a kind of arrogance that can only be measured in how small others are. And worse than that, it easily blind the person who suffers from the arrogance, after all they are the ones giving up their resources to help another.
+
+That brings us to the problem with help, again. A relationship that is not balanced between individuals is poisonous to both. The martyr needs someone to be the person for whom they suffer. In the book [Leadership and Self Deception](https://a.co/d/06XyAmqx) the Abinger Institute writes a lot about a state they call collusion. Collusion is where 2 people act in ways that trigger each other, but subconsciously encourage each other to act in those ways. Consideration, when not done out of genuine altruism easily leads to this state.
+
+This does not mean that being considerate is arrogant. It means that consideration can hide behind arrogance. It can be twisted by it, or even morph into it if the person giving it does not carefully monitor themselves.
+
 ##### Consideration vs #####
 
-There is so much contradiction in the above paragraphs that it seems almost impossible to be truly considerate. When we act with a long term view we can and will violate consideration in the moment. But both are very much consideration.
+Consideration is such a powerful thing. It can be humbling to experience when it is perceived as being given genuinely. But it can morph, or come from a place that is not honest. It can look very different when given from the perspective of the future vs right now. In fact, the time perspective can force difficult decision.
 
-This starts to fail when we only apply one view to how we act. If we always act with consideration with a long term view we can appear to be callous or even sadistic. It appears exactly opposite, it feels like we are using consideration as a weapon.
+Right now is helpful. It is taking care of the person's need in the immediate. Offering someone your chair is a gesture that states you see them. Without the right now, people will not feel seen or heard or cared for.
 
-If we only apply consideration in the moment, we will appear nice but uncaring. People do not feel the push from us that shows we truly consider them.
+However, we live beyond the right now. Our lives continue on, and our choices right now may have impact into the future. Showing consideration looking forward in time is how you communicate that someone's well being actually matters. That they are part of the community.
+
+If either falters, and one time horizon is favored, so much is lost. Do we forget to tell people we see them? Do we not allow them into our community?
 
 ##### Consideration vs Kindness #####
+
+Consideration doesn't fail always on its own. Other values contribute to failure as they interact. Consideration and Kindness seem to go hand in hand. One strives to reduce or prevent suffering while the other strives to meet someone's needs. Isn't reduction of suffering a need?
+
+Well yes, they do compliment each other in so many ways. But what happens when someone's behavior is negatively effecting the team? Say that person is someone everyone loves.
+
+When thinking only in perspective of the person we can have all these waring views from each value. Consideration in the moment asks: "What is going on now that might be contributing and how can I help?" Consideration in the long term asks: "They might be hurting their relationships, what can I do to highlight that fact?" Kindness in the moment says: "There is no real harm yet, acting will cause harm." Kindness focused on the future says: "Harm is being done in small ways, as the person loses trust of the team. To stop this I need to stop this action."
+
+These are of course made up examples and there are many more ways to see these values in this scenario. And that is the issue. Consideration and Kindness can and often conflict. The conflict isn't a bug, it is a feature of having the values, and highlights areas where more care needs to be taken, and where simple answers are nonexistent.
 
 ### Respect ###
 
