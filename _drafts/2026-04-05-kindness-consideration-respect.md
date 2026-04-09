@@ -41,7 +41,7 @@ Acting in Kindness with a view on the future is a different thing entirely. Here
 Acting in kindness here has me giving critically focused feedback to a person. It has me offering to help teach someone even if I think the offer will hurt their pride. It has me show up with a lap top to a friend's home and tell them that because they are unemployed I am going to teach them to program, and they cannot dissuade me.
 
 
-#### Where Kindness Falls Down ####
+#### Kindness is Deep ####
 
 ##### Kindness Thinks its Superior #####
 
@@ -85,7 +85,7 @@ Consideration has me watching someone fail at something I could just do, because
 
 There is one more aspect of consideration that is worth talking about. This is the one that leads people to approach the work they do with craft. It is consideration, with a long term view, to work for both the best outcomes, and at the highest quality. The thing is this is really the same consideration. It is prioritizing others needs over your own, or even over a different person's.
 
-#### Where Consideration Falls Down ####
+#### Consideration is Layered ####
 
 ##### Consideration Thinks it Knows Better #####
 
@@ -95,7 +95,7 @@ That brings us to the problem with help, again. A relationship that is not balan
 
 This does not mean that being considerate is arrogant. It means that consideration can hide behind arrogance. It can be twisted by it, or even morph into it if the person giving it does not carefully monitor themselves.
 
-##### Consideration vs #####
+##### Consideration vs Consideration #####
 
 Consideration is such a powerful thing. It can be humbling to experience when it is perceived as being given genuinely. But it can morph, or come from a place that is not honest. It can look very different when given from the perspective of the future vs right now. In fact, the time perspective can force difficult decision.
 
@@ -103,7 +103,7 @@ Right now is helpful. It is taking care of the person's need in the immediate. O
 
 However, we live beyond the right now. Our lives continue on, and our choices right now may have impact into the future. Showing consideration looking forward in time is how you communicate that someone's well being actually matters. That they are part of the community.
 
-If either falters, and one time horizon is favored, so much is lost. Do we forget to tell people we see them? Do we not allow them into our community?
+If either falters, and one time horizon is favored, so much is lost. If we only apply consideration in the moment, we will appear nice but uncaring. People do not feel the push from us that shows we truly consider them. If we do not apply consideration in the moment, people do not feel seen. If we do not apply consideration focused on the future we tell others they are not part of our tribe.
 
 ##### Consideration vs Kindness #####
 
@@ -113,7 +113,7 @@ Well yes, they do compliment each other in so many ways. But what happens when s
 
 When thinking only in perspective of the person we can have all these waring views from each value. Consideration in the moment asks: "What is going on now that might be contributing and how can I help?" Consideration in the long term asks: "They might be hurting their relationships, what can I do to highlight that fact?" Kindness in the moment says: "There is no real harm yet, acting will cause harm." Kindness focused on the future says: "Harm is being done in small ways, as the person loses trust of the team. To stop this I need to stop this action."
 
-These are of course made up examples and there are many more ways to see these values in this scenario. And that is the issue. Consideration and Kindness can and often conflict. The conflict isn't a bug, it is a feature of having the values, and highlights areas where more care needs to be taken, and where simple answers are nonexistent.
+There are many more ways these values can interact in this scenario. That is the point. Consideration and Kindness can and often conflict. The conflict isn't a bug, it is a feature of having the values, and highlights areas where more care needs to be taken, and where simple answers are nonexistent.
 
 ### Respect ###
 
@@ -127,11 +127,36 @@ Resect directs me to allow someone to leave a work space to get some air and rec
 
 #### Future-Focused Respect ####
 
-Respect _is_ about valuing someone inherently. So when viewing out into the future, respect is accepting who they want to be, what they want to be doing.
+Respect _is_ about valuing someone's control over their sphere of influence. So when viewing out into the future, respect is accepting who they want to be, what they want to be doing.
 
 Here respect, has me firing someone because their working values don't match the teams so that they can find a place to work the way they want to work. It has me inquiring about their actions and what their intent is. It has me stopping them, when they do something that contradicts this whish, and calling them on it even if it is awkward.
 
 #### Respect is Rich ####
 
-Respect in the moment has me looking the other way because I respect your choices, where respect focused on the future has me questioning those same choices. Focusing only on the future makes me feel callous, cold, and distant. Where as focusing on the now leaves someone feeling invisible and uncared for.
+##### Respect is Distant #####
 
+To value some's innate control over their own world, you must not interfere. You have to leave them alone, and accept who they are and what they do. At its extreme it is isolating. A person who never interacts with another can claim they are respecting them in the moment. A person who never questions someone's goals and plans can claim they are respecting a person with a view of the future. After all this is what they say they want. So you want to rob some place, go ahead, just don't involve me.
+
+Notice the word _claim_ in the above sentences. That word is doing a lot. It distinguishes between respect and apathy. This one is a dangerous place to be because on the surface apathy can look a lot like respect. Even to ourselves. But the difference is about value. If I value your ability to control your own destiny then I respect you. If I appreciate that you control your own destiny ... over there... probably apathy.
+
+##### Respect vs Respect #####
+
+The differences between future and momentary respect are subtle, but feel very different. I can respect the choices you are making right now, even if they are not choices I would make. I can challenge those choices based on what you claim to want for yourself. If you say you are on a diet and order a huge slice of chocolate cake, I might question you, or even challenge you. Both are respect.
+
+It is the balancing of these view points that gives the layers to respect. You are torn between inaction and challenge. Confrontation, or silent support. Focusing only on the future feels callous, cold and distant because all you do is call out what the person is doing wrong. Where focusing on the moment makes someone feel invisible, uncared for, and isolated because there is no interaction or feedback.
+
+##### Respect vs Kindness #####
+
+Out of all the values Respect and Kindness feel the most alike. Both future view and focusing on the moment have actions that are very similar.
+
+When I am respecting you in the moment, I am not questioning your decisions. When I am kind in the moment I am not providing feedback, but instead trying to take care of your emotions. Both feel like a kind of inaction. In a group, you say you are not going to study tonight for a test tomorrow because you want to see a movie. I respect your ability to make that choice so I don't say or do anything. I don't want to cause you embarrass you by pointing out that you told me that you are struggling in the class.
+
+When I respect you with view on the future, I am questioning and challenging on actions that are contrary to your stated goals. When I am kind to you with the same temporal lense I am giving you crucial feedback on things that might cause you pain. When you announce that you are not going to study, respect that you need this class to get the degree you want, so I question your choice. I know that if you fail the test you will feel like a failure because of the challenges you have been having so I show kindness and and remind you of that.
+
+##### Respect vs Consideration #####
+
+Consideration and Respect feel the most opposite. It is consideration to offer aid to someone, and respect to allow them their choice. These two values seem to conflict at every level.
+
+In the moment consideration is about helping and giving someone what they need. Respect is about giving someone the space to make their own choice. I see that you have taken a task that is outside your current understanding. If I respect that choice, I just accept it. If I am considerate I would inform you that the choice you picked might be beyond you.
+
+Future focused respect is accepting someone's future desires. Where future focused consideration is about recognizing that those desires have outcomes, costs, and effort. So these conflict easily enough, as respect demands that you accept those desires and let the person act on them. Consideration is about questioning those desires or providing aid to achieve them. When you choose the task that is outside your understanding, I respect that this task does not align with your stated work goals and and ask you about it, challenge you about if you really want that task. If I am considerate, I would offer to work with you to help you gain the knowledge required.
