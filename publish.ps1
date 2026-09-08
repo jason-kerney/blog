@@ -1,1 +1,0 @@
-git push; git checkout master; git merge drafts; git push; git checkout drafts
